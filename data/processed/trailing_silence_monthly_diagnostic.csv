@@ -1,0 +1,23 @@
+Market_Id,Market_Name,Commodity_Id,Commodity_Name,Month,Last_Reported_Date,Dataset_Cutoff_Date,Trailing_Silent_Month,Is_Cutoff_Month_Partial,Exposed_Peer_Pairs,Active_Peer_Pairs,Peer_Monthly_Activity_Rate_Pct,Peer_Activity_At_Least_20_Pct
+40,Barisadri APMC,8,Mustard,2026-11,2026-10-16,2026-11-03,True,True,68,68,100.0,True
+45,Sardar Shahar APMC,8,Mustard,2026-10,2026-09-01,2026-11-03,True,False,101,99,98.01980198019803,True
+45,Sardar Shahar APMC,8,Mustard,2026-11,2026-09-01,2026-11-03,True,True,68,68,100.0,True
+82,Nohar APMC,2,Wheat,2026-11,2026-10-19,2026-11-03,True,True,59,59,100.0,True
+123,Kotputli APMC,2,Wheat,2026-07,2026-06-27,2026-11-03,True,False,99,98,98.98989898989899,True
+123,Kotputli APMC,2,Wheat,2026-08,2026-06-27,2026-11-03,True,False,98,97,98.9795918367347,True
+123,Kotputli APMC,2,Wheat,2026-09,2026-06-27,2026-11-03,True,False,97,97,100.0,True
+123,Kotputli APMC,2,Wheat,2026-10,2026-06-27,2026-11-03,True,False,91,91,100.0,True
+123,Kotputli APMC,2,Wheat,2026-11,2026-06-27,2026-11-03,True,True,59,59,100.0,True
+81,HanumangarhTown APMC,8,Mustard,2026-11,2026-10-27,2026-11-03,True,True,68,68,100.0,True
+18,Beawar APMC,2,Wheat,2026-11,2026-10-28,2026-11-03,True,True,59,59,100.0,True
+70,Rawla APMC,2,Wheat,2026-11,2026-10-23,2026-11-03,True,True,59,59,100.0,True
+115,Osiyan Mathania APMC,4,Bajra(Pearl Millet/Cumbu),2026-11,2026-10-26,2026-11-03,True,True,41,41,100.0,True
+98,Raniwara APMC,8,Mustard,2026-10,2026-09-22,2026-11-03,True,False,101,99,98.01980198019803,True
+98,Raniwara APMC,8,Mustard,2026-11,2026-09-22,2026-11-03,True,True,68,68,100.0,True
+81,HanumangarhTown APMC,2,Wheat,2026-11,2026-10-08,2026-11-03,True,True,59,59,100.0,True
+62,Anupgarh APMC,5,Bengal Gram(Gram)(Whole),2026-10,2026-09-14,2026-11-03,True,False,52,52,100.0,True
+62,Anupgarh APMC,5,Bengal Gram(Gram)(Whole),2026-11,2026-09-14,2026-11-03,True,True,35,35,100.0,True
+132,Sumerpur APMC,5,Bengal Gram(Gram)(Whole),2026-11,2026-10-27,2026-11-03,True,True,35,35,100.0,True
+25,Bhilwara APMC,8,Mustard,2026-09,2026-08-20,2026-11-03,True,False,111,107,96.3963963963964,True
+25,Bhilwara APMC,8,Mustard,2026-10,2026-08-20,2026-11-03,True,False,101,99,98.01980198019803,True
+25,Bhilwara APMC,8,Mustard,2026-11,2026-08-20,2026-11-03,True,True,68,68,100.0,True

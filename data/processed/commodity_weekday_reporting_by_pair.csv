@@ -1,0 +1,2766 @@
+Market_Id,Commodity_Id,Commodity_Name,Weekday,Total_Expected,Total_Reported,Pair_Reporting_Rate_Pct
+2,4,Bajra(Pearl Millet/Cumbu),Monday,201,131,65.17412935323384
+3,4,Bajra(Pearl Millet/Cumbu),Monday,200,148,74.0
+4,4,Bajra(Pearl Millet/Cumbu),Monday,87,38,43.67816091954023
+5,4,Bajra(Pearl Millet/Cumbu),Monday,201,125,62.189054726368155
+6,4,Bajra(Pearl Millet/Cumbu),Monday,201,148,73.6318407960199
+7,4,Bajra(Pearl Millet/Cumbu),Monday,201,89,44.27860696517413
+18,4,Bajra(Pearl Millet/Cumbu),Monday,201,40,19.900497512437813
+21,4,Bajra(Pearl Millet/Cumbu),Monday,200,113,56.49999999999999
+22,4,Bajra(Pearl Millet/Cumbu),Monday,201,139,69.15422885572139
+23,4,Bajra(Pearl Millet/Cumbu),Monday,123,89,72.35772357723577
+24,4,Bajra(Pearl Millet/Cumbu),Monday,200,137,68.5
+44,4,Bajra(Pearl Millet/Cumbu),Monday,201,115,57.2139303482587
+47,4,Bajra(Pearl Millet/Cumbu),Monday,201,129,64.17910447761194
+48,4,Bajra(Pearl Millet/Cumbu),Monday,201,146,72.636815920398
+49,4,Bajra(Pearl Millet/Cumbu),Monday,143,0,0.0
+50,4,Bajra(Pearl Millet/Cumbu),Monday,201,43,21.393034825870647
+51,4,Bajra(Pearl Millet/Cumbu),Monday,196,67,34.183673469387756
+52,4,Bajra(Pearl Millet/Cumbu),Monday,149,93,62.41610738255034
+53,4,Bajra(Pearl Millet/Cumbu),Monday,201,108,53.73134328358209
+55,4,Bajra(Pearl Millet/Cumbu),Monday,114,57,50.0
+56,4,Bajra(Pearl Millet/Cumbu),Monday,201,73,36.318407960199
+57,4,Bajra(Pearl Millet/Cumbu),Monday,200,80,40.0
+61,4,Bajra(Pearl Millet/Cumbu),Monday,200,51,25.5
+62,4,Bajra(Pearl Millet/Cumbu),Monday,200,39,19.5
+75,4,Bajra(Pearl Millet/Cumbu),Monday,200,45,22.5
+78,4,Bajra(Pearl Millet/Cumbu),Monday,197,37,18.781725888324875
+85,4,Bajra(Pearl Millet/Cumbu),Monday,199,45,22.613065326633166
+88,4,Bajra(Pearl Millet/Cumbu),Monday,201,154,76.61691542288557
+89,4,Bajra(Pearl Millet/Cumbu),Monday,200,115,57.49999999999999
+90,4,Bajra(Pearl Millet/Cumbu),Monday,201,141,70.1492537313433
+94,4,Bajra(Pearl Millet/Cumbu),Monday,127,69,54.330708661417326
+95,4,Bajra(Pearl Millet/Cumbu),Monday,149,72,48.322147651006716
+98,4,Bajra(Pearl Millet/Cumbu),Monday,195,59,30.256410256410255
+107,4,Bajra(Pearl Millet/Cumbu),Monday,201,68,33.83084577114428
+108,4,Bajra(Pearl Millet/Cumbu),Monday,141,45,31.914893617021278
+109,4,Bajra(Pearl Millet/Cumbu),Monday,201,70,34.82587064676617
+111,4,Bajra(Pearl Millet/Cumbu),Monday,198,63,31.818181818181817
+112,4,Bajra(Pearl Millet/Cumbu),Monday,201,69,34.32835820895522
+114,4,Bajra(Pearl Millet/Cumbu),Monday,176,74,42.04545454545455
+115,4,Bajra(Pearl Millet/Cumbu),Monday,199,32,16.08040201005025
+116,4,Bajra(Pearl Millet/Cumbu),Monday,200,121,60.5
+117,4,Bajra(Pearl Millet/Cumbu),Monday,200,124,62.0
+122,4,Bajra(Pearl Millet/Cumbu),Monday,140,52,37.142857142857146
+123,4,Bajra(Pearl Millet/Cumbu),Monday,174,39,22.413793103448278
+125,4,Bajra(Pearl Millet/Cumbu),Monday,201,133,66.16915422885572
+127,4,Bajra(Pearl Millet/Cumbu),Monday,111,47,42.34234234234234
+139,4,Bajra(Pearl Millet/Cumbu),Monday,161,92,57.14285714285714
+141,4,Bajra(Pearl Millet/Cumbu),Monday,201,164,81.59203980099502
+142,4,Bajra(Pearl Millet/Cumbu),Monday,201,138,68.65671641791045
+144,4,Bajra(Pearl Millet/Cumbu),Monday,109,49,44.95412844036697
+145,4,Bajra(Pearl Millet/Cumbu),Monday,201,110,54.72636815920397
+146,4,Bajra(Pearl Millet/Cumbu),Monday,201,138,68.65671641791045
+147,4,Bajra(Pearl Millet/Cumbu),Monday,200,169,84.5
+148,4,Bajra(Pearl Millet/Cumbu),Monday,201,124,61.69154228855721
+149,4,Bajra(Pearl Millet/Cumbu),Monday,201,98,48.756218905472636
+151,4,Bajra(Pearl Millet/Cumbu),Monday,200,61,30.5
+154,4,Bajra(Pearl Millet/Cumbu),Monday,197,45,22.84263959390863
+164,4,Bajra(Pearl Millet/Cumbu),Monday,91,47,51.64835164835166
+2,4,Bajra(Pearl Millet/Cumbu),Tuesday,201,147,73.13432835820896
+3,4,Bajra(Pearl Millet/Cumbu),Tuesday,200,147,73.5
+4,4,Bajra(Pearl Millet/Cumbu),Tuesday,87,32,36.7816091954023
+5,4,Bajra(Pearl Millet/Cumbu),Tuesday,201,130,64.6766169154229
+6,4,Bajra(Pearl Millet/Cumbu),Tuesday,201,153,76.11940298507463
+7,4,Bajra(Pearl Millet/Cumbu),Tuesday,201,95,47.2636815920398
+18,4,Bajra(Pearl Millet/Cumbu),Tuesday,201,64,31.8407960199005
+21,4,Bajra(Pearl Millet/Cumbu),Tuesday,200,112,56.00000000000001
+22,4,Bajra(Pearl Millet/Cumbu),Tuesday,201,128,63.681592039801
+23,4,Bajra(Pearl Millet/Cumbu),Tuesday,122,89,72.95081967213115
+24,4,Bajra(Pearl Millet/Cumbu),Tuesday,200,140,70.0
+44,4,Bajra(Pearl Millet/Cumbu),Tuesday,201,119,59.20398009950249
+47,4,Bajra(Pearl Millet/Cumbu),Tuesday,200,5,2.5
+48,4,Bajra(Pearl Millet/Cumbu),Tuesday,200,155,77.5
+49,4,Bajra(Pearl Millet/Cumbu),Tuesday,143,41,28.671328671328673
+50,4,Bajra(Pearl Millet/Cumbu),Tuesday,200,161,80.5
+51,4,Bajra(Pearl Millet/Cumbu),Tuesday,197,76,38.578680203045685
+52,4,Bajra(Pearl Millet/Cumbu),Tuesday,149,104,69.79865771812081
+53,4,Bajra(Pearl Millet/Cumbu),Tuesday,201,122,60.69651741293532
+55,4,Bajra(Pearl Millet/Cumbu),Tuesday,113,61,53.98230088495575
+56,4,Bajra(Pearl Millet/Cumbu),Tuesday,201,76,37.81094527363184
+57,4,Bajra(Pearl Millet/Cumbu),Tuesday,201,84,41.7910447761194
+61,4,Bajra(Pearl Millet/Cumbu),Tuesday,200,58,28.999999999999996
+62,4,Bajra(Pearl Millet/Cumbu),Tuesday,201,51,25.37313432835821
+75,4,Bajra(Pearl Millet/Cumbu),Tuesday,200,52,26.0
+78,4,Bajra(Pearl Millet/Cumbu),Tuesday,197,40,20.304568527918782
+85,4,Bajra(Pearl Millet/Cumbu),Tuesday,199,46,23.115577889447238
+88,4,Bajra(Pearl Millet/Cumbu),Tuesday,201,174,86.56716417910447
+89,4,Bajra(Pearl Millet/Cumbu),Tuesday,200,106,53.0
+90,4,Bajra(Pearl Millet/Cumbu),Tuesday,201,142,70.64676616915423
+94,4,Bajra(Pearl Millet/Cumbu),Tuesday,127,56,44.09448818897638
+95,4,Bajra(Pearl Millet/Cumbu),Tuesday,148,79,53.37837837837838
+98,4,Bajra(Pearl Millet/Cumbu),Tuesday,195,61,31.28205128205128
+107,4,Bajra(Pearl Millet/Cumbu),Tuesday,201,65,32.33830845771145
+108,4,Bajra(Pearl Millet/Cumbu),Tuesday,141,1,0.7092198581560284
+109,4,Bajra(Pearl Millet/Cumbu),Tuesday,201,70,34.82587064676617
+111,4,Bajra(Pearl Millet/Cumbu),Tuesday,198,54,27.27272727272727
+112,4,Bajra(Pearl Millet/Cumbu),Tuesday,200,64,32.0
+114,4,Bajra(Pearl Millet/Cumbu),Tuesday,176,78,44.31818181818182
+115,4,Bajra(Pearl Millet/Cumbu),Tuesday,198,37,18.68686868686869
+116,4,Bajra(Pearl Millet/Cumbu),Tuesday,200,123,61.5
+117,4,Bajra(Pearl Millet/Cumbu),Tuesday,200,134,67.0
+122,4,Bajra(Pearl Millet/Cumbu),Tuesday,140,56,40.0
+123,4,Bajra(Pearl Millet/Cumbu),Tuesday,175,34,19.428571428571427
+125,4,Bajra(Pearl Millet/Cumbu),Tuesday,201,131,65.17412935323384
+127,4,Bajra(Pearl Millet/Cumbu),Tuesday,111,47,42.34234234234234
+139,4,Bajra(Pearl Millet/Cumbu),Tuesday,161,94,58.38509316770186
+141,4,Bajra(Pearl Millet/Cumbu),Tuesday,201,164,81.59203980099502
+142,4,Bajra(Pearl Millet/Cumbu),Tuesday,201,139,69.15422885572139
+144,4,Bajra(Pearl Millet/Cumbu),Tuesday,109,53,48.62385321100918
+145,4,Bajra(Pearl Millet/Cumbu),Tuesday,200,100,50.0
+146,4,Bajra(Pearl Millet/Cumbu),Tuesday,201,131,65.17412935323384
+147,4,Bajra(Pearl Millet/Cumbu),Tuesday,200,164,82.0
+148,4,Bajra(Pearl Millet/Cumbu),Tuesday,200,6,3.0
+149,4,Bajra(Pearl Millet/Cumbu),Tuesday,201,94,46.766169154228855
+151,4,Bajra(Pearl Millet/Cumbu),Tuesday,200,55,27.500000000000004
+154,4,Bajra(Pearl Millet/Cumbu),Tuesday,197,57,28.934010152284262
+164,4,Bajra(Pearl Millet/Cumbu),Tuesday,91,44,48.35164835164835
+2,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,137,68.5
+3,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,138,69.0
+4,4,Bajra(Pearl Millet/Cumbu),Wednesday,87,32,36.7816091954023
+5,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,121,60.5
+6,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,153,76.5
+7,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,82,41.0
+18,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,40,20.0
+21,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,110,55.00000000000001
+22,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,134,67.0
+23,4,Bajra(Pearl Millet/Cumbu),Wednesday,122,88,72.1311475409836
+24,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,142,71.0
+44,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,118,59.0
+47,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,130,65.0
+48,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,153,76.5
+49,4,Bajra(Pearl Millet/Cumbu),Wednesday,144,49,34.02777777777778
+50,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,167,83.5
+51,4,Bajra(Pearl Millet/Cumbu),Wednesday,197,63,31.979695431472084
+52,4,Bajra(Pearl Millet/Cumbu),Wednesday,148,90,60.810810810810814
+53,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,125,62.5
+55,4,Bajra(Pearl Millet/Cumbu),Wednesday,113,60,53.09734513274337
+56,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,70,35.0
+57,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,85,42.5
+61,4,Bajra(Pearl Millet/Cumbu),Wednesday,199,44,22.110552763819097
+62,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,50,25.0
+75,4,Bajra(Pearl Millet/Cumbu),Wednesday,199,39,19.597989949748744
+78,4,Bajra(Pearl Millet/Cumbu),Wednesday,196,49,25.0
+85,4,Bajra(Pearl Millet/Cumbu),Wednesday,198,48,24.242424242424242
+88,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,165,82.5
+89,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,118,59.0
+90,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,146,73.0
+94,4,Bajra(Pearl Millet/Cumbu),Wednesday,126,58,46.03174603174603
+95,4,Bajra(Pearl Millet/Cumbu),Wednesday,148,77,52.02702702702703
+98,4,Bajra(Pearl Millet/Cumbu),Wednesday,196,78,39.795918367346935
+107,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,65,32.5
+108,4,Bajra(Pearl Millet/Cumbu),Wednesday,142,38,26.76056338028169
+109,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,66,33.0
+111,4,Bajra(Pearl Millet/Cumbu),Wednesday,197,66,33.50253807106599
+112,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,61,30.5
+114,4,Bajra(Pearl Millet/Cumbu),Wednesday,175,71,40.57142857142857
+115,4,Bajra(Pearl Millet/Cumbu),Wednesday,198,34,17.17171717171717
+116,4,Bajra(Pearl Millet/Cumbu),Wednesday,199,120,60.30150753768844
+117,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,135,67.5
+122,4,Bajra(Pearl Millet/Cumbu),Wednesday,141,50,35.46099290780142
+123,4,Bajra(Pearl Millet/Cumbu),Wednesday,175,47,26.857142857142858
+125,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,131,65.5
+127,4,Bajra(Pearl Millet/Cumbu),Wednesday,110,49,44.54545454545455
+139,4,Bajra(Pearl Millet/Cumbu),Wednesday,161,101,62.732919254658384
+141,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,153,76.5
+142,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,151,75.5
+144,4,Bajra(Pearl Millet/Cumbu),Wednesday,109,57,52.293577981651374
+145,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,102,51.0
+146,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,137,68.5
+147,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,173,86.5
+148,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,111,55.50000000000001
+149,4,Bajra(Pearl Millet/Cumbu),Wednesday,200,98,49.0
+151,4,Bajra(Pearl Millet/Cumbu),Wednesday,199,51,25.628140703517587
+154,4,Bajra(Pearl Millet/Cumbu),Wednesday,197,36,18.274111675126903
+164,4,Bajra(Pearl Millet/Cumbu),Wednesday,90,47,52.22222222222223
+2,4,Bajra(Pearl Millet/Cumbu),Thursday,200,134,67.0
+3,4,Bajra(Pearl Millet/Cumbu),Thursday,200,135,67.5
+4,4,Bajra(Pearl Millet/Cumbu),Thursday,86,35,40.69767441860465
+5,4,Bajra(Pearl Millet/Cumbu),Thursday,200,126,63.0
+6,4,Bajra(Pearl Millet/Cumbu),Thursday,200,137,68.5
+7,4,Bajra(Pearl Millet/Cumbu),Thursday,200,89,44.5
+18,4,Bajra(Pearl Millet/Cumbu),Thursday,200,50,25.0
+21,4,Bajra(Pearl Millet/Cumbu),Thursday,200,107,53.5
+22,4,Bajra(Pearl Millet/Cumbu),Thursday,200,119,59.5
+23,4,Bajra(Pearl Millet/Cumbu),Thursday,122,89,72.95081967213115
+24,4,Bajra(Pearl Millet/Cumbu),Thursday,200,139,69.5
+44,4,Bajra(Pearl Millet/Cumbu),Thursday,200,117,58.5
+47,4,Bajra(Pearl Millet/Cumbu),Thursday,200,115,57.49999999999999
+48,4,Bajra(Pearl Millet/Cumbu),Thursday,200,149,74.5
+49,4,Bajra(Pearl Millet/Cumbu),Thursday,144,42,29.166666666666668
+50,4,Bajra(Pearl Millet/Cumbu),Thursday,200,159,79.5
+51,4,Bajra(Pearl Millet/Cumbu),Thursday,197,63,31.979695431472084
+52,4,Bajra(Pearl Millet/Cumbu),Thursday,148,94,63.51351351351351
+53,4,Bajra(Pearl Millet/Cumbu),Thursday,200,120,60.0
+55,4,Bajra(Pearl Millet/Cumbu),Thursday,113,54,47.78761061946903
+56,4,Bajra(Pearl Millet/Cumbu),Thursday,200,80,40.0
+57,4,Bajra(Pearl Millet/Cumbu),Thursday,200,77,38.5
+61,4,Bajra(Pearl Millet/Cumbu),Thursday,200,52,26.0
+62,4,Bajra(Pearl Millet/Cumbu),Thursday,200,42,21.0
+75,4,Bajra(Pearl Millet/Cumbu),Thursday,199,41,20.603015075376884
+78,4,Bajra(Pearl Millet/Cumbu),Thursday,196,39,19.897959183673468
+85,4,Bajra(Pearl Millet/Cumbu),Thursday,198,43,21.71717171717172
+88,4,Bajra(Pearl Millet/Cumbu),Thursday,200,167,83.5
+89,4,Bajra(Pearl Millet/Cumbu),Thursday,200,107,53.5
+90,4,Bajra(Pearl Millet/Cumbu),Thursday,200,144,72.0
+94,4,Bajra(Pearl Millet/Cumbu),Thursday,126,57,45.23809523809524
+95,4,Bajra(Pearl Millet/Cumbu),Thursday,148,8,5.405405405405405
+98,4,Bajra(Pearl Millet/Cumbu),Thursday,196,59,30.102040816326532
+107,4,Bajra(Pearl Millet/Cumbu),Thursday,200,62,31.0
+108,4,Bajra(Pearl Millet/Cumbu),Thursday,142,45,31.690140845070424
+109,4,Bajra(Pearl Millet/Cumbu),Thursday,200,69,34.5
+111,4,Bajra(Pearl Millet/Cumbu),Thursday,197,64,32.48730964467005
+112,4,Bajra(Pearl Millet/Cumbu),Thursday,200,73,36.5
+114,4,Bajra(Pearl Millet/Cumbu),Thursday,175,63,36.0
+115,4,Bajra(Pearl Millet/Cumbu),Thursday,199,34,17.08542713567839
+116,4,Bajra(Pearl Millet/Cumbu),Thursday,199,115,57.78894472361809
+117,4,Bajra(Pearl Millet/Cumbu),Thursday,200,121,60.5
+122,4,Bajra(Pearl Millet/Cumbu),Thursday,141,41,29.078014184397162
+123,4,Bajra(Pearl Millet/Cumbu),Thursday,175,38,21.714285714285715
+125,4,Bajra(Pearl Millet/Cumbu),Thursday,200,137,68.5
+127,4,Bajra(Pearl Millet/Cumbu),Thursday,110,49,44.54545454545455
+139,4,Bajra(Pearl Millet/Cumbu),Thursday,161,92,57.14285714285714
+141,4,Bajra(Pearl Millet/Cumbu),Thursday,200,152,76.0
+142,4,Bajra(Pearl Millet/Cumbu),Thursday,200,143,71.5
+144,4,Bajra(Pearl Millet/Cumbu),Thursday,108,49,45.370370370370374
+145,4,Bajra(Pearl Millet/Cumbu),Thursday,200,101,50.5
+146,4,Bajra(Pearl Millet/Cumbu),Thursday,200,128,64.0
+147,4,Bajra(Pearl Millet/Cumbu),Thursday,199,165,82.91457286432161
+148,4,Bajra(Pearl Millet/Cumbu),Thursday,200,134,67.0
+149,4,Bajra(Pearl Millet/Cumbu),Thursday,200,86,43.0
+151,4,Bajra(Pearl Millet/Cumbu),Thursday,199,54,27.1356783919598
+154,4,Bajra(Pearl Millet/Cumbu),Thursday,197,36,18.274111675126903
+164,4,Bajra(Pearl Millet/Cumbu),Thursday,90,47,52.22222222222223
+2,4,Bajra(Pearl Millet/Cumbu),Friday,200,146,73.0
+3,4,Bajra(Pearl Millet/Cumbu),Friday,199,118,59.2964824120603
+4,4,Bajra(Pearl Millet/Cumbu),Friday,87,32,36.7816091954023
+5,4,Bajra(Pearl Millet/Cumbu),Friday,200,120,60.0
+6,4,Bajra(Pearl Millet/Cumbu),Friday,200,136,68.0
+7,4,Bajra(Pearl Millet/Cumbu),Friday,200,87,43.5
+18,4,Bajra(Pearl Millet/Cumbu),Friday,200,40,20.0
+21,4,Bajra(Pearl Millet/Cumbu),Friday,200,83,41.5
+22,4,Bajra(Pearl Millet/Cumbu),Friday,200,134,67.0
+23,4,Bajra(Pearl Millet/Cumbu),Friday,122,88,72.1311475409836
+24,4,Bajra(Pearl Millet/Cumbu),Friday,199,100,50.25125628140703
+44,4,Bajra(Pearl Millet/Cumbu),Friday,200,110,55.00000000000001
+47,4,Bajra(Pearl Millet/Cumbu),Friday,200,86,43.0
+48,4,Bajra(Pearl Millet/Cumbu),Friday,200,124,62.0
+49,4,Bajra(Pearl Millet/Cumbu),Friday,143,30,20.97902097902098
+50,4,Bajra(Pearl Millet/Cumbu),Friday,200,154,77.0
+51,4,Bajra(Pearl Millet/Cumbu),Friday,196,61,31.122448979591837
+52,4,Bajra(Pearl Millet/Cumbu),Friday,149,97,65.1006711409396
+53,4,Bajra(Pearl Millet/Cumbu),Friday,200,106,53.0
+55,4,Bajra(Pearl Millet/Cumbu),Friday,114,52,45.614035087719294
+56,4,Bajra(Pearl Millet/Cumbu),Friday,200,69,34.5
+57,4,Bajra(Pearl Millet/Cumbu),Friday,200,87,43.5
+61,4,Bajra(Pearl Millet/Cumbu),Friday,200,59,29.5
+62,4,Bajra(Pearl Millet/Cumbu),Friday,200,47,23.5
+75,4,Bajra(Pearl Millet/Cumbu),Friday,200,44,22.0
+78,4,Bajra(Pearl Millet/Cumbu),Friday,196,42,21.428571428571427
+85,4,Bajra(Pearl Millet/Cumbu),Friday,199,43,21.608040201005025
+88,4,Bajra(Pearl Millet/Cumbu),Friday,200,166,83.0
+89,4,Bajra(Pearl Millet/Cumbu),Friday,200,104,52.0
+90,4,Bajra(Pearl Millet/Cumbu),Friday,200,115,57.49999999999999
+94,4,Bajra(Pearl Millet/Cumbu),Friday,127,26,20.47244094488189
+95,4,Bajra(Pearl Millet/Cumbu),Friday,148,71,47.97297297297297
+98,4,Bajra(Pearl Millet/Cumbu),Friday,196,73,37.244897959183675
+107,4,Bajra(Pearl Millet/Cumbu),Friday,200,58,28.999999999999996
+108,4,Bajra(Pearl Millet/Cumbu),Friday,142,26,18.30985915492958
+109,4,Bajra(Pearl Millet/Cumbu),Friday,200,56,28.000000000000004
+111,4,Bajra(Pearl Millet/Cumbu),Friday,198,65,32.82828282828283
+112,4,Bajra(Pearl Millet/Cumbu),Friday,200,62,31.0
+114,4,Bajra(Pearl Millet/Cumbu),Friday,175,69,39.42857142857143
+115,4,Bajra(Pearl Millet/Cumbu),Friday,199,51,25.628140703517587
+116,4,Bajra(Pearl Millet/Cumbu),Friday,199,134,67.33668341708542
+117,4,Bajra(Pearl Millet/Cumbu),Friday,199,126,63.31658291457286
+122,4,Bajra(Pearl Millet/Cumbu),Friday,140,44,31.428571428571427
+123,4,Bajra(Pearl Millet/Cumbu),Friday,174,37,21.26436781609195
+125,4,Bajra(Pearl Millet/Cumbu),Friday,200,124,62.0
+127,4,Bajra(Pearl Millet/Cumbu),Friday,110,45,40.909090909090914
+139,4,Bajra(Pearl Millet/Cumbu),Friday,161,81,50.31055900621118
+141,4,Bajra(Pearl Millet/Cumbu),Friday,200,155,77.5
+142,4,Bajra(Pearl Millet/Cumbu),Friday,200,103,51.5
+144,4,Bajra(Pearl Millet/Cumbu),Friday,108,32,29.629629629629626
+145,4,Bajra(Pearl Millet/Cumbu),Friday,200,102,51.0
+146,4,Bajra(Pearl Millet/Cumbu),Friday,200,131,65.5
+147,4,Bajra(Pearl Millet/Cumbu),Friday,199,163,81.90954773869346
+148,4,Bajra(Pearl Millet/Cumbu),Friday,200,122,61.0
+149,4,Bajra(Pearl Millet/Cumbu),Friday,200,100,50.0
+151,4,Bajra(Pearl Millet/Cumbu),Friday,200,53,26.5
+154,4,Bajra(Pearl Millet/Cumbu),Friday,197,38,19.289340101522843
+164,4,Bajra(Pearl Millet/Cumbu),Friday,91,35,38.46153846153847
+2,4,Bajra(Pearl Millet/Cumbu),Saturday,200,133,66.5
+3,4,Bajra(Pearl Millet/Cumbu),Saturday,199,110,55.27638190954774
+4,4,Bajra(Pearl Millet/Cumbu),Saturday,87,37,42.5287356321839
+5,4,Bajra(Pearl Millet/Cumbu),Saturday,200,122,61.0
+6,4,Bajra(Pearl Millet/Cumbu),Saturday,200,135,67.5
+7,4,Bajra(Pearl Millet/Cumbu),Saturday,200,81,40.5
+18,4,Bajra(Pearl Millet/Cumbu),Saturday,200,7,3.5000000000000004
+21,4,Bajra(Pearl Millet/Cumbu),Saturday,200,84,42.0
+22,4,Bajra(Pearl Millet/Cumbu),Saturday,200,99,49.5
+23,4,Bajra(Pearl Millet/Cumbu),Saturday,123,84,68.29268292682927
+24,4,Bajra(Pearl Millet/Cumbu),Saturday,199,102,51.256281407035175
+44,4,Bajra(Pearl Millet/Cumbu),Saturday,200,93,46.5
+47,4,Bajra(Pearl Millet/Cumbu),Saturday,200,89,44.5
+48,4,Bajra(Pearl Millet/Cumbu),Saturday,200,121,60.5
+49,4,Bajra(Pearl Millet/Cumbu),Saturday,143,27,18.88111888111888
+50,4,Bajra(Pearl Millet/Cumbu),Saturday,200,123,61.5
+51,4,Bajra(Pearl Millet/Cumbu),Saturday,196,52,26.53061224489796
+52,4,Bajra(Pearl Millet/Cumbu),Saturday,149,79,53.02013422818792
+53,4,Bajra(Pearl Millet/Cumbu),Saturday,200,79,39.5
+55,4,Bajra(Pearl Millet/Cumbu),Saturday,114,36,31.57894736842105
+56,4,Bajra(Pearl Millet/Cumbu),Saturday,200,62,31.0
+57,4,Bajra(Pearl Millet/Cumbu),Saturday,200,64,32.0
+61,4,Bajra(Pearl Millet/Cumbu),Saturday,200,39,19.5
+62,4,Bajra(Pearl Millet/Cumbu),Saturday,200,31,15.5
+75,4,Bajra(Pearl Millet/Cumbu),Saturday,200,38,19.0
+78,4,Bajra(Pearl Millet/Cumbu),Saturday,197,31,15.736040609137056
+85,4,Bajra(Pearl Millet/Cumbu),Saturday,199,27,13.5678391959799
+88,4,Bajra(Pearl Millet/Cumbu),Saturday,200,156,78.0
+89,4,Bajra(Pearl Millet/Cumbu),Saturday,199,99,49.74874371859296
+90,4,Bajra(Pearl Millet/Cumbu),Saturday,200,101,50.5
+94,4,Bajra(Pearl Millet/Cumbu),Saturday,127,30,23.62204724409449
+95,4,Bajra(Pearl Millet/Cumbu),Saturday,148,65,43.91891891891892
+98,4,Bajra(Pearl Millet/Cumbu),Saturday,196,60,30.612244897959183
+107,4,Bajra(Pearl Millet/Cumbu),Saturday,200,52,26.0
+108,4,Bajra(Pearl Millet/Cumbu),Saturday,142,24,16.901408450704224
+109,4,Bajra(Pearl Millet/Cumbu),Saturday,200,42,21.0
+111,4,Bajra(Pearl Millet/Cumbu),Saturday,198,70,35.35353535353536
+112,4,Bajra(Pearl Millet/Cumbu),Saturday,200,55,27.500000000000004
+114,4,Bajra(Pearl Millet/Cumbu),Saturday,175,32,18.285714285714285
+115,4,Bajra(Pearl Millet/Cumbu),Saturday,199,14,7.035175879396985
+116,4,Bajra(Pearl Millet/Cumbu),Saturday,199,128,64.321608040201
+117,4,Bajra(Pearl Millet/Cumbu),Saturday,199,129,64.82412060301507
+122,4,Bajra(Pearl Millet/Cumbu),Saturday,140,45,32.142857142857146
+123,4,Bajra(Pearl Millet/Cumbu),Saturday,174,32,18.39080459770115
+125,4,Bajra(Pearl Millet/Cumbu),Saturday,200,98,49.0
+127,4,Bajra(Pearl Millet/Cumbu),Saturday,110,39,35.45454545454545
+139,4,Bajra(Pearl Millet/Cumbu),Saturday,161,59,36.64596273291926
+141,4,Bajra(Pearl Millet/Cumbu),Saturday,200,147,73.5
+142,4,Bajra(Pearl Millet/Cumbu),Saturday,200,93,46.5
+144,4,Bajra(Pearl Millet/Cumbu),Saturday,108,44,40.74074074074074
+145,4,Bajra(Pearl Millet/Cumbu),Saturday,200,84,42.0
+146,4,Bajra(Pearl Millet/Cumbu),Saturday,200,110,55.00000000000001
+147,4,Bajra(Pearl Millet/Cumbu),Saturday,199,151,75.87939698492463
+148,4,Bajra(Pearl Millet/Cumbu),Saturday,200,124,62.0
+149,4,Bajra(Pearl Millet/Cumbu),Saturday,200,87,43.5
+151,4,Bajra(Pearl Millet/Cumbu),Saturday,200,50,25.0
+154,4,Bajra(Pearl Millet/Cumbu),Saturday,197,28,14.213197969543149
+164,4,Bajra(Pearl Millet/Cumbu),Saturday,91,23,25.274725274725274
+2,4,Bajra(Pearl Millet/Cumbu),Sunday,200,1,0.5
+3,4,Bajra(Pearl Millet/Cumbu),Sunday,199,5,2.512562814070352
+4,4,Bajra(Pearl Millet/Cumbu),Sunday,87,0,0.0
+5,4,Bajra(Pearl Millet/Cumbu),Sunday,200,0,0.0
+6,4,Bajra(Pearl Millet/Cumbu),Sunday,200,1,0.5
+7,4,Bajra(Pearl Millet/Cumbu),Sunday,200,0,0.0
+18,4,Bajra(Pearl Millet/Cumbu),Sunday,200,7,3.5000000000000004
+21,4,Bajra(Pearl Millet/Cumbu),Sunday,199,0,0.0
+22,4,Bajra(Pearl Millet/Cumbu),Sunday,200,0,0.0
+23,4,Bajra(Pearl Millet/Cumbu),Sunday,123,5,4.0650406504065035
+24,4,Bajra(Pearl Millet/Cumbu),Sunday,199,3,1.507537688442211
+44,4,Bajra(Pearl Millet/Cumbu),Sunday,200,1,0.5
+47,4,Bajra(Pearl Millet/Cumbu),Sunday,201,126,62.68656716417911
+48,4,Bajra(Pearl Millet/Cumbu),Sunday,200,1,0.5
+49,4,Bajra(Pearl Millet/Cumbu),Sunday,143,22,15.384615384615385
+50,4,Bajra(Pearl Millet/Cumbu),Sunday,201,108,53.73134328358209
+51,4,Bajra(Pearl Millet/Cumbu),Sunday,196,0,0.0
+52,4,Bajra(Pearl Millet/Cumbu),Sunday,149,0,0.0
+53,4,Bajra(Pearl Millet/Cumbu),Sunday,201,62,30.845771144278604
+55,4,Bajra(Pearl Millet/Cumbu),Sunday,114,0,0.0
+56,4,Bajra(Pearl Millet/Cumbu),Sunday,200,0,0.0
+57,4,Bajra(Pearl Millet/Cumbu),Sunday,200,14,7.000000000000001
+61,4,Bajra(Pearl Millet/Cumbu),Sunday,200,0,0.0
+62,4,Bajra(Pearl Millet/Cumbu),Sunday,200,1,0.5
+75,4,Bajra(Pearl Millet/Cumbu),Sunday,200,0,0.0
+78,4,Bajra(Pearl Millet/Cumbu),Sunday,197,0,0.0
+85,4,Bajra(Pearl Millet/Cumbu),Sunday,199,2,1.0050251256281406
+88,4,Bajra(Pearl Millet/Cumbu),Sunday,200,0,0.0
+89,4,Bajra(Pearl Millet/Cumbu),Sunday,199,0,0.0
+90,4,Bajra(Pearl Millet/Cumbu),Sunday,200,3,1.5
+94,4,Bajra(Pearl Millet/Cumbu),Sunday,127,71,55.90551181102362
+95,4,Bajra(Pearl Millet/Cumbu),Sunday,149,76,51.006711409395976
+98,4,Bajra(Pearl Millet/Cumbu),Sunday,195,3,1.5384615384615385
+107,4,Bajra(Pearl Millet/Cumbu),Sunday,201,41,20.398009950248756
+108,4,Bajra(Pearl Millet/Cumbu),Sunday,142,42,29.577464788732392
+109,4,Bajra(Pearl Millet/Cumbu),Sunday,200,3,1.5
+111,4,Bajra(Pearl Millet/Cumbu),Sunday,198,64,32.323232323232325
+112,4,Bajra(Pearl Millet/Cumbu),Sunday,201,48,23.88059701492537
+114,4,Bajra(Pearl Millet/Cumbu),Sunday,175,2,1.1428571428571428
+115,4,Bajra(Pearl Millet/Cumbu),Sunday,199,1,0.5025125628140703
+116,4,Bajra(Pearl Millet/Cumbu),Sunday,199,1,0.5025125628140703
+117,4,Bajra(Pearl Millet/Cumbu),Sunday,199,1,0.5025125628140703
+122,4,Bajra(Pearl Millet/Cumbu),Sunday,140,0,0.0
+123,4,Bajra(Pearl Millet/Cumbu),Sunday,174,9,5.172413793103448
+125,4,Bajra(Pearl Millet/Cumbu),Sunday,200,0,0.0
+127,4,Bajra(Pearl Millet/Cumbu),Sunday,110,12,10.909090909090908
+139,4,Bajra(Pearl Millet/Cumbu),Sunday,161,2,1.2422360248447204
+141,4,Bajra(Pearl Millet/Cumbu),Sunday,200,0,0.0
+142,4,Bajra(Pearl Millet/Cumbu),Sunday,200,2,1.0
+144,4,Bajra(Pearl Millet/Cumbu),Sunday,108,2,1.8518518518518516
+145,4,Bajra(Pearl Millet/Cumbu),Sunday,200,0,0.0
+146,4,Bajra(Pearl Millet/Cumbu),Sunday,200,0,0.0
+147,4,Bajra(Pearl Millet/Cumbu),Sunday,199,1,0.5025125628140703
+148,4,Bajra(Pearl Millet/Cumbu),Sunday,201,108,53.73134328358209
+149,4,Bajra(Pearl Millet/Cumbu),Sunday,200,1,0.5
+151,4,Bajra(Pearl Millet/Cumbu),Sunday,200,2,1.0
+154,4,Bajra(Pearl Millet/Cumbu),Sunday,196,9,4.591836734693878
+164,4,Bajra(Pearl Millet/Cumbu),Sunday,91,4,4.395604395604396
+1,3,Barley(Jau),Monday,196,92,46.93877551020408
+2,3,Barley(Jau),Monday,201,134,66.66666666666666
+3,3,Barley(Jau),Monday,182,76,41.75824175824176
+18,3,Barley(Jau),Monday,187,35,18.71657754010695
+19,3,Barley(Jau),Monday,188,89,47.340425531914896
+25,3,Barley(Jau),Monday,190,44,23.157894736842106
+28,3,Barley(Jau),Monday,190,50,26.31578947368421
+32,3,Barley(Jau),Monday,170,42,24.705882352941178
+36,3,Barley(Jau),Monday,197,72,36.54822335025381
+37,3,Barley(Jau),Monday,188,65,34.57446808510639
+40,3,Barley(Jau),Monday,193,41,21.243523316062177
+43,3,Barley(Jau),Monday,201,134,66.66666666666666
+47,3,Barley(Jau),Monday,201,90,44.776119402985074
+48,3,Barley(Jau),Monday,199,130,65.32663316582915
+50,3,Barley(Jau),Monday,197,25,12.690355329949238
+52,3,Barley(Jau),Monday,148,34,22.972972972972975
+62,3,Barley(Jau),Monday,198,59,29.797979797979796
+63,3,Barley(Jau),Monday,186,85,45.69892473118279
+64,3,Barley(Jau),Monday,190,44,23.157894736842106
+65,3,Barley(Jau),Monday,186,39,20.967741935483872
+66,3,Barley(Jau),Monday,198,79,39.8989898989899
+67,3,Barley(Jau),Monday,172,36,20.930232558139537
+68,3,Barley(Jau),Monday,187,61,32.62032085561498
+72,3,Barley(Jau),Monday,184,56,30.434782608695656
+73,3,Barley(Jau),Monday,182,39,21.428571428571427
+74,3,Barley(Jau),Monday,194,50,25.773195876288657
+75,3,Barley(Jau),Monday,200,93,46.5
+76,3,Barley(Jau),Monday,189,51,26.984126984126984
+78,3,Barley(Jau),Monday,188,60,31.914893617021278
+82,3,Barley(Jau),Monday,192,36,18.75
+85,3,Barley(Jau),Monday,180,37,20.555555555555554
+88,3,Barley(Jau),Monday,199,141,70.85427135678391
+89,3,Barley(Jau),Monday,199,99,49.74874371859296
+90,3,Barley(Jau),Monday,199,95,47.73869346733669
+95,3,Barley(Jau),Monday,147,46,31.292517006802722
+109,3,Barley(Jau),Monday,190,40,21.052631578947366
+117,3,Barley(Jau),Monday,182,57,31.318681318681318
+120,3,Barley(Jau),Monday,199,99,49.74874371859296
+134,3,Barley(Jau),Monday,138,81,58.69565217391305
+135,3,Barley(Jau),Monday,135,62,45.925925925925924
+139,3,Barley(Jau),Monday,158,42,26.582278481012654
+141,3,Barley(Jau),Monday,193,84,43.523316062176164
+145,3,Barley(Jau),Monday,200,40,20.0
+146,3,Barley(Jau),Monday,200,133,66.5
+147,3,Barley(Jau),Monday,195,134,68.71794871794872
+148,3,Barley(Jau),Monday,198,125,63.13131313131313
+149,3,Barley(Jau),Monday,194,78,40.20618556701031
+151,3,Barley(Jau),Monday,197,75,38.07106598984771
+153,3,Barley(Jau),Monday,190,60,31.57894736842105
+154,3,Barley(Jau),Monday,197,45,22.84263959390863
+1,3,Barley(Jau),Tuesday,197,100,50.76142131979695
+2,3,Barley(Jau),Tuesday,201,139,69.15422885572139
+3,3,Barley(Jau),Tuesday,183,73,39.89071038251366
+18,3,Barley(Jau),Tuesday,186,59,31.72043010752688
+19,3,Barley(Jau),Tuesday,188,89,47.340425531914896
+25,3,Barley(Jau),Tuesday,190,43,22.63157894736842
+28,3,Barley(Jau),Tuesday,190,51,26.842105263157894
+32,3,Barley(Jau),Tuesday,170,43,25.294117647058822
+36,3,Barley(Jau),Tuesday,197,86,43.65482233502538
+37,3,Barley(Jau),Tuesday,188,67,35.638297872340424
+40,3,Barley(Jau),Tuesday,192,42,21.875
+43,3,Barley(Jau),Tuesday,200,136,68.0
+47,3,Barley(Jau),Tuesday,200,3,1.5
+48,3,Barley(Jau),Tuesday,199,136,68.34170854271356
+50,3,Barley(Jau),Tuesday,197,111,56.34517766497462
+52,3,Barley(Jau),Tuesday,148,34,22.972972972972975
+62,3,Barley(Jau),Tuesday,198,52,26.262626262626267
+63,3,Barley(Jau),Tuesday,185,82,44.32432432432433
+64,3,Barley(Jau),Tuesday,190,41,21.578947368421055
+65,3,Barley(Jau),Tuesday,186,45,24.193548387096776
+66,3,Barley(Jau),Tuesday,197,74,37.56345177664975
+67,3,Barley(Jau),Tuesday,172,37,21.511627906976745
+68,3,Barley(Jau),Tuesday,187,56,29.946524064171122
+72,3,Barley(Jau),Tuesday,183,64,34.97267759562842
+73,3,Barley(Jau),Tuesday,182,36,19.78021978021978
+74,3,Barley(Jau),Tuesday,194,53,27.31958762886598
+75,3,Barley(Jau),Tuesday,200,94,47.0
+76,3,Barley(Jau),Tuesday,189,64,33.86243386243386
+78,3,Barley(Jau),Tuesday,187,83,44.38502673796791
+82,3,Barley(Jau),Tuesday,191,43,22.5130890052356
+85,3,Barley(Jau),Tuesday,180,46,25.555555555555554
+88,3,Barley(Jau),Tuesday,199,152,76.38190954773869
+89,3,Barley(Jau),Tuesday,199,89,44.72361809045226
+90,3,Barley(Jau),Tuesday,199,95,47.73869346733669
+95,3,Barley(Jau),Tuesday,147,52,35.374149659863946
+109,3,Barley(Jau),Tuesday,190,42,22.105263157894736
+117,3,Barley(Jau),Tuesday,183,58,31.693989071038253
+120,3,Barley(Jau),Tuesday,200,107,53.5
+134,3,Barley(Jau),Tuesday,137,87,63.503649635036496
+135,3,Barley(Jau),Tuesday,136,64,47.05882352941176
+139,3,Barley(Jau),Tuesday,158,47,29.746835443037973
+141,3,Barley(Jau),Tuesday,194,75,38.659793814432994
+145,3,Barley(Jau),Tuesday,199,39,19.597989949748744
+146,3,Barley(Jau),Tuesday,200,137,68.5
+147,3,Barley(Jau),Tuesday,195,133,68.2051282051282
+148,3,Barley(Jau),Tuesday,197,5,2.5380710659898478
+149,3,Barley(Jau),Tuesday,194,89,45.876288659793815
+151,3,Barley(Jau),Tuesday,197,70,35.53299492385787
+153,3,Barley(Jau),Tuesday,190,67,35.26315789473684
+154,3,Barley(Jau),Tuesday,197,53,26.903553299492383
+1,3,Barley(Jau),Wednesday,197,90,45.68527918781726
+2,3,Barley(Jau),Wednesday,200,131,65.5
+3,3,Barley(Jau),Wednesday,183,76,41.53005464480874
+18,3,Barley(Jau),Wednesday,187,43,22.994652406417114
+19,3,Barley(Jau),Wednesday,188,88,46.808510638297875
+25,3,Barley(Jau),Wednesday,190,40,21.052631578947366
+28,3,Barley(Jau),Wednesday,190,63,33.1578947368421
+32,3,Barley(Jau),Wednesday,169,41,24.2603550295858
+36,3,Barley(Jau),Wednesday,197,91,46.192893401015226
+37,3,Barley(Jau),Wednesday,188,69,36.702127659574465
+40,3,Barley(Jau),Wednesday,193,40,20.72538860103627
+43,3,Barley(Jau),Wednesday,200,142,71.0
+47,3,Barley(Jau),Wednesday,200,91,45.5
+48,3,Barley(Jau),Wednesday,199,142,71.35678391959799
+50,3,Barley(Jau),Wednesday,197,109,55.32994923857868
+52,3,Barley(Jau),Wednesday,147,33,22.448979591836736
+62,3,Barley(Jau),Wednesday,197,63,31.979695431472084
+63,3,Barley(Jau),Wednesday,185,82,44.32432432432433
+64,3,Barley(Jau),Wednesday,191,50,26.17801047120419
+65,3,Barley(Jau),Wednesday,185,48,25.945945945945947
+66,3,Barley(Jau),Wednesday,198,88,44.44444444444444
+67,3,Barley(Jau),Wednesday,172,32,18.6046511627907
+68,3,Barley(Jau),Wednesday,187,57,30.481283422459892
+72,3,Barley(Jau),Wednesday,183,57,31.147540983606557
+73,3,Barley(Jau),Wednesday,183,34,18.579234972677597
+74,3,Barley(Jau),Wednesday,194,38,19.587628865979383
+75,3,Barley(Jau),Wednesday,199,81,40.7035175879397
+76,3,Barley(Jau),Wednesday,189,54,28.57142857142857
+78,3,Barley(Jau),Wednesday,187,70,37.4331550802139
+82,3,Barley(Jau),Wednesday,191,41,21.465968586387437
+85,3,Barley(Jau),Wednesday,179,37,20.670391061452513
+88,3,Barley(Jau),Wednesday,198,139,70.2020202020202
+89,3,Barley(Jau),Wednesday,199,102,51.256281407035175
+90,3,Barley(Jau),Wednesday,199,88,44.221105527638194
+95,3,Barley(Jau),Wednesday,147,52,35.374149659863946
+109,3,Barley(Jau),Wednesday,189,37,19.576719576719576
+117,3,Barley(Jau),Wednesday,183,63,34.42622950819672
+120,3,Barley(Jau),Wednesday,200,107,53.5
+134,3,Barley(Jau),Wednesday,138,86,62.31884057971014
+135,3,Barley(Jau),Wednesday,135,64,47.40740740740741
+139,3,Barley(Jau),Wednesday,158,48,30.37974683544304
+141,3,Barley(Jau),Wednesday,193,74,38.34196891191709
+145,3,Barley(Jau),Wednesday,200,41,20.5
+146,3,Barley(Jau),Wednesday,200,139,69.5
+147,3,Barley(Jau),Wednesday,195,145,74.35897435897436
+148,3,Barley(Jau),Wednesday,197,98,49.746192893401016
+149,3,Barley(Jau),Wednesday,194,87,44.84536082474227
+151,3,Barley(Jau),Wednesday,197,70,35.53299492385787
+153,3,Barley(Jau),Wednesday,190,71,37.368421052631575
+154,3,Barley(Jau),Wednesday,198,45,22.727272727272727
+1,3,Barley(Jau),Thursday,197,89,45.17766497461929
+2,3,Barley(Jau),Thursday,200,131,65.5
+3,3,Barley(Jau),Thursday,182,65,35.714285714285715
+18,3,Barley(Jau),Thursday,187,45,24.06417112299465
+19,3,Barley(Jau),Thursday,188,104,55.319148936170215
+25,3,Barley(Jau),Thursday,191,35,18.32460732984293
+28,3,Barley(Jau),Thursday,190,56,29.47368421052631
+32,3,Barley(Jau),Thursday,169,42,24.85207100591716
+36,3,Barley(Jau),Thursday,198,78,39.39393939393939
+37,3,Barley(Jau),Thursday,188,60,31.914893617021278
+40,3,Barley(Jau),Thursday,193,35,18.134715025906736
+43,3,Barley(Jau),Thursday,200,138,69.0
+47,3,Barley(Jau),Thursday,200,81,40.5
+48,3,Barley(Jau),Thursday,199,140,70.35175879396985
+50,3,Barley(Jau),Thursday,197,103,52.28426395939086
+52,3,Barley(Jau),Thursday,147,37,25.170068027210885
+62,3,Barley(Jau),Thursday,197,45,22.84263959390863
+63,3,Barley(Jau),Thursday,185,87,47.02702702702703
+64,3,Barley(Jau),Thursday,190,42,22.105263157894736
+65,3,Barley(Jau),Thursday,185,34,18.37837837837838
+66,3,Barley(Jau),Thursday,198,68,34.34343434343434
+67,3,Barley(Jau),Thursday,172,28,16.27906976744186
+68,3,Barley(Jau),Thursday,187,46,24.598930481283425
+72,3,Barley(Jau),Thursday,183,55,30.05464480874317
+73,3,Barley(Jau),Thursday,183,36,19.672131147540984
+74,3,Barley(Jau),Thursday,194,28,14.432989690721648
+75,3,Barley(Jau),Thursday,200,97,48.5
+76,3,Barley(Jau),Thursday,188,53,28.191489361702125
+78,3,Barley(Jau),Thursday,187,71,37.967914438502675
+82,3,Barley(Jau),Thursday,191,38,19.895287958115183
+85,3,Barley(Jau),Thursday,179,32,17.877094972067038
+88,3,Barley(Jau),Thursday,199,146,73.36683417085426
+89,3,Barley(Jau),Thursday,199,85,42.71356783919598
+90,3,Barley(Jau),Thursday,198,93,46.96969696969697
+95,3,Barley(Jau),Thursday,147,2,1.3605442176870748
+109,3,Barley(Jau),Thursday,189,35,18.51851851851852
+117,3,Barley(Jau),Thursday,182,55,30.21978021978022
+120,3,Barley(Jau),Thursday,200,102,51.0
+134,3,Barley(Jau),Thursday,138,79,57.2463768115942
+135,3,Barley(Jau),Thursday,135,57,42.22222222222222
+139,3,Barley(Jau),Thursday,158,41,25.949367088607595
+141,3,Barley(Jau),Thursday,193,68,35.233160621761655
+145,3,Barley(Jau),Thursday,200,32,16.0
+146,3,Barley(Jau),Thursday,200,147,73.5
+147,3,Barley(Jau),Thursday,194,126,64.94845360824742
+148,3,Barley(Jau),Thursday,198,131,66.16161616161617
+149,3,Barley(Jau),Thursday,195,76,38.97435897435898
+151,3,Barley(Jau),Thursday,197,63,31.979695431472084
+153,3,Barley(Jau),Thursday,190,71,37.368421052631575
+154,3,Barley(Jau),Thursday,198,35,17.67676767676768
+1,3,Barley(Jau),Friday,197,87,44.16243654822335
+2,3,Barley(Jau),Friday,200,141,70.5
+3,3,Barley(Jau),Friday,182,73,40.10989010989011
+18,3,Barley(Jau),Friday,187,35,18.71657754010695
+19,3,Barley(Jau),Friday,189,95,50.264550264550266
+25,3,Barley(Jau),Friday,190,35,18.421052631578945
+28,3,Barley(Jau),Friday,189,50,26.455026455026452
+32,3,Barley(Jau),Friday,169,39,23.076923076923077
+36,3,Barley(Jau),Friday,198,84,42.42424242424242
+37,3,Barley(Jau),Friday,187,55,29.411764705882355
+40,3,Barley(Jau),Friday,193,49,25.38860103626943
+43,3,Barley(Jau),Friday,200,129,64.5
+47,3,Barley(Jau),Friday,200,59,29.5
+48,3,Barley(Jau),Friday,199,108,54.2713567839196
+50,3,Barley(Jau),Friday,198,102,51.515151515151516
+52,3,Barley(Jau),Friday,148,39,26.351351351351347
+62,3,Barley(Jau),Friday,197,50,25.380710659898476
+63,3,Barley(Jau),Friday,185,82,44.32432432432433
+64,3,Barley(Jau),Friday,190,48,25.263157894736842
+65,3,Barley(Jau),Friday,185,49,26.486486486486488
+66,3,Barley(Jau),Friday,198,66,33.33333333333333
+67,3,Barley(Jau),Friday,172,38,22.093023255813954
+68,3,Barley(Jau),Friday,187,52,27.807486631016044
+72,3,Barley(Jau),Friday,183,54,29.508196721311474
+73,3,Barley(Jau),Friday,183,35,19.12568306010929
+74,3,Barley(Jau),Friday,194,33,17.010309278350515
+75,3,Barley(Jau),Friday,200,95,47.5
+76,3,Barley(Jau),Friday,188,49,26.063829787234045
+78,3,Barley(Jau),Friday,187,67,35.82887700534759
+82,3,Barley(Jau),Friday,192,35,18.229166666666664
+85,3,Barley(Jau),Friday,179,33,18.435754189944134
+88,3,Barley(Jau),Friday,199,146,73.36683417085426
+89,3,Barley(Jau),Friday,198,89,44.94949494949495
+90,3,Barley(Jau),Friday,198,83,41.91919191919192
+95,3,Barley(Jau),Friday,147,51,34.69387755102041
+109,3,Barley(Jau),Friday,189,30,15.873015873015872
+117,3,Barley(Jau),Friday,182,48,26.373626373626376
+120,3,Barley(Jau),Friday,199,107,53.768844221105525
+134,3,Barley(Jau),Friday,138,75,54.347826086956516
+135,3,Barley(Jau),Friday,135,56,41.48148148148148
+139,3,Barley(Jau),Friday,157,42,26.751592356687897
+141,3,Barley(Jau),Friday,193,71,36.787564766839374
+145,3,Barley(Jau),Friday,200,35,17.5
+146,3,Barley(Jau),Friday,200,142,71.0
+147,3,Barley(Jau),Friday,194,127,65.4639175257732
+148,3,Barley(Jau),Friday,198,118,59.59595959595959
+149,3,Barley(Jau),Friday,195,92,47.179487179487175
+151,3,Barley(Jau),Friday,196,57,29.081632653061224
+153,3,Barley(Jau),Friday,190,67,35.26315789473684
+154,3,Barley(Jau),Friday,198,40,20.2020202020202
+1,3,Barley(Jau),Saturday,197,68,34.51776649746193
+2,3,Barley(Jau),Saturday,200,128,64.0
+3,3,Barley(Jau),Saturday,182,64,35.16483516483517
+18,3,Barley(Jau),Saturday,187,13,6.951871657754011
+19,3,Barley(Jau),Saturday,189,84,44.44444444444444
+25,3,Barley(Jau),Saturday,190,37,19.473684210526315
+28,3,Barley(Jau),Saturday,189,43,22.75132275132275
+32,3,Barley(Jau),Saturday,169,34,20.118343195266274
+36,3,Barley(Jau),Saturday,197,86,43.65482233502538
+37,3,Barley(Jau),Saturday,188,58,30.851063829787233
+40,3,Barley(Jau),Saturday,193,0,0.0
+43,3,Barley(Jau),Saturday,200,67,33.5
+47,3,Barley(Jau),Saturday,200,62,31.0
+48,3,Barley(Jau),Saturday,199,106,53.266331658291456
+50,3,Barley(Jau),Saturday,198,88,44.44444444444444
+52,3,Barley(Jau),Saturday,148,32,21.62162162162162
+62,3,Barley(Jau),Saturday,198,48,24.242424242424242
+63,3,Barley(Jau),Saturday,185,73,39.45945945945946
+64,3,Barley(Jau),Saturday,190,44,23.157894736842106
+65,3,Barley(Jau),Saturday,185,33,17.83783783783784
+66,3,Barley(Jau),Saturday,198,61,30.808080808080806
+67,3,Barley(Jau),Saturday,172,29,16.86046511627907
+68,3,Barley(Jau),Saturday,186,52,27.956989247311824
+72,3,Barley(Jau),Saturday,184,53,28.804347826086957
+73,3,Barley(Jau),Saturday,183,30,16.39344262295082
+74,3,Barley(Jau),Saturday,194,33,17.010309278350515
+75,3,Barley(Jau),Saturday,200,81,40.5
+76,3,Barley(Jau),Saturday,189,43,22.75132275132275
+78,3,Barley(Jau),Saturday,188,66,35.1063829787234
+82,3,Barley(Jau),Saturday,192,25,13.020833333333334
+85,3,Barley(Jau),Saturday,179,34,18.994413407821227
+88,3,Barley(Jau),Saturday,199,129,64.82412060301507
+89,3,Barley(Jau),Saturday,198,76,38.38383838383838
+90,3,Barley(Jau),Saturday,198,76,38.38383838383838
+95,3,Barley(Jau),Saturday,147,42,28.57142857142857
+109,3,Barley(Jau),Saturday,189,27,14.285714285714285
+117,3,Barley(Jau),Saturday,182,57,31.318681318681318
+120,3,Barley(Jau),Saturday,199,81,40.7035175879397
+134,3,Barley(Jau),Saturday,138,39,28.26086956521739
+135,3,Barley(Jau),Saturday,135,31,22.962962962962962
+139,3,Barley(Jau),Saturday,157,28,17.8343949044586
+141,3,Barley(Jau),Saturday,193,65,33.67875647668394
+145,3,Barley(Jau),Saturday,200,28,14.000000000000002
+146,3,Barley(Jau),Saturday,200,134,67.0
+147,3,Barley(Jau),Saturday,194,128,65.97938144329896
+148,3,Barley(Jau),Saturday,198,120,60.60606060606061
+149,3,Barley(Jau),Saturday,195,94,48.205128205128204
+151,3,Barley(Jau),Saturday,196,70,35.714285714285715
+153,3,Barley(Jau),Saturday,191,66,34.55497382198953
+154,3,Barley(Jau),Saturday,198,34,17.17171717171717
+1,3,Barley(Jau),Sunday,197,14,7.1065989847715745
+2,3,Barley(Jau),Sunday,200,1,0.5
+3,3,Barley(Jau),Sunday,182,4,2.197802197802198
+18,3,Barley(Jau),Sunday,187,9,4.81283422459893
+19,3,Barley(Jau),Sunday,188,1,0.5319148936170213
+25,3,Barley(Jau),Sunday,190,1,0.5263157894736842
+28,3,Barley(Jau),Sunday,190,29,15.263157894736842
+32,3,Barley(Jau),Sunday,169,0,0.0
+36,3,Barley(Jau),Sunday,197,0,0.0
+37,3,Barley(Jau),Sunday,188,0,0.0
+40,3,Barley(Jau),Sunday,193,0,0.0
+43,3,Barley(Jau),Sunday,200,1,0.5
+47,3,Barley(Jau),Sunday,201,93,46.26865671641791
+48,3,Barley(Jau),Sunday,199,1,0.5025125628140703
+50,3,Barley(Jau),Sunday,198,80,40.4040404040404
+52,3,Barley(Jau),Sunday,148,0,0.0
+62,3,Barley(Jau),Sunday,198,0,0.0
+63,3,Barley(Jau),Sunday,185,1,0.5405405405405406
+64,3,Barley(Jau),Sunday,190,0,0.0
+65,3,Barley(Jau),Sunday,185,0,0.0
+66,3,Barley(Jau),Sunday,198,0,0.0
+67,3,Barley(Jau),Sunday,172,0,0.0
+68,3,Barley(Jau),Sunday,186,0,0.0
+72,3,Barley(Jau),Sunday,184,1,0.5434782608695652
+73,3,Barley(Jau),Sunday,183,11,6.0109289617486334
+74,3,Barley(Jau),Sunday,194,0,0.0
+75,3,Barley(Jau),Sunday,200,0,0.0
+76,3,Barley(Jau),Sunday,189,0,0.0
+78,3,Barley(Jau),Sunday,188,17,9.042553191489363
+82,3,Barley(Jau),Sunday,192,0,0.0
+85,3,Barley(Jau),Sunday,179,1,0.5586592178770949
+88,3,Barley(Jau),Sunday,199,0,0.0
+89,3,Barley(Jau),Sunday,198,0,0.0
+90,3,Barley(Jau),Sunday,198,1,0.5050505050505051
+95,3,Barley(Jau),Sunday,147,40,27.2108843537415
+109,3,Barley(Jau),Sunday,189,1,0.5291005291005291
+117,3,Barley(Jau),Sunday,182,0,0.0
+120,3,Barley(Jau),Sunday,199,2,1.0050251256281406
+134,3,Barley(Jau),Sunday,138,1,0.7246376811594203
+135,3,Barley(Jau),Sunday,135,0,0.0
+139,3,Barley(Jau),Sunday,157,1,0.6369426751592357
+141,3,Barley(Jau),Sunday,193,0,0.0
+145,3,Barley(Jau),Sunday,200,0,0.0
+146,3,Barley(Jau),Sunday,200,0,0.0
+147,3,Barley(Jau),Sunday,194,1,0.5154639175257731
+148,3,Barley(Jau),Sunday,198,107,54.04040404040404
+149,3,Barley(Jau),Sunday,194,0,0.0
+151,3,Barley(Jau),Sunday,196,1,0.5102040816326531
+153,3,Barley(Jau),Sunday,190,1,0.5263157894736842
+154,3,Barley(Jau),Sunday,198,11,5.555555555555555
+1,5,Bengal Gram(Gram)(Whole),Monday,201,97,48.258706467661696
+2,5,Bengal Gram(Gram)(Whole),Monday,201,151,75.12437810945273
+3,5,Bengal Gram(Gram)(Whole),Monday,197,94,47.71573604060914
+9,5,Bengal Gram(Gram)(Whole),Monday,185,53,28.64864864864865
+10,5,Bengal Gram(Gram)(Whole),Monday,200,126,63.0
+11,5,Bengal Gram(Gram)(Whole),Monday,201,165,82.08955223880598
+12,5,Bengal Gram(Gram)(Whole),Monday,200,90,45.0
+14,5,Bengal Gram(Gram)(Whole),Monday,139,47,33.81294964028777
+15,5,Bengal Gram(Gram)(Whole),Monday,136,66,48.529411764705884
+16,5,Bengal Gram(Gram)(Whole),Monday,201,127,63.18407960199005
+19,5,Bengal Gram(Gram)(Whole),Monday,189,63,33.33333333333333
+25,5,Bengal Gram(Gram)(Whole),Monday,191,47,24.60732984293194
+30,5,Bengal Gram(Gram)(Whole),Monday,201,98,48.756218905472636
+32,5,Bengal Gram(Gram)(Whole),Monday,170,36,21.176470588235293
+36,5,Bengal Gram(Gram)(Whole),Monday,201,125,62.189054726368155
+37,5,Bengal Gram(Gram)(Whole),Monday,141,117,82.97872340425532
+38,5,Bengal Gram(Gram)(Whole),Monday,200,58,28.999999999999996
+40,5,Bengal Gram(Gram)(Whole),Monday,119,44,36.97478991596639
+43,5,Bengal Gram(Gram)(Whole),Monday,148,53,35.810810810810814
+47,5,Bengal Gram(Gram)(Whole),Monday,201,120,59.70149253731343
+48,5,Bengal Gram(Gram)(Whole),Monday,200,137,68.5
+50,5,Bengal Gram(Gram)(Whole),Monday,175,18,10.285714285714285
+52,5,Bengal Gram(Gram)(Whole),Monday,147,63,42.857142857142854
+53,5,Bengal Gram(Gram)(Whole),Monday,199,59,29.64824120603015
+62,5,Bengal Gram(Gram)(Whole),Monday,194,42,21.649484536082475
+63,5,Bengal Gram(Gram)(Whole),Monday,201,112,55.72139303482587
+66,5,Bengal Gram(Gram)(Whole),Monday,199,68,34.17085427135678
+67,5,Bengal Gram(Gram)(Whole),Monday,191,65,34.031413612565444
+68,5,Bengal Gram(Gram)(Whole),Monday,196,70,35.714285714285715
+69,5,Bengal Gram(Gram)(Whole),Monday,201,58,28.855721393034827
+72,5,Bengal Gram(Gram)(Whole),Monday,201,56,27.860696517412936
+73,5,Bengal Gram(Gram)(Whole),Monday,179,55,30.726256983240223
+75,5,Bengal Gram(Gram)(Whole),Monday,199,109,54.773869346733676
+78,5,Bengal Gram(Gram)(Whole),Monday,201,83,41.29353233830846
+80,5,Bengal Gram(Gram)(Whole),Monday,145,43,29.655172413793103
+82,5,Bengal Gram(Gram)(Whole),Monday,201,115,57.2139303482587
+85,5,Bengal Gram(Gram)(Whole),Monday,194,54,27.835051546391753
+88,5,Bengal Gram(Gram)(Whole),Monday,200,121,60.5
+89,5,Bengal Gram(Gram)(Whole),Monday,200,108,54.0
+90,5,Bengal Gram(Gram)(Whole),Monday,199,69,34.67336683417086
+100,5,Bengal Gram(Gram)(Whole),Monday,201,135,67.16417910447761
+103,5,Bengal Gram(Gram)(Whole),Monday,193,121,62.69430051813472
+104,5,Bengal Gram(Gram)(Whole),Monday,201,127,63.18407960199005
+105,5,Bengal Gram(Gram)(Whole),Monday,141,123,87.2340425531915
+112,5,Bengal Gram(Gram)(Whole),Monday,200,121,60.5
+116,5,Bengal Gram(Gram)(Whole),Monday,188,65,34.57446808510639
+117,5,Bengal Gram(Gram)(Whole),Monday,184,47,25.543478260869566
+119,5,Bengal Gram(Gram)(Whole),Monday,201,123,61.19402985074627
+120,5,Bengal Gram(Gram)(Whole),Monday,200,141,70.5
+121,5,Bengal Gram(Gram)(Whole),Monday,201,131,65.17412935323384
+132,5,Bengal Gram(Gram)(Whole),Monday,199,36,18.090452261306535
+134,5,Bengal Gram(Gram)(Whole),Monday,137,70,51.09489051094891
+141,5,Bengal Gram(Gram)(Whole),Monday,193,85,44.04145077720207
+142,5,Bengal Gram(Gram)(Whole),Monday,200,101,50.5
+145,5,Bengal Gram(Gram)(Whole),Monday,201,107,53.233830845771145
+146,5,Bengal Gram(Gram)(Whole),Monday,201,116,57.711442786069654
+147,5,Bengal Gram(Gram)(Whole),Monday,199,120,60.30150753768844
+148,5,Bengal Gram(Gram)(Whole),Monday,201,150,74.6268656716418
+149,5,Bengal Gram(Gram)(Whole),Monday,176,102,57.95454545454546
+151,5,Bengal Gram(Gram)(Whole),Monday,184,54,29.347826086956523
+152,5,Bengal Gram(Gram)(Whole),Monday,199,55,27.63819095477387
+153,5,Bengal Gram(Gram)(Whole),Monday,195,73,37.43589743589744
+154,5,Bengal Gram(Gram)(Whole),Monday,198,62,31.313131313131315
+169,5,Bengal Gram(Gram)(Whole),Monday,201,102,50.74626865671642
+1,5,Bengal Gram(Gram)(Whole),Tuesday,201,86,42.78606965174129
+2,5,Bengal Gram(Gram)(Whole),Tuesday,201,155,77.11442786069652
+3,5,Bengal Gram(Gram)(Whole),Tuesday,197,99,50.25380710659898
+9,5,Bengal Gram(Gram)(Whole),Tuesday,185,52,28.10810810810811
+10,5,Bengal Gram(Gram)(Whole),Tuesday,200,126,63.0
+11,5,Bengal Gram(Gram)(Whole),Tuesday,200,171,85.5
+12,5,Bengal Gram(Gram)(Whole),Tuesday,200,83,41.5
+14,5,Bengal Gram(Gram)(Whole),Tuesday,139,53,38.1294964028777
+15,5,Bengal Gram(Gram)(Whole),Tuesday,136,51,37.5
+16,5,Bengal Gram(Gram)(Whole),Tuesday,201,121,60.19900497512438
+19,5,Bengal Gram(Gram)(Whole),Tuesday,189,64,33.86243386243386
+25,5,Bengal Gram(Gram)(Whole),Tuesday,190,53,27.89473684210526
+30,5,Bengal Gram(Gram)(Whole),Tuesday,201,92,45.77114427860697
+32,5,Bengal Gram(Gram)(Whole),Tuesday,170,37,21.764705882352942
+36,5,Bengal Gram(Gram)(Whole),Tuesday,200,136,68.0
+37,5,Bengal Gram(Gram)(Whole),Tuesday,141,116,82.26950354609929
+38,5,Bengal Gram(Gram)(Whole),Tuesday,200,64,32.0
+40,5,Bengal Gram(Gram)(Whole),Tuesday,119,49,41.17647058823529
+43,5,Bengal Gram(Gram)(Whole),Tuesday,148,56,37.83783783783784
+47,5,Bengal Gram(Gram)(Whole),Tuesday,200,3,1.5
+48,5,Bengal Gram(Gram)(Whole),Tuesday,200,147,73.5
+50,5,Bengal Gram(Gram)(Whole),Tuesday,174,83,47.701149425287355
+52,5,Bengal Gram(Gram)(Whole),Tuesday,147,70,47.61904761904761
+53,5,Bengal Gram(Gram)(Whole),Tuesday,200,65,32.5
+62,5,Bengal Gram(Gram)(Whole),Tuesday,193,36,18.65284974093264
+63,5,Bengal Gram(Gram)(Whole),Tuesday,201,114,56.71641791044776
+66,5,Bengal Gram(Gram)(Whole),Tuesday,198,72,36.36363636363637
+67,5,Bengal Gram(Gram)(Whole),Tuesday,191,58,30.36649214659686
+68,5,Bengal Gram(Gram)(Whole),Tuesday,196,66,33.6734693877551
+69,5,Bengal Gram(Gram)(Whole),Tuesday,201,73,36.318407960199
+72,5,Bengal Gram(Gram)(Whole),Tuesday,200,56,28.000000000000004
+73,5,Bengal Gram(Gram)(Whole),Tuesday,180,47,26.111111111111114
+75,5,Bengal Gram(Gram)(Whole),Tuesday,199,115,57.78894472361809
+78,5,Bengal Gram(Gram)(Whole),Tuesday,201,100,49.75124378109453
+80,5,Bengal Gram(Gram)(Whole),Tuesday,146,42,28.767123287671232
+82,5,Bengal Gram(Gram)(Whole),Tuesday,200,109,54.50000000000001
+85,5,Bengal Gram(Gram)(Whole),Tuesday,194,53,27.31958762886598
+88,5,Bengal Gram(Gram)(Whole),Tuesday,201,148,73.6318407960199
+89,5,Bengal Gram(Gram)(Whole),Tuesday,200,110,55.00000000000001
+90,5,Bengal Gram(Gram)(Whole),Tuesday,199,69,34.67336683417086
+100,5,Bengal Gram(Gram)(Whole),Tuesday,201,144,71.64179104477611
+103,5,Bengal Gram(Gram)(Whole),Tuesday,193,125,64.76683937823834
+104,5,Bengal Gram(Gram)(Whole),Tuesday,201,132,65.67164179104478
+105,5,Bengal Gram(Gram)(Whole),Tuesday,142,122,85.91549295774648
+112,5,Bengal Gram(Gram)(Whole),Tuesday,201,125,62.189054726368155
+116,5,Bengal Gram(Gram)(Whole),Tuesday,188,67,35.638297872340424
+117,5,Bengal Gram(Gram)(Whole),Tuesday,184,55,29.891304347826086
+119,5,Bengal Gram(Gram)(Whole),Tuesday,201,131,65.17412935323384
+120,5,Bengal Gram(Gram)(Whole),Tuesday,200,141,70.5
+121,5,Bengal Gram(Gram)(Whole),Tuesday,201,138,68.65671641791045
+132,5,Bengal Gram(Gram)(Whole),Tuesday,199,44,22.110552763819097
+134,5,Bengal Gram(Gram)(Whole),Tuesday,137,75,54.74452554744526
+141,5,Bengal Gram(Gram)(Whole),Tuesday,192,80,41.66666666666667
+142,5,Bengal Gram(Gram)(Whole),Tuesday,200,100,50.0
+145,5,Bengal Gram(Gram)(Whole),Tuesday,200,100,50.0
+146,5,Bengal Gram(Gram)(Whole),Tuesday,201,122,60.69651741293532
+147,5,Bengal Gram(Gram)(Whole),Tuesday,199,127,63.81909547738693
+148,5,Bengal Gram(Gram)(Whole),Tuesday,200,6,3.0
+149,5,Bengal Gram(Gram)(Whole),Tuesday,176,106,60.22727272727273
+151,5,Bengal Gram(Gram)(Whole),Tuesday,184,61,33.15217391304348
+152,5,Bengal Gram(Gram)(Whole),Tuesday,199,49,24.623115577889447
+153,5,Bengal Gram(Gram)(Whole),Tuesday,196,77,39.285714285714285
+154,5,Bengal Gram(Gram)(Whole),Tuesday,198,71,35.858585858585855
+169,5,Bengal Gram(Gram)(Whole),Tuesday,201,99,49.25373134328358
+1,5,Bengal Gram(Gram)(Whole),Wednesday,200,86,43.0
+2,5,Bengal Gram(Gram)(Whole),Wednesday,200,149,74.5
+3,5,Bengal Gram(Gram)(Whole),Wednesday,198,92,46.464646464646464
+9,5,Bengal Gram(Gram)(Whole),Wednesday,185,35,18.91891891891892
+10,5,Bengal Gram(Gram)(Whole),Wednesday,199,134,67.33668341708542
+11,5,Bengal Gram(Gram)(Whole),Wednesday,200,164,82.0
+12,5,Bengal Gram(Gram)(Whole),Wednesday,199,80,40.20100502512563
+14,5,Bengal Gram(Gram)(Whole),Wednesday,140,44,31.428571428571427
+15,5,Bengal Gram(Gram)(Whole),Wednesday,135,55,40.74074074074074
+16,5,Bengal Gram(Gram)(Whole),Wednesday,200,122,61.0
+19,5,Bengal Gram(Gram)(Whole),Wednesday,189,65,34.39153439153439
+25,5,Bengal Gram(Gram)(Whole),Wednesday,190,45,23.684210526315788
+30,5,Bengal Gram(Gram)(Whole),Wednesday,200,97,48.5
+32,5,Bengal Gram(Gram)(Whole),Wednesday,170,38,22.35294117647059
+36,5,Bengal Gram(Gram)(Whole),Wednesday,200,139,69.5
+37,5,Bengal Gram(Gram)(Whole),Wednesday,140,105,75.0
+38,5,Bengal Gram(Gram)(Whole),Wednesday,200,54,27.0
+40,5,Bengal Gram(Gram)(Whole),Wednesday,118,40,33.89830508474576
+43,5,Bengal Gram(Gram)(Whole),Wednesday,148,61,41.21621621621622
+47,5,Bengal Gram(Gram)(Whole),Wednesday,200,105,52.5
+48,5,Bengal Gram(Gram)(Whole),Wednesday,200,150,75.0
+50,5,Bengal Gram(Gram)(Whole),Wednesday,174,102,58.620689655172406
+52,5,Bengal Gram(Gram)(Whole),Wednesday,146,58,39.726027397260275
+53,5,Bengal Gram(Gram)(Whole),Wednesday,200,71,35.5
+62,5,Bengal Gram(Gram)(Whole),Wednesday,193,37,19.170984455958546
+63,5,Bengal Gram(Gram)(Whole),Wednesday,200,115,57.49999999999999
+66,5,Bengal Gram(Gram)(Whole),Wednesday,198,67,33.83838383838384
+67,5,Bengal Gram(Gram)(Whole),Wednesday,191,60,31.413612565445025
+68,5,Bengal Gram(Gram)(Whole),Wednesday,196,64,32.6530612244898
+69,5,Bengal Gram(Gram)(Whole),Wednesday,200,54,27.0
+72,5,Bengal Gram(Gram)(Whole),Wednesday,200,52,26.0
+73,5,Bengal Gram(Gram)(Whole),Wednesday,179,49,27.37430167597765
+75,5,Bengal Gram(Gram)(Whole),Wednesday,198,105,53.03030303030303
+78,5,Bengal Gram(Gram)(Whole),Wednesday,200,91,45.5
+80,5,Bengal Gram(Gram)(Whole),Wednesday,145,36,24.82758620689655
+82,5,Bengal Gram(Gram)(Whole),Wednesday,200,104,52.0
+85,5,Bengal Gram(Gram)(Whole),Wednesday,193,47,24.352331606217618
+88,5,Bengal Gram(Gram)(Whole),Wednesday,200,135,67.5
+89,5,Bengal Gram(Gram)(Whole),Wednesday,200,112,56.00000000000001
+90,5,Bengal Gram(Gram)(Whole),Wednesday,199,73,36.68341708542713
+100,5,Bengal Gram(Gram)(Whole),Wednesday,200,145,72.5
+103,5,Bengal Gram(Gram)(Whole),Wednesday,192,113,58.854166666666664
+104,5,Bengal Gram(Gram)(Whole),Wednesday,200,134,67.0
+105,5,Bengal Gram(Gram)(Whole),Wednesday,141,114,80.85106382978722
+112,5,Bengal Gram(Gram)(Whole),Wednesday,200,117,58.5
+116,5,Bengal Gram(Gram)(Whole),Wednesday,188,56,29.78723404255319
+117,5,Bengal Gram(Gram)(Whole),Wednesday,184,52,28.26086956521739
+119,5,Bengal Gram(Gram)(Whole),Wednesday,200,132,66.0
+120,5,Bengal Gram(Gram)(Whole),Wednesday,200,148,74.0
+121,5,Bengal Gram(Gram)(Whole),Wednesday,200,137,68.5
+132,5,Bengal Gram(Gram)(Whole),Wednesday,198,32,16.161616161616163
+134,5,Bengal Gram(Gram)(Whole),Wednesday,138,71,51.449275362318836
+141,5,Bengal Gram(Gram)(Whole),Wednesday,192,74,38.54166666666667
+142,5,Bengal Gram(Gram)(Whole),Wednesday,200,102,51.0
+145,5,Bengal Gram(Gram)(Whole),Wednesday,200,96,48.0
+146,5,Bengal Gram(Gram)(Whole),Wednesday,200,119,59.5
+147,5,Bengal Gram(Gram)(Whole),Wednesday,199,116,58.291457286432156
+148,5,Bengal Gram(Gram)(Whole),Wednesday,200,125,62.5
+149,5,Bengal Gram(Gram)(Whole),Wednesday,175,105,60.0
+151,5,Bengal Gram(Gram)(Whole),Wednesday,184,67,36.41304347826087
+152,5,Bengal Gram(Gram)(Whole),Wednesday,198,45,22.727272727272727
+153,5,Bengal Gram(Gram)(Whole),Wednesday,196,73,37.244897959183675
+154,5,Bengal Gram(Gram)(Whole),Wednesday,198,59,29.797979797979796
+169,5,Bengal Gram(Gram)(Whole),Wednesday,200,108,54.0
+1,5,Bengal Gram(Gram)(Whole),Thursday,200,80,40.0
+2,5,Bengal Gram(Gram)(Whole),Thursday,200,140,70.0
+3,5,Bengal Gram(Gram)(Whole),Thursday,198,81,40.909090909090914
+9,5,Bengal Gram(Gram)(Whole),Thursday,184,40,21.73913043478261
+10,5,Bengal Gram(Gram)(Whole),Thursday,200,124,62.0
+11,5,Bengal Gram(Gram)(Whole),Thursday,200,168,84.0
+12,5,Bengal Gram(Gram)(Whole),Thursday,200,80,40.0
+14,5,Bengal Gram(Gram)(Whole),Thursday,140,51,36.42857142857142
+15,5,Bengal Gram(Gram)(Whole),Thursday,135,48,35.55555555555556
+16,5,Bengal Gram(Gram)(Whole),Thursday,200,121,60.5
+19,5,Bengal Gram(Gram)(Whole),Thursday,189,69,36.507936507936506
+25,5,Bengal Gram(Gram)(Whole),Thursday,191,44,23.036649214659686
+30,5,Bengal Gram(Gram)(Whole),Thursday,200,88,44.0
+32,5,Bengal Gram(Gram)(Whole),Thursday,169,38,22.485207100591715
+36,5,Bengal Gram(Gram)(Whole),Thursday,200,136,68.0
+37,5,Bengal Gram(Gram)(Whole),Thursday,141,111,78.72340425531915
+38,5,Bengal Gram(Gram)(Whole),Thursday,200,59,29.5
+40,5,Bengal Gram(Gram)(Whole),Thursday,119,33,27.73109243697479
+43,5,Bengal Gram(Gram)(Whole),Thursday,148,56,37.83783783783784
+47,5,Bengal Gram(Gram)(Whole),Thursday,200,97,48.5
+48,5,Bengal Gram(Gram)(Whole),Thursday,200,137,68.5
+50,5,Bengal Gram(Gram)(Whole),Thursday,175,81,46.285714285714285
+52,5,Bengal Gram(Gram)(Whole),Thursday,147,71,48.29931972789115
+53,5,Bengal Gram(Gram)(Whole),Thursday,200,77,38.5
+62,5,Bengal Gram(Gram)(Whole),Thursday,193,38,19.689119170984455
+63,5,Bengal Gram(Gram)(Whole),Thursday,200,117,58.5
+66,5,Bengal Gram(Gram)(Whole),Thursday,198,66,33.33333333333333
+67,5,Bengal Gram(Gram)(Whole),Thursday,191,53,27.748691099476442
+68,5,Bengal Gram(Gram)(Whole),Thursday,196,56,28.57142857142857
+69,5,Bengal Gram(Gram)(Whole),Thursday,200,52,26.0
+72,5,Bengal Gram(Gram)(Whole),Thursday,200,51,25.5
+73,5,Bengal Gram(Gram)(Whole),Thursday,179,51,28.49162011173184
+75,5,Bengal Gram(Gram)(Whole),Thursday,198,101,51.010101010101
+78,5,Bengal Gram(Gram)(Whole),Thursday,200,91,45.5
+80,5,Bengal Gram(Gram)(Whole),Thursday,145,43,29.655172413793103
+82,5,Bengal Gram(Gram)(Whole),Thursday,200,103,51.5
+85,5,Bengal Gram(Gram)(Whole),Thursday,193,48,24.870466321243523
+88,5,Bengal Gram(Gram)(Whole),Thursday,200,136,68.0
+89,5,Bengal Gram(Gram)(Whole),Thursday,200,108,54.0
+90,5,Bengal Gram(Gram)(Whole),Thursday,199,73,36.68341708542713
+100,5,Bengal Gram(Gram)(Whole),Thursday,200,139,69.5
+103,5,Bengal Gram(Gram)(Whole),Thursday,192,114,59.375
+104,5,Bengal Gram(Gram)(Whole),Thursday,200,124,62.0
+105,5,Bengal Gram(Gram)(Whole),Thursday,141,122,86.52482269503547
+112,5,Bengal Gram(Gram)(Whole),Thursday,200,112,56.00000000000001
+116,5,Bengal Gram(Gram)(Whole),Thursday,187,54,28.87700534759358
+117,5,Bengal Gram(Gram)(Whole),Thursday,184,37,20.108695652173914
+119,5,Bengal Gram(Gram)(Whole),Thursday,200,123,61.5
+120,5,Bengal Gram(Gram)(Whole),Thursday,200,144,72.0
+121,5,Bengal Gram(Gram)(Whole),Thursday,200,128,64.0
+132,5,Bengal Gram(Gram)(Whole),Thursday,198,38,19.19191919191919
+134,5,Bengal Gram(Gram)(Whole),Thursday,137,70,51.09489051094891
+141,5,Bengal Gram(Gram)(Whole),Thursday,192,74,38.54166666666667
+142,5,Bengal Gram(Gram)(Whole),Thursday,199,95,47.73869346733669
+145,5,Bengal Gram(Gram)(Whole),Thursday,200,97,48.5
+146,5,Bengal Gram(Gram)(Whole),Thursday,200,128,64.0
+147,5,Bengal Gram(Gram)(Whole),Thursday,198,109,55.05050505050505
+148,5,Bengal Gram(Gram)(Whole),Thursday,200,164,82.0
+149,5,Bengal Gram(Gram)(Whole),Thursday,175,106,60.57142857142858
+151,5,Bengal Gram(Gram)(Whole),Thursday,185,55,29.72972972972973
+152,5,Bengal Gram(Gram)(Whole),Thursday,198,45,22.727272727272727
+153,5,Bengal Gram(Gram)(Whole),Thursday,196,76,38.775510204081634
+154,5,Bengal Gram(Gram)(Whole),Thursday,198,64,32.323232323232325
+169,5,Bengal Gram(Gram)(Whole),Thursday,200,82,41.0
+1,5,Bengal Gram(Gram)(Whole),Friday,200,83,41.5
+2,5,Bengal Gram(Gram)(Whole),Friday,200,158,79.0
+3,5,Bengal Gram(Gram)(Whole),Friday,197,85,43.14720812182741
+9,5,Bengal Gram(Gram)(Whole),Friday,184,39,21.195652173913043
+10,5,Bengal Gram(Gram)(Whole),Friday,200,125,62.5
+11,5,Bengal Gram(Gram)(Whole),Friday,200,169,84.5
+12,5,Bengal Gram(Gram)(Whole),Friday,200,71,35.5
+14,5,Bengal Gram(Gram)(Whole),Friday,140,46,32.857142857142854
+15,5,Bengal Gram(Gram)(Whole),Friday,136,57,41.911764705882355
+16,5,Bengal Gram(Gram)(Whole),Friday,200,114,56.99999999999999
+19,5,Bengal Gram(Gram)(Whole),Friday,189,66,34.92063492063492
+25,5,Bengal Gram(Gram)(Whole),Friday,191,41,21.465968586387437
+30,5,Bengal Gram(Gram)(Whole),Friday,200,83,41.5
+32,5,Bengal Gram(Gram)(Whole),Friday,169,33,19.526627218934912
+36,5,Bengal Gram(Gram)(Whole),Friday,200,136,68.0
+37,5,Bengal Gram(Gram)(Whole),Friday,141,105,74.46808510638297
+38,5,Bengal Gram(Gram)(Whole),Friday,200,50,25.0
+40,5,Bengal Gram(Gram)(Whole),Friday,119,51,42.857142857142854
+43,5,Bengal Gram(Gram)(Whole),Friday,148,52,35.13513513513514
+47,5,Bengal Gram(Gram)(Whole),Friday,200,70,35.0
+48,5,Bengal Gram(Gram)(Whole),Friday,200,118,59.0
+50,5,Bengal Gram(Gram)(Whole),Friday,175,82,46.85714285714286
+52,5,Bengal Gram(Gram)(Whole),Friday,147,77,52.38095238095239
+53,5,Bengal Gram(Gram)(Whole),Friday,200,76,38.0
+62,5,Bengal Gram(Gram)(Whole),Friday,193,29,15.025906735751295
+63,5,Bengal Gram(Gram)(Whole),Friday,200,115,57.49999999999999
+66,5,Bengal Gram(Gram)(Whole),Friday,198,71,35.858585858585855
+67,5,Bengal Gram(Gram)(Whole),Friday,191,55,28.79581151832461
+68,5,Bengal Gram(Gram)(Whole),Friday,197,56,28.426395939086298
+69,5,Bengal Gram(Gram)(Whole),Friday,200,60,30.0
+72,5,Bengal Gram(Gram)(Whole),Friday,200,52,26.0
+73,5,Bengal Gram(Gram)(Whole),Friday,179,47,26.256983240223462
+75,5,Bengal Gram(Gram)(Whole),Friday,199,103,51.75879396984925
+78,5,Bengal Gram(Gram)(Whole),Friday,200,95,47.5
+80,5,Bengal Gram(Gram)(Whole),Friday,145,41,28.27586206896552
+82,5,Bengal Gram(Gram)(Whole),Friday,200,103,51.5
+85,5,Bengal Gram(Gram)(Whole),Friday,193,51,26.42487046632124
+88,5,Bengal Gram(Gram)(Whole),Friday,200,134,67.0
+89,5,Bengal Gram(Gram)(Whole),Friday,200,106,53.0
+90,5,Bengal Gram(Gram)(Whole),Friday,198,60,30.303030303030305
+100,5,Bengal Gram(Gram)(Whole),Friday,200,134,67.0
+103,5,Bengal Gram(Gram)(Whole),Friday,193,122,63.212435233160626
+104,5,Bengal Gram(Gram)(Whole),Friday,200,135,67.5
+105,5,Bengal Gram(Gram)(Whole),Friday,141,122,86.52482269503547
+112,5,Bengal Gram(Gram)(Whole),Friday,200,120,60.0
+116,5,Bengal Gram(Gram)(Whole),Friday,187,66,35.294117647058826
+117,5,Bengal Gram(Gram)(Whole),Friday,184,50,27.173913043478258
+119,5,Bengal Gram(Gram)(Whole),Friday,200,126,63.0
+120,5,Bengal Gram(Gram)(Whole),Friday,199,145,72.8643216080402
+121,5,Bengal Gram(Gram)(Whole),Friday,200,134,67.0
+132,5,Bengal Gram(Gram)(Whole),Friday,199,38,19.09547738693467
+134,5,Bengal Gram(Gram)(Whole),Friday,137,67,48.9051094890511
+141,5,Bengal Gram(Gram)(Whole),Friday,192,77,40.10416666666667
+142,5,Bengal Gram(Gram)(Whole),Friday,199,76,38.19095477386934
+145,5,Bengal Gram(Gram)(Whole),Friday,200,96,48.0
+146,5,Bengal Gram(Gram)(Whole),Friday,200,133,66.5
+147,5,Bengal Gram(Gram)(Whole),Friday,198,111,56.060606060606055
+148,5,Bengal Gram(Gram)(Whole),Friday,200,156,78.0
+149,5,Bengal Gram(Gram)(Whole),Friday,175,110,62.857142857142854
+151,5,Bengal Gram(Gram)(Whole),Friday,184,52,28.26086956521739
+152,5,Bengal Gram(Gram)(Whole),Friday,199,49,24.623115577889447
+153,5,Bengal Gram(Gram)(Whole),Friday,195,73,37.43589743589744
+154,5,Bengal Gram(Gram)(Whole),Friday,198,51,25.757575757575758
+169,5,Bengal Gram(Gram)(Whole),Friday,200,90,45.0
+1,5,Bengal Gram(Gram)(Whole),Saturday,200,66,33.0
+2,5,Bengal Gram(Gram)(Whole),Saturday,200,143,71.5
+3,5,Bengal Gram(Gram)(Whole),Saturday,197,69,35.025380710659896
+9,5,Bengal Gram(Gram)(Whole),Saturday,185,36,19.45945945945946
+10,5,Bengal Gram(Gram)(Whole),Saturday,200,91,45.5
+11,5,Bengal Gram(Gram)(Whole),Saturday,200,161,80.5
+12,5,Bengal Gram(Gram)(Whole),Saturday,200,24,12.0
+14,5,Bengal Gram(Gram)(Whole),Saturday,140,17,12.142857142857142
+15,5,Bengal Gram(Gram)(Whole),Saturday,136,51,37.5
+16,5,Bengal Gram(Gram)(Whole),Saturday,200,46,23.0
+19,5,Bengal Gram(Gram)(Whole),Saturday,189,53,28.04232804232804
+25,5,Bengal Gram(Gram)(Whole),Saturday,191,29,15.18324607329843
+30,5,Bengal Gram(Gram)(Whole),Saturday,200,52,26.0
+32,5,Bengal Gram(Gram)(Whole),Saturday,169,29,17.159763313609467
+36,5,Bengal Gram(Gram)(Whole),Saturday,200,115,57.49999999999999
+37,5,Bengal Gram(Gram)(Whole),Saturday,141,98,69.50354609929079
+38,5,Bengal Gram(Gram)(Whole),Saturday,200,57,28.499999999999996
+40,5,Bengal Gram(Gram)(Whole),Saturday,119,0,0.0
+43,5,Bengal Gram(Gram)(Whole),Saturday,148,28,18.91891891891892
+47,5,Bengal Gram(Gram)(Whole),Saturday,200,74,37.0
+48,5,Bengal Gram(Gram)(Whole),Saturday,200,115,57.49999999999999
+50,5,Bengal Gram(Gram)(Whole),Saturday,175,75,42.857142857142854
+52,5,Bengal Gram(Gram)(Whole),Saturday,147,59,40.136054421768705
+53,5,Bengal Gram(Gram)(Whole),Saturday,199,56,28.14070351758794
+62,5,Bengal Gram(Gram)(Whole),Saturday,193,26,13.471502590673575
+63,5,Bengal Gram(Gram)(Whole),Saturday,200,103,51.5
+66,5,Bengal Gram(Gram)(Whole),Saturday,198,54,27.27272727272727
+67,5,Bengal Gram(Gram)(Whole),Saturday,191,48,25.13089005235602
+68,5,Bengal Gram(Gram)(Whole),Saturday,196,62,31.63265306122449
+69,5,Bengal Gram(Gram)(Whole),Saturday,200,40,20.0
+72,5,Bengal Gram(Gram)(Whole),Saturday,200,51,25.5
+73,5,Bengal Gram(Gram)(Whole),Saturday,179,46,25.69832402234637
+75,5,Bengal Gram(Gram)(Whole),Saturday,199,96,48.24120603015075
+78,5,Bengal Gram(Gram)(Whole),Saturday,200,67,33.5
+80,5,Bengal Gram(Gram)(Whole),Saturday,145,32,22.06896551724138
+82,5,Bengal Gram(Gram)(Whole),Saturday,200,76,38.0
+85,5,Bengal Gram(Gram)(Whole),Saturday,194,32,16.49484536082474
+88,5,Bengal Gram(Gram)(Whole),Saturday,200,131,65.5
+89,5,Bengal Gram(Gram)(Whole),Saturday,199,94,47.23618090452261
+90,5,Bengal Gram(Gram)(Whole),Saturday,199,59,29.64824120603015
+100,5,Bengal Gram(Gram)(Whole),Saturday,200,111,55.50000000000001
+103,5,Bengal Gram(Gram)(Whole),Saturday,193,112,58.03108808290155
+104,5,Bengal Gram(Gram)(Whole),Saturday,200,87,43.5
+105,5,Bengal Gram(Gram)(Whole),Saturday,141,116,82.26950354609929
+112,5,Bengal Gram(Gram)(Whole),Saturday,200,106,53.0
+116,5,Bengal Gram(Gram)(Whole),Saturday,188,63,33.51063829787234
+117,5,Bengal Gram(Gram)(Whole),Saturday,184,49,26.6304347826087
+119,5,Bengal Gram(Gram)(Whole),Saturday,200,126,63.0
+120,5,Bengal Gram(Gram)(Whole),Saturday,199,110,55.27638190954774
+121,5,Bengal Gram(Gram)(Whole),Saturday,200,123,61.5
+132,5,Bengal Gram(Gram)(Whole),Saturday,199,26,13.06532663316583
+134,5,Bengal Gram(Gram)(Whole),Saturday,137,35,25.547445255474454
+141,5,Bengal Gram(Gram)(Whole),Saturday,192,65,33.85416666666667
+142,5,Bengal Gram(Gram)(Whole),Saturday,199,61,30.65326633165829
+145,5,Bengal Gram(Gram)(Whole),Saturday,200,93,46.5
+146,5,Bengal Gram(Gram)(Whole),Saturday,200,114,56.99999999999999
+147,5,Bengal Gram(Gram)(Whole),Saturday,199,107,53.768844221105525
+148,5,Bengal Gram(Gram)(Whole),Saturday,200,150,75.0
+149,5,Bengal Gram(Gram)(Whole),Saturday,175,110,62.857142857142854
+151,5,Bengal Gram(Gram)(Whole),Saturday,184,51,27.717391304347828
+152,5,Bengal Gram(Gram)(Whole),Saturday,199,45,22.613065326633166
+153,5,Bengal Gram(Gram)(Whole),Saturday,195,64,32.82051282051282
+154,5,Bengal Gram(Gram)(Whole),Saturday,198,45,22.727272727272727
+169,5,Bengal Gram(Gram)(Whole),Saturday,200,82,41.0
+1,5,Bengal Gram(Gram)(Whole),Sunday,200,11,5.5
+2,5,Bengal Gram(Gram)(Whole),Sunday,200,1,0.5
+3,5,Bengal Gram(Gram)(Whole),Sunday,197,3,1.5228426395939088
+9,5,Bengal Gram(Gram)(Whole),Sunday,185,0,0.0
+10,5,Bengal Gram(Gram)(Whole),Sunday,200,15,7.5
+11,5,Bengal Gram(Gram)(Whole),Sunday,200,0,0.0
+12,5,Bengal Gram(Gram)(Whole),Sunday,200,1,0.5
+14,5,Bengal Gram(Gram)(Whole),Sunday,139,1,0.7194244604316548
+15,5,Bengal Gram(Gram)(Whole),Sunday,136,0,0.0
+16,5,Bengal Gram(Gram)(Whole),Sunday,200,4,2.0
+19,5,Bengal Gram(Gram)(Whole),Sunday,189,2,1.0582010582010581
+25,5,Bengal Gram(Gram)(Whole),Sunday,191,0,0.0
+30,5,Bengal Gram(Gram)(Whole),Sunday,200,1,0.5
+32,5,Bengal Gram(Gram)(Whole),Sunday,169,0,0.0
+36,5,Bengal Gram(Gram)(Whole),Sunday,200,0,0.0
+37,5,Bengal Gram(Gram)(Whole),Sunday,141,0,0.0
+38,5,Bengal Gram(Gram)(Whole),Sunday,200,0,0.0
+40,5,Bengal Gram(Gram)(Whole),Sunday,119,0,0.0
+43,5,Bengal Gram(Gram)(Whole),Sunday,147,1,0.6802721088435374
+47,5,Bengal Gram(Gram)(Whole),Sunday,201,117,58.2089552238806
+48,5,Bengal Gram(Gram)(Whole),Sunday,199,1,0.5025125628140703
+50,5,Bengal Gram(Gram)(Whole),Sunday,175,63,36.0
+52,5,Bengal Gram(Gram)(Whole),Sunday,147,0,0.0
+53,5,Bengal Gram(Gram)(Whole),Sunday,199,36,18.090452261306535
+62,5,Bengal Gram(Gram)(Whole),Sunday,193,0,0.0
+63,5,Bengal Gram(Gram)(Whole),Sunday,200,2,1.0
+66,5,Bengal Gram(Gram)(Whole),Sunday,198,0,0.0
+67,5,Bengal Gram(Gram)(Whole),Sunday,191,0,0.0
+68,5,Bengal Gram(Gram)(Whole),Sunday,196,0,0.0
+69,5,Bengal Gram(Gram)(Whole),Sunday,200,0,0.0
+72,5,Bengal Gram(Gram)(Whole),Sunday,200,0,0.0
+73,5,Bengal Gram(Gram)(Whole),Sunday,179,13,7.262569832402235
+75,5,Bengal Gram(Gram)(Whole),Sunday,199,0,0.0
+78,5,Bengal Gram(Gram)(Whole),Sunday,201,17,8.45771144278607
+80,5,Bengal Gram(Gram)(Whole),Sunday,145,0,0.0
+82,5,Bengal Gram(Gram)(Whole),Sunday,200,0,0.0
+85,5,Bengal Gram(Gram)(Whole),Sunday,194,1,0.5154639175257731
+88,5,Bengal Gram(Gram)(Whole),Sunday,200,0,0.0
+89,5,Bengal Gram(Gram)(Whole),Sunday,199,0,0.0
+90,5,Bengal Gram(Gram)(Whole),Sunday,199,1,0.5025125628140703
+100,5,Bengal Gram(Gram)(Whole),Sunday,200,2,1.0
+103,5,Bengal Gram(Gram)(Whole),Sunday,193,0,0.0
+104,5,Bengal Gram(Gram)(Whole),Sunday,200,3,1.5
+105,5,Bengal Gram(Gram)(Whole),Sunday,141,0,0.0
+112,5,Bengal Gram(Gram)(Whole),Sunday,200,91,45.5
+116,5,Bengal Gram(Gram)(Whole),Sunday,188,1,0.5319148936170213
+117,5,Bengal Gram(Gram)(Whole),Sunday,184,0,0.0
+119,5,Bengal Gram(Gram)(Whole),Sunday,200,0,0.0
+120,5,Bengal Gram(Gram)(Whole),Sunday,199,1,0.5025125628140703
+121,5,Bengal Gram(Gram)(Whole),Sunday,200,0,0.0
+132,5,Bengal Gram(Gram)(Whole),Sunday,199,0,0.0
+134,5,Bengal Gram(Gram)(Whole),Sunday,137,1,0.7299270072992701
+141,5,Bengal Gram(Gram)(Whole),Sunday,192,0,0.0
+142,5,Bengal Gram(Gram)(Whole),Sunday,199,1,0.5025125628140703
+145,5,Bengal Gram(Gram)(Whole),Sunday,200,0,0.0
+146,5,Bengal Gram(Gram)(Whole),Sunday,200,0,0.0
+147,5,Bengal Gram(Gram)(Whole),Sunday,199,0,0.0
+148,5,Bengal Gram(Gram)(Whole),Sunday,201,138,68.65671641791045
+149,5,Bengal Gram(Gram)(Whole),Sunday,175,0,0.0
+151,5,Bengal Gram(Gram)(Whole),Sunday,184,1,0.5434782608695652
+152,5,Bengal Gram(Gram)(Whole),Sunday,199,0,0.0
+153,5,Bengal Gram(Gram)(Whole),Sunday,195,1,0.5128205128205128
+154,5,Bengal Gram(Gram)(Whole),Sunday,198,5,2.525252525252525
+169,5,Bengal Gram(Gram)(Whole),Sunday,200,0,0.0
+1,8,Mustard,Monday,201,141,70.1492537313433
+2,8,Mustard,Monday,201,126,62.68656716417911
+3,8,Mustard,Monday,200,168,84.0
+4,8,Mustard,Monday,87,74,85.0574712643678
+5,8,Mustard,Monday,201,173,86.06965174129353
+6,8,Mustard,Monday,201,152,75.62189054726367
+7,8,Mustard,Monday,201,166,82.58706467661692
+9,8,Mustard,Monday,200,78,39.0
+10,8,Mustard,Monday,200,141,70.5
+11,8,Mustard,Monday,201,167,83.08457711442786
+12,8,Mustard,Monday,201,126,62.68656716417911
+14,8,Mustard,Monday,140,84,60.0
+15,8,Mustard,Monday,140,69,49.28571428571429
+16,8,Mustard,Monday,201,143,71.14427860696517
+18,8,Mustard,Monday,194,43,22.164948453608247
+19,8,Mustard,Monday,190,54,28.421052631578945
+20,8,Mustard,Monday,187,53,28.342245989304814
+21,8,Mustard,Monday,200,120,60.0
+22,8,Mustard,Monday,201,126,62.68656716417911
+23,8,Mustard,Monday,122,85,69.67213114754098
+24,8,Mustard,Monday,200,162,81.0
+25,8,Mustard,Monday,189,48,25.396825396825395
+30,8,Mustard,Monday,199,89,44.72361809045226
+31,8,Mustard,Monday,200,110,55.00000000000001
+32,8,Mustard,Monday,184,63,34.23913043478261
+33,8,Mustard,Monday,182,60,32.967032967032964
+34,8,Mustard,Monday,135,49,36.2962962962963
+36,8,Mustard,Monday,201,150,74.6268656716418
+37,8,Mustard,Monday,201,168,83.5820895522388
+38,8,Mustard,Monday,200,91,45.5
+39,8,Mustard,Monday,201,126,62.68656716417911
+40,8,Mustard,Monday,197,42,21.31979695431472
+43,8,Mustard,Monday,201,139,69.15422885572139
+45,8,Mustard,Monday,192,41,21.354166666666664
+47,8,Mustard,Monday,201,126,62.68656716417911
+48,8,Mustard,Monday,201,142,70.64676616915423
+50,8,Mustard,Monday,201,49,24.378109452736318
+51,8,Mustard,Monday,196,68,34.69387755102041
+52,8,Mustard,Monday,149,93,62.41610738255034
+53,8,Mustard,Monday,201,167,83.08457711442786
+56,8,Mustard,Monday,201,171,85.07462686567165
+57,8,Mustard,Monday,200,140,70.0
+58,8,Mustard,Monday,199,86,43.21608040201005
+59,8,Mustard,Monday,200,138,69.0
+60,8,Mustard,Monday,79,63,79.74683544303798
+61,8,Mustard,Monday,199,84,42.211055276381906
+62,8,Mustard,Monday,201,165,82.08955223880598
+63,8,Mustard,Monday,201,163,81.09452736318407
+64,8,Mustard,Monday,200,140,70.0
+65,8,Mustard,Monday,201,119,59.20398009950249
+66,8,Mustard,Monday,201,143,71.14427860696517
+67,8,Mustard,Monday,196,97,49.48979591836735
+68,8,Mustard,Monday,194,121,62.371134020618555
+69,8,Mustard,Monday,201,79,39.30348258706468
+70,8,Mustard,Monday,201,124,61.69154228855721
+72,8,Mustard,Monday,201,137,68.1592039800995
+73,8,Mustard,Monday,201,112,55.72139303482587
+74,8,Mustard,Monday,201,125,62.189054726368155
+75,8,Mustard,Monday,201,173,86.06965174129353
+76,8,Mustard,Monday,201,124,61.69154228855721
+78,8,Mustard,Monday,201,143,71.14427860696517
+79,8,Mustard,Monday,201,120,59.70149253731343
+80,8,Mustard,Monday,147,97,65.98639455782312
+81,8,Mustard,Monday,199,45,22.613065326633166
+82,8,Mustard,Monday,201,135,67.16417910447761
+83,8,Mustard,Monday,200,126,63.0
+84,8,Mustard,Monday,201,140,69.65174129353234
+85,8,Mustard,Monday,201,144,71.64179104477611
+88,8,Mustard,Monday,201,153,76.11940298507463
+89,8,Mustard,Monday,200,123,61.5
+90,8,Mustard,Monday,201,122,60.69651741293532
+95,8,Mustard,Monday,148,52,35.13513513513514
+98,8,Mustard,Monday,194,35,18.04123711340206
+100,8,Mustard,Monday,201,129,64.17910447761194
+101,8,Mustard,Monday,195,74,37.94871794871795
+103,8,Mustard,Monday,201,166,82.58706467661692
+104,8,Mustard,Monday,201,154,76.61691542288557
+105,8,Mustard,Monday,201,168,83.5820895522388
+107,8,Mustard,Monday,195,92,47.179487179487175
+108,8,Mustard,Monday,129,53,41.08527131782946
+109,8,Mustard,Monday,200,99,49.5
+110,8,Mustard,Monday,188,29,15.425531914893616
+111,8,Mustard,Monday,200,117,58.5
+112,8,Mustard,Monday,199,83,41.70854271356784
+113,8,Mustard,Monday,195,56,28.717948717948715
+114,8,Mustard,Monday,201,87,43.28358208955223
+115,8,Mustard,Monday,121,71,58.67768595041323
+116,8,Mustard,Monday,200,120,60.0
+117,8,Mustard,Monday,200,129,64.5
+118,8,Mustard,Monday,120,43,35.833333333333336
+119,8,Mustard,Monday,201,129,64.17910447761194
+120,8,Mustard,Monday,200,146,73.0
+121,8,Mustard,Monday,201,132,65.67164179104478
+122,8,Mustard,Monday,136,94,69.11764705882352
+123,8,Mustard,Monday,181,52,28.7292817679558
+125,8,Mustard,Monday,177,65,36.72316384180791
+128,8,Mustard,Monday,159,71,44.65408805031446
+132,8,Mustard,Monday,200,42,21.0
+133,8,Mustard,Monday,198,97,48.98989898989899
+134,8,Mustard,Monday,137,73,53.284671532846716
+135,8,Mustard,Monday,200,152,76.0
+139,8,Mustard,Monday,160,42,26.25
+141,8,Mustard,Monday,198,135,68.18181818181817
+142,8,Mustard,Monday,201,148,73.6318407960199
+144,8,Mustard,Monday,109,59,54.12844036697248
+145,8,Mustard,Monday,200,121,60.5
+146,8,Mustard,Monday,201,170,84.5771144278607
+147,8,Mustard,Monday,187,155,82.88770053475936
+148,8,Mustard,Monday,201,160,79.60199004975125
+149,8,Mustard,Monday,201,162,80.59701492537313
+150,8,Mustard,Monday,125,68,54.400000000000006
+151,8,Mustard,Monday,201,166,82.58706467661692
+152,8,Mustard,Monday,201,120,59.70149253731343
+153,8,Mustard,Monday,200,131,65.5
+159,8,Mustard,Monday,48,38,79.16666666666666
+160,8,Mustard,Monday,80,49,61.25000000000001
+164,8,Mustard,Monday,91,66,72.52747252747253
+165,8,Mustard,Monday,75,41,54.666666666666664
+166,8,Mustard,Monday,52,45,86.53846153846155
+169,8,Mustard,Monday,201,149,74.12935323383084
+1,8,Mustard,Tuesday,201,144,71.64179104477611
+2,8,Mustard,Tuesday,200,128,64.0
+3,8,Mustard,Tuesday,200,168,84.0
+4,8,Mustard,Tuesday,87,76,87.35632183908046
+5,8,Mustard,Tuesday,201,176,87.56218905472637
+6,8,Mustard,Tuesday,201,154,76.61691542288557
+7,8,Mustard,Tuesday,201,170,84.5771144278607
+9,8,Mustard,Tuesday,200,82,41.0
+10,8,Mustard,Tuesday,200,149,74.5
+11,8,Mustard,Tuesday,200,171,85.5
+12,8,Mustard,Tuesday,201,119,59.20398009950249
+14,8,Mustard,Tuesday,140,93,66.42857142857143
+15,8,Mustard,Tuesday,140,54,38.57142857142858
+16,8,Mustard,Tuesday,201,145,72.13930348258707
+18,8,Mustard,Tuesday,194,67,34.5360824742268
+19,8,Mustard,Tuesday,190,63,33.1578947368421
+20,8,Mustard,Tuesday,187,63,33.68983957219251
+21,8,Mustard,Tuesday,200,116,57.99999999999999
+22,8,Mustard,Tuesday,201,112,55.72139303482587
+23,8,Mustard,Tuesday,122,94,77.04918032786885
+24,8,Mustard,Tuesday,200,162,81.0
+25,8,Mustard,Tuesday,189,56,29.629629629629626
+30,8,Mustard,Tuesday,200,87,43.5
+31,8,Mustard,Tuesday,201,110,54.72636815920397
+32,8,Mustard,Tuesday,184,66,35.869565217391305
+33,8,Mustard,Tuesday,182,59,32.417582417582416
+34,8,Mustard,Tuesday,134,45,33.582089552238806
+36,8,Mustard,Tuesday,201,156,77.61194029850746
+37,8,Mustard,Tuesday,201,170,84.5771144278607
+38,8,Mustard,Tuesday,200,101,50.5
+39,8,Mustard,Tuesday,200,120,60.0
+40,8,Mustard,Tuesday,198,46,23.232323232323232
+43,8,Mustard,Tuesday,201,139,69.15422885572139
+45,8,Mustard,Tuesday,192,38,19.791666666666664
+47,8,Mustard,Tuesday,200,3,1.5
+48,8,Mustard,Tuesday,200,155,77.5
+50,8,Mustard,Tuesday,200,168,84.0
+51,8,Mustard,Tuesday,197,78,39.59390862944163
+52,8,Mustard,Tuesday,149,104,69.79865771812081
+53,8,Mustard,Tuesday,201,179,89.05472636815921
+56,8,Mustard,Tuesday,201,172,85.57213930348259
+57,8,Mustard,Tuesday,201,142,70.64676616915423
+58,8,Mustard,Tuesday,199,86,43.21608040201005
+59,8,Mustard,Tuesday,200,141,70.5
+60,8,Mustard,Tuesday,79,68,86.07594936708861
+61,8,Mustard,Tuesday,200,92,46.0
+62,8,Mustard,Tuesday,201,169,84.07960199004975
+63,8,Mustard,Tuesday,201,173,86.06965174129353
+64,8,Mustard,Tuesday,200,136,68.0
+65,8,Mustard,Tuesday,201,133,66.16915422885572
+66,8,Mustard,Tuesday,201,150,74.6268656716418
+67,8,Mustard,Tuesday,196,92,46.93877551020408
+68,8,Mustard,Tuesday,194,131,67.5257731958763
+69,8,Mustard,Tuesday,201,94,46.766169154228855
+70,8,Mustard,Tuesday,201,134,66.66666666666666
+72,8,Mustard,Tuesday,201,153,76.11940298507463
+73,8,Mustard,Tuesday,201,115,57.2139303482587
+74,8,Mustard,Tuesday,201,129,64.17910447761194
+75,8,Mustard,Tuesday,201,185,92.03980099502488
+76,8,Mustard,Tuesday,201,125,62.189054726368155
+78,8,Mustard,Tuesday,201,179,89.05472636815921
+79,8,Mustard,Tuesday,200,126,63.0
+80,8,Mustard,Tuesday,148,99,66.8918918918919
+81,8,Mustard,Tuesday,199,48,24.120603015075375
+82,8,Mustard,Tuesday,200,137,68.5
+83,8,Mustard,Tuesday,200,133,66.5
+84,8,Mustard,Tuesday,201,151,75.12437810945273
+85,8,Mustard,Tuesday,201,158,78.60696517412936
+88,8,Mustard,Tuesday,201,172,85.57213930348259
+89,8,Mustard,Tuesday,200,119,59.5
+90,8,Mustard,Tuesday,201,123,61.19402985074627
+95,8,Mustard,Tuesday,147,53,36.054421768707485
+98,8,Mustard,Tuesday,195,48,24.615384615384617
+100,8,Mustard,Tuesday,200,133,66.5
+101,8,Mustard,Tuesday,196,84,42.857142857142854
+103,8,Mustard,Tuesday,201,170,84.5771144278607
+104,8,Mustard,Tuesday,201,158,78.60696517412936
+105,8,Mustard,Tuesday,201,167,83.08457711442786
+107,8,Mustard,Tuesday,195,83,42.56410256410256
+108,8,Mustard,Tuesday,129,0,0.0
+109,8,Mustard,Tuesday,200,105,52.5
+110,8,Mustard,Tuesday,189,58,30.687830687830687
+111,8,Mustard,Tuesday,200,129,64.5
+112,8,Mustard,Tuesday,200,80,40.0
+113,8,Mustard,Tuesday,195,69,35.38461538461539
+114,8,Mustard,Tuesday,201,107,53.233830845771145
+115,8,Mustard,Tuesday,121,89,73.55371900826447
+116,8,Mustard,Tuesday,200,124,62.0
+117,8,Mustard,Tuesday,200,138,69.0
+118,8,Mustard,Tuesday,120,46,38.333333333333336
+119,8,Mustard,Tuesday,201,132,65.67164179104478
+120,8,Mustard,Tuesday,200,142,71.0
+121,8,Mustard,Tuesday,201,137,68.1592039800995
+122,8,Mustard,Tuesday,136,94,69.11764705882352
+123,8,Mustard,Tuesday,181,40,22.099447513812155
+125,8,Mustard,Tuesday,176,59,33.52272727272727
+128,8,Mustard,Tuesday,160,62,38.75
+132,8,Mustard,Tuesday,200,42,21.0
+133,8,Mustard,Tuesday,198,107,54.04040404040404
+134,8,Mustard,Tuesday,138,75,54.347826086956516
+135,8,Mustard,Tuesday,199,161,80.90452261306532
+139,8,Mustard,Tuesday,160,42,26.25
+141,8,Mustard,Tuesday,198,134,67.67676767676768
+142,8,Mustard,Tuesday,201,149,74.12935323383084
+144,8,Mustard,Tuesday,109,64,58.71559633027523
+145,8,Mustard,Tuesday,200,122,61.0
+146,8,Mustard,Tuesday,201,171,85.07462686567165
+147,8,Mustard,Tuesday,187,163,87.16577540106952
+148,8,Mustard,Tuesday,200,9,4.5
+149,8,Mustard,Tuesday,201,162,80.59701492537313
+150,8,Mustard,Tuesday,125,61,48.8
+151,8,Mustard,Tuesday,201,157,78.1094527363184
+152,8,Mustard,Tuesday,201,126,62.68656716417911
+153,8,Mustard,Tuesday,200,124,62.0
+159,8,Mustard,Tuesday,48,37,77.08333333333334
+160,8,Mustard,Tuesday,80,51,63.74999999999999
+164,8,Mustard,Tuesday,91,67,73.62637362637363
+165,8,Mustard,Tuesday,75,40,53.333333333333336
+166,8,Mustard,Tuesday,52,43,82.6923076923077
+169,8,Mustard,Tuesday,201,144,71.64179104477611
+1,8,Mustard,Wednesday,200,144,72.0
+2,8,Mustard,Wednesday,200,128,64.0
+3,8,Mustard,Wednesday,200,169,84.5
+4,8,Mustard,Wednesday,87,72,82.75862068965517
+5,8,Mustard,Wednesday,200,173,86.5
+6,8,Mustard,Wednesday,200,156,78.0
+7,8,Mustard,Wednesday,200,162,81.0
+9,8,Mustard,Wednesday,199,80,40.20100502512563
+10,8,Mustard,Wednesday,200,150,75.0
+11,8,Mustard,Wednesday,200,167,83.5
+12,8,Mustard,Wednesday,200,115,57.49999999999999
+14,8,Mustard,Wednesday,139,83,59.71223021582733
+15,8,Mustard,Wednesday,140,71,50.71428571428571
+16,8,Mustard,Wednesday,200,146,73.0
+18,8,Mustard,Wednesday,193,62,32.12435233160622
+19,8,Mustard,Wednesday,190,59,31.05263157894737
+20,8,Mustard,Wednesday,186,58,31.182795698924732
+21,8,Mustard,Wednesday,200,113,56.49999999999999
+22,8,Mustard,Wednesday,200,110,55.00000000000001
+23,8,Mustard,Wednesday,122,91,74.59016393442623
+24,8,Mustard,Wednesday,200,163,81.5
+25,8,Mustard,Wednesday,189,45,23.809523809523807
+30,8,Mustard,Wednesday,200,94,47.0
+31,8,Mustard,Wednesday,200,112,56.00000000000001
+32,8,Mustard,Wednesday,183,68,37.15846994535519
+33,8,Mustard,Wednesday,182,54,29.67032967032967
+34,8,Mustard,Wednesday,135,41,30.37037037037037
+36,8,Mustard,Wednesday,200,161,80.5
+37,8,Mustard,Wednesday,200,164,82.0
+38,8,Mustard,Wednesday,200,99,49.5
+39,8,Mustard,Wednesday,200,120,60.0
+40,8,Mustard,Wednesday,198,47,23.737373737373737
+43,8,Mustard,Wednesday,200,147,73.5
+45,8,Mustard,Wednesday,191,43,22.5130890052356
+47,8,Mustard,Wednesday,200,123,61.5
+48,8,Mustard,Wednesday,200,154,77.0
+50,8,Mustard,Wednesday,200,170,85.0
+51,8,Mustard,Wednesday,197,63,31.979695431472084
+52,8,Mustard,Wednesday,148,89,60.13513513513513
+53,8,Mustard,Wednesday,200,174,87.0
+56,8,Mustard,Wednesday,200,166,83.0
+57,8,Mustard,Wednesday,200,130,65.0
+58,8,Mustard,Wednesday,199,87,43.71859296482412
+59,8,Mustard,Wednesday,200,134,67.0
+60,8,Mustard,Wednesday,79,68,86.07594936708861
+61,8,Mustard,Wednesday,200,92,46.0
+62,8,Mustard,Wednesday,200,161,80.5
+63,8,Mustard,Wednesday,200,175,87.5
+64,8,Mustard,Wednesday,200,145,72.5
+65,8,Mustard,Wednesday,200,136,68.0
+66,8,Mustard,Wednesday,200,155,77.5
+67,8,Mustard,Wednesday,196,91,46.42857142857143
+68,8,Mustard,Wednesday,193,121,62.69430051813472
+69,8,Mustard,Wednesday,200,81,40.5
+70,8,Mustard,Wednesday,200,139,69.5
+72,8,Mustard,Wednesday,200,154,77.0
+73,8,Mustard,Wednesday,200,119,59.5
+74,8,Mustard,Wednesday,200,117,58.5
+75,8,Mustard,Wednesday,200,172,86.0
+76,8,Mustard,Wednesday,200,122,61.0
+78,8,Mustard,Wednesday,200,166,83.0
+79,8,Mustard,Wednesday,200,115,57.49999999999999
+80,8,Mustard,Wednesday,148,96,64.86486486486487
+81,8,Mustard,Wednesday,198,49,24.747474747474747
+82,8,Mustard,Wednesday,200,125,62.5
+83,8,Mustard,Wednesday,200,137,68.5
+84,8,Mustard,Wednesday,200,138,69.0
+85,8,Mustard,Wednesday,200,154,77.0
+88,8,Mustard,Wednesday,200,162,81.0
+89,8,Mustard,Wednesday,200,130,65.0
+90,8,Mustard,Wednesday,200,128,64.0
+95,8,Mustard,Wednesday,147,50,34.01360544217687
+98,8,Mustard,Wednesday,194,44,22.68041237113402
+100,8,Mustard,Wednesday,200,137,68.5
+101,8,Mustard,Wednesday,196,78,39.795918367346935
+103,8,Mustard,Wednesday,200,158,79.0
+104,8,Mustard,Wednesday,200,154,77.0
+105,8,Mustard,Wednesday,200,160,80.0
+107,8,Mustard,Wednesday,195,81,41.53846153846154
+108,8,Mustard,Wednesday,130,50,38.46153846153847
+109,8,Mustard,Wednesday,200,96,48.0
+110,8,Mustard,Wednesday,189,49,25.925925925925924
+111,8,Mustard,Wednesday,200,113,56.49999999999999
+112,8,Mustard,Wednesday,200,81,40.5
+113,8,Mustard,Wednesday,195,0,0.0
+114,8,Mustard,Wednesday,200,103,51.5
+115,8,Mustard,Wednesday,120,81,67.5
+116,8,Mustard,Wednesday,199,119,59.798994974874375
+117,8,Mustard,Wednesday,200,133,66.5
+118,8,Mustard,Wednesday,120,45,37.5
+119,8,Mustard,Wednesday,200,135,67.5
+120,8,Mustard,Wednesday,200,151,75.5
+121,8,Mustard,Wednesday,200,133,66.5
+122,8,Mustard,Wednesday,136,90,66.17647058823529
+123,8,Mustard,Wednesday,182,56,30.76923076923077
+125,8,Mustard,Wednesday,176,55,31.25
+128,8,Mustard,Wednesday,159,66,41.509433962264154
+132,8,Mustard,Wednesday,199,43,21.608040201005025
+133,8,Mustard,Wednesday,198,106,53.535353535353536
+134,8,Mustard,Wednesday,138,73,52.89855072463768
+135,8,Mustard,Wednesday,199,155,77.88944723618091
+139,8,Mustard,Wednesday,160,42,26.25
+141,8,Mustard,Wednesday,198,128,64.64646464646465
+142,8,Mustard,Wednesday,200,159,79.5
+144,8,Mustard,Wednesday,109,69,63.30275229357798
+145,8,Mustard,Wednesday,200,128,64.0
+146,8,Mustard,Wednesday,200,171,85.5
+147,8,Mustard,Wednesday,187,162,86.63101604278076
+148,8,Mustard,Wednesday,200,134,67.0
+149,8,Mustard,Wednesday,200,169,84.5
+150,8,Mustard,Wednesday,124,68,54.83870967741935
+151,8,Mustard,Wednesday,200,165,82.5
+152,8,Mustard,Wednesday,200,125,62.5
+153,8,Mustard,Wednesday,200,121,60.5
+159,8,Mustard,Wednesday,48,38,79.16666666666666
+160,8,Mustard,Wednesday,81,50,61.72839506172839
+164,8,Mustard,Wednesday,90,64,71.11111111111111
+165,8,Mustard,Wednesday,75,33,44.0
+166,8,Mustard,Wednesday,51,39,76.47058823529412
+169,8,Mustard,Wednesday,200,154,77.0
+1,8,Mustard,Thursday,200,141,70.5
+2,8,Mustard,Thursday,200,130,65.0
+3,8,Mustard,Thursday,200,157,78.5
+4,8,Mustard,Thursday,86,72,83.72093023255815
+5,8,Mustard,Thursday,200,174,87.0
+6,8,Mustard,Thursday,200,138,69.0
+7,8,Mustard,Thursday,200,161,80.5
+9,8,Mustard,Thursday,199,69,34.67336683417086
+10,8,Mustard,Thursday,200,151,75.5
+11,8,Mustard,Thursday,200,167,83.5
+12,8,Mustard,Thursday,200,117,58.5
+14,8,Mustard,Thursday,140,91,65.0
+15,8,Mustard,Thursday,140,62,44.285714285714285
+16,8,Mustard,Thursday,200,151,75.5
+18,8,Mustard,Thursday,193,56,29.015544041450774
+19,8,Mustard,Thursday,191,62,32.460732984293195
+20,8,Mustard,Thursday,186,45,24.193548387096776
+21,8,Mustard,Thursday,200,114,56.99999999999999
+22,8,Mustard,Thursday,200,97,48.5
+23,8,Mustard,Thursday,122,85,69.67213114754098
+24,8,Mustard,Thursday,200,153,76.5
+25,8,Mustard,Thursday,189,38,20.105820105820104
+30,8,Mustard,Thursday,200,82,41.0
+31,8,Mustard,Thursday,200,103,51.5
+32,8,Mustard,Thursday,183,67,36.6120218579235
+33,8,Mustard,Thursday,181,52,28.7292817679558
+34,8,Mustard,Thursday,135,44,32.592592592592595
+36,8,Mustard,Thursday,200,150,75.0
+37,8,Mustard,Thursday,200,169,84.5
+38,8,Mustard,Thursday,200,91,45.5
+39,8,Mustard,Thursday,200,115,57.49999999999999
+40,8,Mustard,Thursday,198,35,17.67676767676768
+43,8,Mustard,Thursday,200,137,68.5
+45,8,Mustard,Thursday,191,33,17.277486910994764
+47,8,Mustard,Thursday,200,110,55.00000000000001
+48,8,Mustard,Thursday,200,148,74.0
+50,8,Mustard,Thursday,200,165,82.5
+51,8,Mustard,Thursday,197,63,31.979695431472084
+52,8,Mustard,Thursday,148,95,64.1891891891892
+53,8,Mustard,Thursday,200,172,86.0
+56,8,Mustard,Thursday,200,169,84.5
+57,8,Mustard,Thursday,200,124,62.0
+58,8,Mustard,Thursday,199,95,47.73869346733669
+59,8,Mustard,Thursday,200,120,60.0
+60,8,Mustard,Thursday,79,62,78.48101265822784
+61,8,Mustard,Thursday,200,103,51.5
+62,8,Mustard,Thursday,200,156,78.0
+63,8,Mustard,Thursday,200,175,87.5
+64,8,Mustard,Thursday,200,134,67.0
+65,8,Mustard,Thursday,200,119,59.5
+66,8,Mustard,Thursday,200,138,69.0
+67,8,Mustard,Thursday,196,98,50.0
+68,8,Mustard,Thursday,193,115,59.58549222797927
+69,8,Mustard,Thursday,200,74,37.0
+70,8,Mustard,Thursday,200,135,67.5
+72,8,Mustard,Thursday,200,145,72.5
+73,8,Mustard,Thursday,200,111,55.50000000000001
+74,8,Mustard,Thursday,200,88,44.0
+75,8,Mustard,Thursday,200,179,89.5
+76,8,Mustard,Thursday,200,109,54.50000000000001
+78,8,Mustard,Thursday,200,166,83.0
+79,8,Mustard,Thursday,200,115,57.49999999999999
+80,8,Mustard,Thursday,148,92,62.16216216216216
+81,8,Mustard,Thursday,199,37,18.592964824120603
+82,8,Mustard,Thursday,200,125,62.5
+83,8,Mustard,Thursday,200,134,67.0
+84,8,Mustard,Thursday,200,141,70.5
+85,8,Mustard,Thursday,200,145,72.5
+88,8,Mustard,Thursday,200,165,82.5
+89,8,Mustard,Thursday,200,125,62.5
+90,8,Mustard,Thursday,200,122,61.0
+95,8,Mustard,Thursday,147,3,2.0408163265306123
+98,8,Mustard,Thursday,194,38,19.587628865979383
+100,8,Mustard,Thursday,200,125,62.5
+101,8,Mustard,Thursday,195,81,41.53846153846154
+103,8,Mustard,Thursday,200,153,76.5
+104,8,Mustard,Thursday,200,155,77.5
+105,8,Mustard,Thursday,200,159,79.5
+107,8,Mustard,Thursday,194,77,39.69072164948454
+108,8,Mustard,Thursday,129,48,37.2093023255814
+109,8,Mustard,Thursday,200,99,49.5
+110,8,Mustard,Thursday,189,50,26.455026455026452
+111,8,Mustard,Thursday,200,121,60.5
+112,8,Mustard,Thursday,200,84,42.0
+113,8,Mustard,Thursday,195,78,40.0
+114,8,Mustard,Thursday,200,102,51.0
+115,8,Mustard,Thursday,120,85,70.83333333333334
+116,8,Mustard,Thursday,199,114,57.286432160804026
+117,8,Mustard,Thursday,200,124,62.0
+118,8,Mustard,Thursday,119,40,33.61344537815126
+119,8,Mustard,Thursday,200,128,64.0
+120,8,Mustard,Thursday,200,145,72.5
+121,8,Mustard,Thursday,200,128,64.0
+122,8,Mustard,Thursday,136,85,62.5
+123,8,Mustard,Thursday,182,48,26.373626373626376
+125,8,Mustard,Thursday,176,66,37.5
+128,8,Mustard,Thursday,159,60,37.735849056603776
+132,8,Mustard,Thursday,200,39,19.5
+133,8,Mustard,Thursday,198,103,52.02020202020202
+134,8,Mustard,Thursday,137,71,51.82481751824818
+135,8,Mustard,Thursday,199,156,78.39195979899498
+139,8,Mustard,Thursday,161,43,26.70807453416149
+141,8,Mustard,Thursday,198,119,60.1010101010101
+142,8,Mustard,Thursday,200,148,74.0
+144,8,Mustard,Thursday,108,67,62.03703703703704
+145,8,Mustard,Thursday,200,122,61.0
+146,8,Mustard,Thursday,200,178,89.0
+147,8,Mustard,Thursday,186,159,85.48387096774194
+148,8,Mustard,Thursday,200,172,86.0
+149,8,Mustard,Thursday,200,165,82.5
+150,8,Mustard,Thursday,124,64,51.61290322580645
+151,8,Mustard,Thursday,200,160,80.0
+152,8,Mustard,Thursday,200,122,61.0
+153,8,Mustard,Thursday,200,127,63.5
+159,8,Mustard,Thursday,48,38,79.16666666666666
+160,8,Mustard,Thursday,81,56,69.1358024691358
+164,8,Mustard,Thursday,90,63,70.0
+165,8,Mustard,Thursday,75,38,50.66666666666667
+166,8,Mustard,Thursday,51,45,88.23529411764706
+169,8,Mustard,Thursday,200,124,62.0
+1,8,Mustard,Friday,200,135,67.5
+2,8,Mustard,Friday,200,134,67.0
+3,8,Mustard,Friday,199,138,69.34673366834171
+4,8,Mustard,Friday,87,78,89.65517241379311
+5,8,Mustard,Friday,200,166,83.0
+6,8,Mustard,Friday,200,141,70.5
+7,8,Mustard,Friday,200,165,82.5
+9,8,Mustard,Friday,199,76,38.19095477386934
+10,8,Mustard,Friday,200,150,75.0
+11,8,Mustard,Friday,200,170,85.0
+12,8,Mustard,Friday,200,100,50.0
+14,8,Mustard,Friday,140,76,54.285714285714285
+15,8,Mustard,Friday,140,62,44.285714285714285
+16,8,Mustard,Friday,200,147,73.5
+18,8,Mustard,Friday,193,60,31.088082901554404
+19,8,Mustard,Friday,191,63,32.98429319371728
+20,8,Mustard,Friday,187,46,24.598930481283425
+21,8,Mustard,Friday,200,88,44.0
+22,8,Mustard,Friday,200,136,68.0
+23,8,Mustard,Friday,123,90,73.17073170731707
+24,8,Mustard,Friday,199,117,58.79396984924623
+25,8,Mustard,Friday,188,40,21.27659574468085
+30,8,Mustard,Friday,200,76,38.0
+31,8,Mustard,Friday,200,104,52.0
+32,8,Mustard,Friday,183,66,36.0655737704918
+33,8,Mustard,Friday,182,48,26.373626373626376
+34,8,Mustard,Friday,135,46,34.074074074074076
+36,8,Mustard,Friday,200,153,76.5
+37,8,Mustard,Friday,200,158,79.0
+38,8,Mustard,Friday,200,87,43.5
+39,8,Mustard,Friday,200,114,56.99999999999999
+40,8,Mustard,Friday,198,44,22.22222222222222
+43,8,Mustard,Friday,200,132,66.0
+45,8,Mustard,Friday,191,32,16.75392670157068
+47,8,Mustard,Friday,200,85,42.5
+48,8,Mustard,Friday,200,125,62.5
+50,8,Mustard,Friday,200,159,79.5
+51,8,Mustard,Friday,196,62,31.63265306122449
+52,8,Mustard,Friday,149,97,65.1006711409396
+53,8,Mustard,Friday,200,160,80.0
+56,8,Mustard,Friday,200,170,85.0
+57,8,Mustard,Friday,200,132,66.0
+58,8,Mustard,Friday,198,77,38.88888888888889
+59,8,Mustard,Friday,200,132,66.0
+60,8,Mustard,Friday,79,67,84.81012658227847
+61,8,Mustard,Friday,200,97,48.5
+62,8,Mustard,Friday,200,151,75.5
+63,8,Mustard,Friday,200,168,84.0
+64,8,Mustard,Friday,200,146,73.0
+65,8,Mustard,Friday,200,138,69.0
+66,8,Mustard,Friday,200,130,65.0
+67,8,Mustard,Friday,196,97,49.48979591836735
+68,8,Mustard,Friday,194,115,59.27835051546392
+69,8,Mustard,Friday,200,73,36.5
+70,8,Mustard,Friday,200,141,70.5
+72,8,Mustard,Friday,200,148,74.0
+73,8,Mustard,Friday,200,119,59.5
+74,8,Mustard,Friday,200,94,47.0
+75,8,Mustard,Friday,200,177,88.5
+76,8,Mustard,Friday,200,125,62.5
+78,8,Mustard,Friday,200,166,83.0
+79,8,Mustard,Friday,200,115,57.49999999999999
+80,8,Mustard,Friday,148,99,66.8918918918919
+81,8,Mustard,Friday,199,41,20.603015075376884
+82,8,Mustard,Friday,200,128,64.0
+83,8,Mustard,Friday,199,126,63.31658291457286
+84,8,Mustard,Friday,200,135,67.5
+85,8,Mustard,Friday,200,146,73.0
+88,8,Mustard,Friday,200,162,81.0
+89,8,Mustard,Friday,199,116,58.291457286432156
+90,8,Mustard,Friday,200,101,50.5
+95,8,Mustard,Friday,148,53,35.810810810810814
+98,8,Mustard,Friday,194,42,21.649484536082475
+100,8,Mustard,Friday,200,124,62.0
+101,8,Mustard,Friday,195,77,39.48717948717949
+103,8,Mustard,Friday,200,164,82.0
+104,8,Mustard,Friday,200,150,75.0
+105,8,Mustard,Friday,200,163,81.5
+107,8,Mustard,Friday,195,90,46.15384615384615
+108,8,Mustard,Friday,129,39,30.23255813953488
+109,8,Mustard,Friday,199,84,42.211055276381906
+110,8,Mustard,Friday,189,49,25.925925925925924
+111,8,Mustard,Friday,199,116,58.291457286432156
+112,8,Mustard,Friday,200,83,41.5
+113,8,Mustard,Friday,195,78,40.0
+114,8,Mustard,Friday,200,101,50.5
+115,8,Mustard,Friday,120,90,75.0
+116,8,Mustard,Friday,199,134,67.33668341708542
+117,8,Mustard,Friday,199,133,66.83417085427136
+118,8,Mustard,Friday,120,42,35.0
+119,8,Mustard,Friday,200,133,66.5
+120,8,Mustard,Friday,199,149,74.87437185929649
+121,8,Mustard,Friday,200,128,64.0
+122,8,Mustard,Friday,136,83,61.029411764705884
+123,8,Mustard,Friday,182,46,25.274725274725274
+125,8,Mustard,Friday,176,59,33.52272727272727
+128,8,Mustard,Friday,159,47,29.559748427672954
+132,8,Mustard,Friday,200,36,18.0
+133,8,Mustard,Friday,198,97,48.98989898989899
+134,8,Mustard,Friday,137,67,48.9051094890511
+135,8,Mustard,Friday,199,146,73.36683417085426
+139,8,Mustard,Friday,160,38,23.75
+141,8,Mustard,Friday,198,136,68.68686868686868
+142,8,Mustard,Friday,200,108,54.0
+144,8,Mustard,Friday,108,36,33.33333333333333
+145,8,Mustard,Friday,200,119,59.5
+146,8,Mustard,Friday,200,174,87.0
+147,8,Mustard,Friday,186,156,83.87096774193549
+148,8,Mustard,Friday,200,164,82.0
+149,8,Mustard,Friday,200,173,86.5
+150,8,Mustard,Friday,125,63,50.4
+151,8,Mustard,Friday,200,152,76.0
+152,8,Mustard,Friday,200,124,62.0
+153,8,Mustard,Friday,200,126,63.0
+159,8,Mustard,Friday,49,34,69.38775510204081
+160,8,Mustard,Friday,81,52,64.19753086419753
+164,8,Mustard,Friday,91,61,67.03296703296702
+165,8,Mustard,Friday,75,34,45.33333333333333
+166,8,Mustard,Friday,51,46,90.19607843137256
+169,8,Mustard,Friday,200,129,64.5
+1,8,Mustard,Saturday,200,101,50.5
+2,8,Mustard,Saturday,200,120,60.0
+3,8,Mustard,Saturday,199,129,64.82412060301507
+4,8,Mustard,Saturday,87,80,91.95402298850574
+5,8,Mustard,Saturday,200,170,85.0
+6,8,Mustard,Saturday,200,138,69.0
+7,8,Mustard,Saturday,200,165,82.5
+9,8,Mustard,Saturday,199,70,35.175879396984925
+10,8,Mustard,Saturday,200,117,58.5
+11,8,Mustard,Saturday,200,163,81.5
+12,8,Mustard,Saturday,200,39,19.5
+14,8,Mustard,Saturday,140,33,23.57142857142857
+15,8,Mustard,Saturday,140,51,36.42857142857142
+16,8,Mustard,Saturday,200,67,33.5
+18,8,Mustard,Saturday,193,24,12.435233160621761
+19,8,Mustard,Saturday,191,54,28.272251308900525
+20,8,Mustard,Saturday,187,50,26.737967914438503
+21,8,Mustard,Saturday,200,95,47.5
+22,8,Mustard,Saturday,200,101,50.5
+23,8,Mustard,Saturday,123,86,69.91869918699187
+24,8,Mustard,Saturday,199,117,58.79396984924623
+25,8,Mustard,Saturday,189,45,23.809523809523807
+30,8,Mustard,Saturday,199,61,30.65326633165829
+31,8,Mustard,Saturday,200,79,39.5
+32,8,Mustard,Saturday,183,55,30.05464480874317
+33,8,Mustard,Saturday,182,52,28.57142857142857
+34,8,Mustard,Saturday,135,44,32.592592592592595
+36,8,Mustard,Saturday,200,143,71.5
+37,8,Mustard,Saturday,200,153,76.5
+38,8,Mustard,Saturday,200,76,38.0
+39,8,Mustard,Saturday,200,113,56.49999999999999
+40,8,Mustard,Saturday,197,0,0.0
+43,8,Mustard,Saturday,200,64,32.0
+45,8,Mustard,Saturday,191,20,10.471204188481675
+47,8,Mustard,Saturday,200,86,43.0
+48,8,Mustard,Saturday,200,120,60.0
+50,8,Mustard,Saturday,200,127,63.5
+51,8,Mustard,Saturday,196,54,27.55102040816326
+52,8,Mustard,Saturday,149,79,53.02013422818792
+53,8,Mustard,Saturday,200,120,60.0
+56,8,Mustard,Saturday,200,149,74.5
+57,8,Mustard,Saturday,200,118,59.0
+58,8,Mustard,Saturday,198,75,37.878787878787875
+59,8,Mustard,Saturday,200,120,60.0
+60,8,Mustard,Saturday,79,62,78.48101265822784
+61,8,Mustard,Saturday,199,69,34.67336683417086
+62,8,Mustard,Saturday,200,141,70.5
+63,8,Mustard,Saturday,200,154,77.0
+64,8,Mustard,Saturday,200,139,69.5
+65,8,Mustard,Saturday,200,106,53.0
+66,8,Mustard,Saturday,200,129,64.5
+67,8,Mustard,Saturday,196,74,37.755102040816325
+68,8,Mustard,Saturday,194,114,58.76288659793815
+69,8,Mustard,Saturday,200,53,26.5
+70,8,Mustard,Saturday,200,114,56.99999999999999
+72,8,Mustard,Saturday,200,139,69.5
+73,8,Mustard,Saturday,200,102,51.0
+74,8,Mustard,Saturday,200,91,45.5
+75,8,Mustard,Saturday,200,168,84.0
+76,8,Mustard,Saturday,200,111,55.50000000000001
+78,8,Mustard,Saturday,200,135,67.5
+79,8,Mustard,Saturday,200,117,58.5
+80,8,Mustard,Saturday,148,97,65.54054054054053
+81,8,Mustard,Saturday,199,10,5.025125628140704
+82,8,Mustard,Saturday,200,94,47.0
+83,8,Mustard,Saturday,199,126,63.31658291457286
+84,8,Mustard,Saturday,200,110,55.00000000000001
+85,8,Mustard,Saturday,200,112,56.00000000000001
+88,8,Mustard,Saturday,200,149,74.5
+89,8,Mustard,Saturday,199,103,51.75879396984925
+90,8,Mustard,Saturday,200,96,48.0
+95,8,Mustard,Saturday,148,50,33.78378378378378
+98,8,Mustard,Saturday,194,40,20.618556701030926
+100,8,Mustard,Saturday,200,98,49.0
+101,8,Mustard,Saturday,195,73,37.43589743589744
+103,8,Mustard,Saturday,200,152,76.0
+104,8,Mustard,Saturday,200,116,57.99999999999999
+105,8,Mustard,Saturday,200,159,79.5
+107,8,Mustard,Saturday,195,71,36.41025641025641
+108,8,Mustard,Saturday,129,28,21.705426356589147
+109,8,Mustard,Saturday,199,66,33.165829145728644
+110,8,Mustard,Saturday,189,31,16.402116402116402
+111,8,Mustard,Saturday,199,110,55.27638190954774
+112,8,Mustard,Saturday,199,74,37.185929648241206
+113,8,Mustard,Saturday,195,65,33.33333333333333
+114,8,Mustard,Saturday,200,54,27.0
+115,8,Mustard,Saturday,121,42,34.710743801652896
+116,8,Mustard,Saturday,199,128,64.321608040201
+117,8,Mustard,Saturday,199,134,67.33668341708542
+118,8,Mustard,Saturday,120,41,34.166666666666664
+119,8,Mustard,Saturday,200,127,63.5
+120,8,Mustard,Saturday,199,111,55.778894472361806
+121,8,Mustard,Saturday,200,120,60.0
+122,8,Mustard,Saturday,136,74,54.41176470588235
+123,8,Mustard,Saturday,182,50,27.472527472527474
+125,8,Mustard,Saturday,177,57,32.20338983050847
+128,8,Mustard,Saturday,159,42,26.41509433962264
+132,8,Mustard,Saturday,200,26,13.0
+133,8,Mustard,Saturday,198,58,29.292929292929294
+134,8,Mustard,Saturday,137,35,25.547445255474454
+135,8,Mustard,Saturday,199,79,39.698492462311556
+139,8,Mustard,Saturday,160,25,15.625
+141,8,Mustard,Saturday,197,113,57.360406091370564
+142,8,Mustard,Saturday,200,99,49.5
+144,8,Mustard,Saturday,108,56,51.85185185185185
+145,8,Mustard,Saturday,199,95,47.73869346733669
+146,8,Mustard,Saturday,200,164,82.0
+147,8,Mustard,Saturday,187,146,78.07486631016043
+148,8,Mustard,Saturday,200,161,80.5
+149,8,Mustard,Saturday,200,160,80.0
+150,8,Mustard,Saturday,125,54,43.2
+151,8,Mustard,Saturday,200,154,77.0
+152,8,Mustard,Saturday,200,118,59.0
+153,8,Mustard,Saturday,200,113,56.49999999999999
+159,8,Mustard,Saturday,49,36,73.46938775510205
+160,8,Mustard,Saturday,80,50,62.5
+164,8,Mustard,Saturday,91,36,39.56043956043956
+165,8,Mustard,Saturday,75,36,48.0
+166,8,Mustard,Saturday,51,46,90.19607843137256
+169,8,Mustard,Saturday,200,113,56.49999999999999
+1,8,Mustard,Sunday,200,17,8.5
+2,8,Mustard,Sunday,200,1,0.5
+3,8,Mustard,Sunday,199,7,3.5175879396984926
+4,8,Mustard,Sunday,87,0,0.0
+5,8,Mustard,Sunday,200,1,0.5
+6,8,Mustard,Sunday,200,1,0.5
+7,8,Mustard,Sunday,200,3,1.5
+9,8,Mustard,Sunday,199,0,0.0
+10,8,Mustard,Sunday,200,15,7.5
+11,8,Mustard,Sunday,200,0,0.0
+12,8,Mustard,Sunday,200,0,0.0
+14,8,Mustard,Sunday,140,1,0.7142857142857143
+15,8,Mustard,Sunday,140,0,0.0
+16,8,Mustard,Sunday,200,6,3.0
+18,8,Mustard,Sunday,194,14,7.216494845360824
+19,8,Mustard,Sunday,190,1,0.5263157894736842
+20,8,Mustard,Sunday,187,0,0.0
+21,8,Mustard,Sunday,199,0,0.0
+22,8,Mustard,Sunday,200,0,0.0
+23,8,Mustard,Sunday,122,4,3.278688524590164
+24,8,Mustard,Sunday,199,3,1.507537688442211
+25,8,Mustard,Sunday,189,1,0.5291005291005291
+30,8,Mustard,Sunday,199,1,0.5025125628140703
+31,8,Mustard,Sunday,200,0,0.0
+32,8,Mustard,Sunday,183,0,0.0
+33,8,Mustard,Sunday,182,1,0.5494505494505495
+34,8,Mustard,Sunday,135,0,0.0
+36,8,Mustard,Sunday,200,0,0.0
+37,8,Mustard,Sunday,200,1,0.5
+38,8,Mustard,Sunday,200,1,0.5
+39,8,Mustard,Sunday,200,4,2.0
+40,8,Mustard,Sunday,197,0,0.0
+43,8,Mustard,Sunday,200,1,0.5
+45,8,Mustard,Sunday,191,2,1.0471204188481675
+47,8,Mustard,Sunday,201,124,61.69154228855721
+48,8,Mustard,Sunday,200,1,0.5
+50,8,Mustard,Sunday,201,112,55.72139303482587
+51,8,Mustard,Sunday,196,0,0.0
+52,8,Mustard,Sunday,149,0,0.0
+53,8,Mustard,Sunday,201,94,46.766169154228855
+56,8,Mustard,Sunday,200,2,1.0
+57,8,Mustard,Sunday,200,19,9.5
+58,8,Mustard,Sunday,198,0,0.0
+59,8,Mustard,Sunday,200,1,0.5
+60,8,Mustard,Sunday,79,0,0.0
+61,8,Mustard,Sunday,199,0,0.0
+62,8,Mustard,Sunday,200,1,0.5
+63,8,Mustard,Sunday,200,2,1.0
+64,8,Mustard,Sunday,200,0,0.0
+65,8,Mustard,Sunday,200,0,0.0
+66,8,Mustard,Sunday,200,1,0.5
+67,8,Mustard,Sunday,195,0,0.0
+68,8,Mustard,Sunday,194,1,0.5154639175257731
+69,8,Mustard,Sunday,200,0,0.0
+70,8,Mustard,Sunday,200,1,0.5
+72,8,Mustard,Sunday,200,0,0.0
+73,8,Mustard,Sunday,200,32,16.0
+74,8,Mustard,Sunday,200,0,0.0
+75,8,Mustard,Sunday,200,0,0.0
+76,8,Mustard,Sunday,200,0,0.0
+78,8,Mustard,Sunday,201,40,19.900497512437813
+79,8,Mustard,Sunday,200,0,0.0
+80,8,Mustard,Sunday,147,0,0.0
+81,8,Mustard,Sunday,199,0,0.0
+82,8,Mustard,Sunday,200,0,0.0
+83,8,Mustard,Sunday,199,1,0.5025125628140703
+84,8,Mustard,Sunday,200,2,1.0
+85,8,Mustard,Sunday,200,6,3.0
+88,8,Mustard,Sunday,200,0,0.0
+89,8,Mustard,Sunday,199,1,0.5025125628140703
+90,8,Mustard,Sunday,200,2,1.0
+95,8,Mustard,Sunday,148,55,37.16216216216216
+98,8,Mustard,Sunday,194,1,0.5154639175257731
+100,8,Mustard,Sunday,200,2,1.0
+101,8,Mustard,Sunday,195,2,1.0256410256410255
+103,8,Mustard,Sunday,200,1,0.5
+104,8,Mustard,Sunday,200,3,1.5
+105,8,Mustard,Sunday,200,0,0.0
+107,8,Mustard,Sunday,195,52,26.666666666666668
+108,8,Mustard,Sunday,129,36,27.906976744186046
+109,8,Mustard,Sunday,199,2,1.0050251256281406
+110,8,Mustard,Sunday,189,9,4.761904761904762
+111,8,Mustard,Sunday,200,105,52.5
+112,8,Mustard,Sunday,199,71,35.678391959798994
+113,8,Mustard,Sunday,195,56,28.717948717948715
+114,8,Mustard,Sunday,200,7,3.5000000000000004
+115,8,Mustard,Sunday,121,2,1.6528925619834711
+116,8,Mustard,Sunday,199,1,0.5025125628140703
+117,8,Mustard,Sunday,199,1,0.5025125628140703
+118,8,Mustard,Sunday,120,0,0.0
+119,8,Mustard,Sunday,200,0,0.0
+120,8,Mustard,Sunday,199,2,1.0050251256281406
+121,8,Mustard,Sunday,200,0,0.0
+122,8,Mustard,Sunday,136,0,0.0
+123,8,Mustard,Sunday,181,10,5.524861878453039
+125,8,Mustard,Sunday,177,0,0.0
+128,8,Mustard,Sunday,159,1,0.628930817610063
+132,8,Mustard,Sunday,200,0,0.0
+133,8,Mustard,Sunday,198,0,0.0
+134,8,Mustard,Sunday,137,1,0.7299270072992701
+135,8,Mustard,Sunday,199,0,0.0
+139,8,Mustard,Sunday,160,1,0.625
+141,8,Mustard,Sunday,197,0,0.0
+142,8,Mustard,Sunday,200,2,1.0
+144,8,Mustard,Sunday,108,2,1.8518518518518516
+145,8,Mustard,Sunday,199,0,0.0
+146,8,Mustard,Sunday,200,0,0.0
+147,8,Mustard,Sunday,187,1,0.53475935828877
+148,8,Mustard,Sunday,201,149,74.12935323383084
+149,8,Mustard,Sunday,200,1,0.5
+150,8,Mustard,Sunday,125,7,5.6000000000000005
+151,8,Mustard,Sunday,200,3,1.5
+152,8,Mustard,Sunday,200,0,0.0
+153,8,Mustard,Sunday,200,1,0.5
+159,8,Mustard,Sunday,48,0,0.0
+160,8,Mustard,Sunday,80,0,0.0
+164,8,Mustard,Sunday,91,7,7.6923076923076925
+165,8,Mustard,Sunday,75,0,0.0
+166,8,Mustard,Sunday,51,0,0.0
+169,8,Mustard,Sunday,200,0,0.0
+1,2,Wheat,Monday,201,135,67.16417910447761
+2,2,Wheat,Monday,201,150,74.6268656716418
+3,2,Wheat,Monday,200,169,84.5
+5,2,Wheat,Monday,201,160,79.60199004975125
+6,2,Wheat,Monday,201,152,75.62189054726367
+7,2,Wheat,Monday,199,109,54.773869346733676
+9,2,Wheat,Monday,201,144,71.64179104477611
+10,2,Wheat,Monday,200,148,74.0
+11,2,Wheat,Monday,201,171,85.07462686567165
+12,2,Wheat,Monday,201,126,62.68656716417911
+14,2,Wheat,Monday,140,89,63.57142857142857
+15,2,Wheat,Monday,141,94,66.66666666666666
+16,2,Wheat,Monday,201,145,72.13930348258707
+18,2,Wheat,Monday,198,43,21.71717171717172
+19,2,Wheat,Monday,191,79,41.361256544502616
+21,2,Wheat,Monday,196,119,60.71428571428571
+22,2,Wheat,Monday,201,145,72.13930348258707
+23,2,Wheat,Monday,122,81,66.39344262295081
+24,2,Wheat,Monday,199,155,77.88944723618091
+25,2,Wheat,Monday,201,143,71.14427860696517
+28,2,Wheat,Monday,189,68,35.978835978835974
+30,2,Wheat,Monday,186,68,36.55913978494624
+32,2,Wheat,Monday,191,80,41.8848167539267
+33,2,Wheat,Monday,195,101,51.7948717948718
+35,2,Wheat,Monday,183,60,32.78688524590164
+36,2,Wheat,Monday,201,162,80.59701492537313
+37,2,Wheat,Monday,201,165,82.08955223880598
+38,2,Wheat,Monday,201,128,63.681592039801
+39,2,Wheat,Monday,201,120,59.70149253731343
+40,2,Wheat,Monday,200,60,30.0
+41,2,Wheat,Monday,200,73,36.5
+42,2,Wheat,Monday,183,96,52.459016393442624
+43,2,Wheat,Monday,201,139,69.15422885572139
+47,2,Wheat,Monday,201,127,63.18407960199005
+48,2,Wheat,Monday,201,145,72.13930348258707
+50,2,Wheat,Monday,201,48,23.88059701492537
+51,2,Wheat,Monday,196,67,34.183673469387756
+52,2,Wheat,Monday,149,93,62.41610738255034
+53,2,Wheat,Monday,201,168,83.5820895522388
+56,2,Wheat,Monday,196,140,71.42857142857143
+57,2,Wheat,Monday,196,117,59.693877551020414
+61,2,Wheat,Monday,198,57,28.78787878787879
+62,2,Wheat,Monday,201,130,64.6766169154229
+63,2,Wheat,Monday,198,115,58.080808080808076
+64,2,Wheat,Monday,193,94,48.704663212435236
+65,2,Wheat,Monday,200,107,53.5
+66,2,Wheat,Monday,200,133,66.5
+67,2,Wheat,Monday,193,45,23.316062176165804
+68,2,Wheat,Monday,199,92,46.231155778894475
+69,2,Wheat,Monday,201,84,41.7910447761194
+70,2,Wheat,Monday,192,37,19.270833333333336
+72,2,Wheat,Monday,201,121,60.19900497512438
+73,2,Wheat,Monday,196,67,34.183673469387756
+74,2,Wheat,Monday,200,117,58.5
+75,2,Wheat,Monday,201,159,79.1044776119403
+76,2,Wheat,Monday,199,95,47.73869346733669
+77,2,Wheat,Monday,200,53,26.5
+78,2,Wheat,Monday,201,116,57.711442786069654
+79,2,Wheat,Monday,195,82,42.05128205128205
+80,2,Wheat,Monday,148,83,56.08108108108109
+81,2,Wheat,Monday,196,47,23.97959183673469
+82,2,Wheat,Monday,195,42,21.53846153846154
+83,2,Wheat,Monday,193,89,46.1139896373057
+84,2,Wheat,Monday,191,97,50.78534031413613
+85,2,Wheat,Monday,198,88,44.44444444444444
+88,2,Wheat,Monday,201,157,78.1094527363184
+89,2,Wheat,Monday,200,127,63.5
+90,2,Wheat,Monday,197,68,34.51776649746193
+100,2,Wheat,Monday,201,141,70.1492537313433
+101,2,Wheat,Monday,200,125,62.5
+103,2,Wheat,Monday,201,163,81.09452736318407
+104,2,Wheat,Monday,201,162,80.59701492537313
+105,2,Wheat,Monday,201,168,83.5820895522388
+106,2,Wheat,Monday,90,41,45.55555555555556
+108,2,Wheat,Monday,140,67,47.85714285714286
+115,2,Wheat,Monday,120,51,42.5
+116,2,Wheat,Monday,200,118,59.0
+117,2,Wheat,Monday,200,127,63.5
+119,2,Wheat,Monday,201,130,64.6766169154229
+120,2,Wheat,Monday,200,146,73.0
+121,2,Wheat,Monday,201,133,66.16915422885572
+122,2,Wheat,Monday,132,83,62.878787878787875
+123,2,Wheat,Monday,181,39,21.54696132596685
+132,2,Wheat,Monday,200,77,38.5
+134,2,Wheat,Monday,138,93,67.3913043478261
+135,2,Wheat,Monday,201,158,78.60696517412936
+139,2,Wheat,Monday,155,53,34.193548387096776
+142,2,Wheat,Monday,201,150,74.6268656716418
+143,2,Wheat,Monday,120,45,37.5
+144,2,Wheat,Monday,109,56,51.37614678899083
+145,2,Wheat,Monday,201,138,68.65671641791045
+146,2,Wheat,Monday,201,170,84.5771144278607
+147,2,Wheat,Monday,187,169,90.37433155080214
+148,2,Wheat,Monday,201,157,78.1094527363184
+149,2,Wheat,Monday,201,156,77.61194029850746
+150,2,Wheat,Monday,125,58,46.400000000000006
+151,2,Wheat,Monday,201,163,81.09452736318407
+152,2,Wheat,Monday,200,82,41.0
+153,2,Wheat,Monday,201,152,75.62189054726367
+154,2,Wheat,Monday,201,132,65.67164179104478
+163,2,Wheat,Monday,50,32,64.0
+164,2,Wheat,Monday,69,47,68.11594202898551
+165,2,Wheat,Monday,74,40,54.054054054054056
+1,2,Wheat,Tuesday,201,136,67.66169154228857
+2,2,Wheat,Tuesday,201,160,79.60199004975125
+3,2,Wheat,Tuesday,200,168,84.0
+5,2,Wheat,Tuesday,201,162,80.59701492537313
+6,2,Wheat,Tuesday,201,151,75.12437810945273
+7,2,Wheat,Tuesday,199,117,58.79396984924623
+9,2,Wheat,Tuesday,200,136,68.0
+10,2,Wheat,Tuesday,200,155,77.5
+11,2,Wheat,Tuesday,200,165,82.5
+12,2,Wheat,Tuesday,201,123,61.19402985074627
+14,2,Wheat,Tuesday,140,92,65.71428571428571
+15,2,Wheat,Tuesday,140,88,62.857142857142854
+16,2,Wheat,Tuesday,201,146,72.636815920398
+18,2,Wheat,Tuesday,198,51,25.757575757575758
+19,2,Wheat,Tuesday,192,80,41.66666666666667
+21,2,Wheat,Tuesday,196,115,58.673469387755105
+22,2,Wheat,Tuesday,201,135,67.16417910447761
+23,2,Wheat,Tuesday,122,78,63.934426229508205
+24,2,Wheat,Tuesday,199,161,80.90452261306532
+25,2,Wheat,Tuesday,201,144,71.64179104477611
+28,2,Wheat,Tuesday,189,55,29.100529100529098
+30,2,Wheat,Tuesday,186,65,34.946236559139784
+32,2,Wheat,Tuesday,190,77,40.526315789473685
+33,2,Wheat,Tuesday,194,96,49.48453608247423
+35,2,Wheat,Tuesday,184,67,36.41304347826087
+36,2,Wheat,Tuesday,201,167,83.08457711442786
+37,2,Wheat,Tuesday,201,171,85.07462686567165
+38,2,Wheat,Tuesday,200,129,64.5
+39,2,Wheat,Tuesday,201,119,59.20398009950249
+40,2,Wheat,Tuesday,201,63,31.343283582089555
+41,2,Wheat,Tuesday,200,80,40.0
+42,2,Wheat,Tuesday,183,93,50.81967213114754
+43,2,Wheat,Tuesday,201,143,71.14427860696517
+47,2,Wheat,Tuesday,200,4,2.0
+48,2,Wheat,Tuesday,200,157,78.5
+50,2,Wheat,Tuesday,200,172,86.0
+51,2,Wheat,Tuesday,197,78,39.59390862944163
+52,2,Wheat,Tuesday,149,103,69.12751677852349
+53,2,Wheat,Tuesday,201,180,89.55223880597015
+56,2,Wheat,Tuesday,195,126,64.61538461538461
+57,2,Wheat,Tuesday,196,111,56.63265306122449
+61,2,Wheat,Tuesday,197,60,30.456852791878177
+62,2,Wheat,Tuesday,201,132,65.67164179104478
+63,2,Wheat,Tuesday,198,110,55.55555555555556
+64,2,Wheat,Tuesday,194,89,45.876288659793815
+65,2,Wheat,Tuesday,200,110,55.00000000000001
+66,2,Wheat,Tuesday,199,120,60.30150753768844
+67,2,Wheat,Tuesday,193,45,23.316062176165804
+68,2,Wheat,Tuesday,199,97,48.743718592964825
+69,2,Wheat,Tuesday,201,95,47.2636815920398
+70,2,Wheat,Tuesday,192,39,20.3125
+72,2,Wheat,Tuesday,201,130,64.6766169154229
+73,2,Wheat,Tuesday,196,62,31.63265306122449
+74,2,Wheat,Tuesday,200,116,57.99999999999999
+75,2,Wheat,Tuesday,201,165,82.08955223880598
+76,2,Wheat,Tuesday,199,105,52.76381909547738
+77,2,Wheat,Tuesday,199,50,25.125628140703515
+78,2,Wheat,Tuesday,201,132,65.67164179104478
+79,2,Wheat,Tuesday,195,70,35.8974358974359
+80,2,Wheat,Tuesday,148,78,52.702702702702695
+81,2,Wheat,Tuesday,196,51,26.02040816326531
+82,2,Wheat,Tuesday,194,49,25.257731958762886
+83,2,Wheat,Tuesday,194,90,46.391752577319586
+84,2,Wheat,Tuesday,191,98,51.30890052356021
+85,2,Wheat,Tuesday,198,88,44.44444444444444
+88,2,Wheat,Tuesday,201,174,86.56716417910447
+89,2,Wheat,Tuesday,200,119,59.5
+90,2,Wheat,Tuesday,197,74,37.56345177664975
+100,2,Wheat,Tuesday,201,152,75.62189054726367
+101,2,Wheat,Tuesday,200,139,69.5
+103,2,Wheat,Tuesday,201,169,84.07960199004975
+104,2,Wheat,Tuesday,201,172,85.57213930348259
+105,2,Wheat,Tuesday,201,166,82.58706467661692
+106,2,Wheat,Tuesday,90,40,44.44444444444444
+108,2,Wheat,Tuesday,140,0,0.0
+115,2,Wheat,Tuesday,121,70,57.85123966942148
+116,2,Wheat,Tuesday,200,121,60.5
+117,2,Wheat,Tuesday,200,128,64.0
+119,2,Wheat,Tuesday,201,135,67.16417910447761
+120,2,Wheat,Tuesday,200,143,71.5
+121,2,Wheat,Tuesday,201,144,71.64179104477611
+122,2,Wheat,Tuesday,132,83,62.878787878787875
+123,2,Wheat,Tuesday,181,25,13.812154696132598
+132,2,Wheat,Tuesday,200,88,44.0
+134,2,Wheat,Tuesday,138,98,71.01449275362319
+135,2,Wheat,Tuesday,201,169,84.07960199004975
+139,2,Wheat,Tuesday,155,65,41.935483870967744
+142,2,Wheat,Tuesday,201,151,75.12437810945273
+143,2,Wheat,Tuesday,120,51,42.5
+144,2,Wheat,Tuesday,109,59,54.12844036697248
+145,2,Wheat,Tuesday,200,136,68.0
+146,2,Wheat,Tuesday,201,172,85.57213930348259
+147,2,Wheat,Tuesday,187,169,90.37433155080214
+148,2,Wheat,Tuesday,200,9,4.5
+149,2,Wheat,Tuesday,201,157,78.1094527363184
+150,2,Wheat,Tuesday,125,56,44.800000000000004
+151,2,Wheat,Tuesday,201,157,78.1094527363184
+152,2,Wheat,Tuesday,201,72,35.82089552238806
+153,2,Wheat,Tuesday,200,151,75.5
+154,2,Wheat,Tuesday,201,134,66.66666666666666
+163,2,Wheat,Tuesday,50,33,66.0
+164,2,Wheat,Tuesday,70,43,61.42857142857143
+165,2,Wheat,Tuesday,74,39,52.702702702702695
+1,2,Wheat,Wednesday,200,126,63.0
+2,2,Wheat,Wednesday,200,151,75.5
+3,2,Wheat,Wednesday,200,168,84.0
+5,2,Wheat,Wednesday,200,156,78.0
+6,2,Wheat,Wednesday,200,152,76.0
+7,2,Wheat,Wednesday,199,109,54.773869346733676
+9,2,Wheat,Wednesday,200,138,69.0
+10,2,Wheat,Wednesday,200,150,75.0
+11,2,Wheat,Wednesday,200,169,84.5
+12,2,Wheat,Wednesday,200,111,55.50000000000001
+14,2,Wheat,Wednesday,140,91,65.0
+15,2,Wheat,Wednesday,140,90,64.28571428571429
+16,2,Wheat,Wednesday,200,146,73.0
+18,2,Wheat,Wednesday,199,39,19.597989949748744
+19,2,Wheat,Wednesday,192,86,44.79166666666667
+21,2,Wheat,Wednesday,195,113,57.948717948717956
+22,2,Wheat,Wednesday,200,138,69.0
+23,2,Wheat,Wednesday,122,78,63.934426229508205
+24,2,Wheat,Wednesday,199,161,80.90452261306532
+25,2,Wheat,Wednesday,200,124,62.0
+28,2,Wheat,Wednesday,189,64,33.86243386243386
+30,2,Wheat,Wednesday,187,76,40.64171122994652
+32,2,Wheat,Wednesday,190,78,41.05263157894737
+33,2,Wheat,Wednesday,194,80,41.23711340206185
+35,2,Wheat,Wednesday,184,66,35.869565217391305
+36,2,Wheat,Wednesday,200,167,83.5
+37,2,Wheat,Wednesday,200,163,81.5
+38,2,Wheat,Wednesday,200,122,61.0
+39,2,Wheat,Wednesday,200,114,56.99999999999999
+40,2,Wheat,Wednesday,200,65,32.5
+41,2,Wheat,Wednesday,200,68,34.0
+42,2,Wheat,Wednesday,183,93,50.81967213114754
+43,2,Wheat,Wednesday,200,145,72.5
+47,2,Wheat,Wednesday,200,125,62.5
+48,2,Wheat,Wednesday,200,154,77.0
+50,2,Wheat,Wednesday,200,172,86.0
+51,2,Wheat,Wednesday,197,63,31.979695431472084
+52,2,Wheat,Wednesday,148,90,60.810810810810814
+53,2,Wheat,Wednesday,200,176,88.0
+56,2,Wheat,Wednesday,195,127,65.12820512820512
+57,2,Wheat,Wednesday,196,100,51.02040816326531
+61,2,Wheat,Wednesday,197,62,31.472081218274113
+62,2,Wheat,Wednesday,200,128,64.0
+63,2,Wheat,Wednesday,198,110,55.55555555555556
+64,2,Wheat,Wednesday,194,84,43.29896907216495
+65,2,Wheat,Wednesday,200,99,49.5
+66,2,Wheat,Wednesday,199,117,58.79396984924623
+67,2,Wheat,Wednesday,193,51,26.42487046632124
+68,2,Wheat,Wednesday,199,93,46.733668341708544
+69,2,Wheat,Wednesday,200,77,38.5
+70,2,Wheat,Wednesday,192,42,21.875
+72,2,Wheat,Wednesday,200,108,54.0
+73,2,Wheat,Wednesday,197,61,30.96446700507614
+74,2,Wheat,Wednesday,200,108,54.0
+75,2,Wheat,Wednesday,200,158,79.0
+76,2,Wheat,Wednesday,199,91,45.7286432160804
+77,2,Wheat,Wednesday,199,50,25.125628140703515
+78,2,Wheat,Wednesday,200,118,59.0
+79,2,Wheat,Wednesday,195,55,28.205128205128204
+80,2,Wheat,Wednesday,148,68,45.94594594594595
+81,2,Wheat,Wednesday,196,42,21.428571428571427
+82,2,Wheat,Wednesday,194,30,15.463917525773196
+83,2,Wheat,Wednesday,194,90,46.391752577319586
+84,2,Wheat,Wednesday,190,83,43.684210526315795
+85,2,Wheat,Wednesday,197,89,45.17766497461929
+88,2,Wheat,Wednesday,200,168,84.0
+89,2,Wheat,Wednesday,200,129,64.5
+90,2,Wheat,Wednesday,197,74,37.56345177664975
+100,2,Wheat,Wednesday,200,149,74.5
+101,2,Wheat,Wednesday,199,142,71.35678391959799
+103,2,Wheat,Wednesday,200,152,76.0
+104,2,Wheat,Wednesday,200,166,83.0
+105,2,Wheat,Wednesday,200,161,80.5
+106,2,Wheat,Wednesday,90,47,52.22222222222223
+108,2,Wheat,Wednesday,140,81,57.85714285714286
+115,2,Wheat,Wednesday,120,68,56.666666666666664
+116,2,Wheat,Wednesday,199,115,57.78894472361809
+117,2,Wheat,Wednesday,200,130,65.0
+119,2,Wheat,Wednesday,200,137,68.5
+120,2,Wheat,Wednesday,200,151,75.5
+121,2,Wheat,Wednesday,200,139,69.5
+122,2,Wheat,Wednesday,132,73,55.3030303030303
+123,2,Wheat,Wednesday,181,37,20.441988950276244
+132,2,Wheat,Wednesday,200,87,43.5
+134,2,Wheat,Wednesday,138,94,68.11594202898551
+135,2,Wheat,Wednesday,200,163,81.5
+139,2,Wheat,Wednesday,155,50,32.25806451612903
+142,2,Wheat,Wednesday,200,160,80.0
+143,2,Wheat,Wednesday,120,43,35.833333333333336
+144,2,Wheat,Wednesday,109,58,53.21100917431193
+145,2,Wheat,Wednesday,200,140,70.0
+146,2,Wheat,Wednesday,200,173,86.5
+147,2,Wheat,Wednesday,187,176,94.11764705882352
+148,2,Wheat,Wednesday,200,131,65.5
+149,2,Wheat,Wednesday,200,163,81.5
+150,2,Wheat,Wednesday,124,65,52.41935483870967
+151,2,Wheat,Wednesday,200,161,80.5
+152,2,Wheat,Wednesday,200,72,36.0
+153,2,Wheat,Wednesday,200,151,75.5
+154,2,Wheat,Wednesday,200,126,63.0
+163,2,Wheat,Wednesday,51,36,70.58823529411765
+164,2,Wheat,Wednesday,70,43,61.42857142857143
+165,2,Wheat,Wednesday,75,35,46.666666666666664
+1,2,Wheat,Thursday,200,132,66.0
+2,2,Wheat,Thursday,200,146,73.0
+3,2,Wheat,Thursday,200,159,79.5
+5,2,Wheat,Thursday,200,154,77.0
+6,2,Wheat,Thursday,200,140,70.0
+7,2,Wheat,Thursday,199,106,53.266331658291456
+9,2,Wheat,Thursday,200,145,72.5
+10,2,Wheat,Thursday,200,153,76.5
+11,2,Wheat,Thursday,200,168,84.0
+12,2,Wheat,Thursday,200,118,59.0
+14,2,Wheat,Thursday,141,87,61.702127659574465
+15,2,Wheat,Thursday,140,88,62.857142857142854
+16,2,Wheat,Thursday,200,154,77.0
+18,2,Wheat,Thursday,198,42,21.21212121212121
+19,2,Wheat,Thursday,192,96,50.0
+21,2,Wheat,Thursday,195,112,57.43589743589743
+22,2,Wheat,Thursday,200,121,60.5
+23,2,Wheat,Thursday,121,70,57.85123966942148
+24,2,Wheat,Thursday,198,149,75.25252525252525
+25,2,Wheat,Thursday,200,121,60.5
+28,2,Wheat,Thursday,189,57,30.158730158730158
+30,2,Wheat,Thursday,187,68,36.36363636363637
+32,2,Wheat,Thursday,190,75,39.473684210526315
+33,2,Wheat,Thursday,194,85,43.81443298969072
+35,2,Wheat,Thursday,184,48,26.08695652173913
+36,2,Wheat,Thursday,200,161,80.5
+37,2,Wheat,Thursday,200,164,82.0
+38,2,Wheat,Thursday,200,122,61.0
+39,2,Wheat,Thursday,200,115,57.49999999999999
+40,2,Wheat,Thursday,200,49,24.5
+41,2,Wheat,Thursday,200,73,36.5
+42,2,Wheat,Thursday,183,89,48.63387978142077
+43,2,Wheat,Thursday,200,136,68.0
+47,2,Wheat,Thursday,200,113,56.49999999999999
+48,2,Wheat,Thursday,200,150,75.0
+50,2,Wheat,Thursday,200,170,85.0
+51,2,Wheat,Thursday,197,62,31.472081218274113
+52,2,Wheat,Thursday,148,96,64.86486486486487
+53,2,Wheat,Thursday,200,173,86.5
+56,2,Wheat,Thursday,196,128,65.3061224489796
+57,2,Wheat,Thursday,195,92,47.179487179487175
+61,2,Wheat,Thursday,197,67,34.01015228426396
+62,2,Wheat,Thursday,200,127,63.5
+63,2,Wheat,Thursday,198,111,56.060606060606055
+64,2,Wheat,Thursday,194,78,40.20618556701031
+65,2,Wheat,Thursday,200,91,45.5
+66,2,Wheat,Thursday,199,103,51.75879396984925
+67,2,Wheat,Thursday,193,56,29.015544041450774
+68,2,Wheat,Thursday,199,90,45.22613065326633
+69,2,Wheat,Thursday,200,71,35.5
+70,2,Wheat,Thursday,192,40,20.833333333333336
+72,2,Wheat,Thursday,200,107,53.5
+73,2,Wheat,Thursday,197,65,32.99492385786802
+74,2,Wheat,Thursday,200,88,44.0
+75,2,Wheat,Thursday,200,163,81.5
+76,2,Wheat,Thursday,199,86,43.21608040201005
+77,2,Wheat,Thursday,199,44,22.110552763819097
+78,2,Wheat,Thursday,200,120,60.0
+79,2,Wheat,Thursday,195,57,29.230769230769234
+80,2,Wheat,Thursday,147,70,47.61904761904761
+81,2,Wheat,Thursday,196,37,18.877551020408163
+82,2,Wheat,Thursday,194,33,17.010309278350515
+83,2,Wheat,Thursday,194,84,43.29896907216495
+84,2,Wheat,Thursday,190,89,46.8421052631579
+85,2,Wheat,Thursday,197,89,45.17766497461929
+88,2,Wheat,Thursday,200,169,84.5
+89,2,Wheat,Thursday,200,120,60.0
+90,2,Wheat,Thursday,197,60,30.456852791878177
+100,2,Wheat,Thursday,200,147,73.5
+101,2,Wheat,Thursday,199,131,65.82914572864321
+103,2,Wheat,Thursday,200,152,76.0
+104,2,Wheat,Thursday,200,170,85.0
+105,2,Wheat,Thursday,200,160,80.0
+106,2,Wheat,Thursday,90,46,51.11111111111111
+108,2,Wheat,Thursday,141,69,48.93617021276596
+115,2,Wheat,Thursday,120,71,59.166666666666664
+116,2,Wheat,Thursday,199,112,56.28140703517588
+117,2,Wheat,Thursday,200,121,60.5
+119,2,Wheat,Thursday,200,130,65.0
+120,2,Wheat,Thursday,200,147,73.5
+121,2,Wheat,Thursday,200,130,65.0
+122,2,Wheat,Thursday,132,74,56.060606060606055
+123,2,Wheat,Thursday,181,30,16.574585635359114
+132,2,Wheat,Thursday,200,85,42.5
+134,2,Wheat,Thursday,138,92,66.66666666666666
+135,2,Wheat,Thursday,200,166,83.0
+139,2,Wheat,Thursday,155,49,31.61290322580645
+142,2,Wheat,Thursday,200,153,76.5
+143,2,Wheat,Thursday,120,36,30.0
+144,2,Wheat,Thursday,108,57,52.77777777777778
+145,2,Wheat,Thursday,200,126,63.0
+146,2,Wheat,Thursday,200,180,90.0
+147,2,Wheat,Thursday,186,173,93.01075268817203
+148,2,Wheat,Thursday,200,171,85.5
+149,2,Wheat,Thursday,200,161,80.5
+150,2,Wheat,Thursday,124,58,46.774193548387096
+151,2,Wheat,Thursday,200,157,78.5
+152,2,Wheat,Thursday,200,67,33.5
+153,2,Wheat,Thursday,200,154,77.0
+154,2,Wheat,Thursday,200,119,59.5
+163,2,Wheat,Thursday,51,38,74.50980392156863
+164,2,Wheat,Thursday,70,38,54.285714285714285
+165,2,Wheat,Thursday,74,33,44.5945945945946
+1,2,Wheat,Friday,200,127,63.5
+2,2,Wheat,Friday,200,153,76.5
+3,2,Wheat,Friday,199,138,69.34673366834171
+5,2,Wheat,Friday,200,154,77.0
+6,2,Wheat,Friday,200,142,71.0
+7,2,Wheat,Friday,199,114,57.286432160804026
+9,2,Wheat,Friday,200,134,67.0
+10,2,Wheat,Friday,200,152,76.0
+11,2,Wheat,Friday,200,164,82.0
+12,2,Wheat,Friday,200,99,49.5
+14,2,Wheat,Friday,141,80,56.73758865248227
+15,2,Wheat,Friday,140,94,67.14285714285714
+16,2,Wheat,Friday,200,146,73.0
+18,2,Wheat,Friday,198,31,15.656565656565657
+19,2,Wheat,Friday,192,75,39.0625
+21,2,Wheat,Friday,195,85,43.58974358974359
+22,2,Wheat,Friday,200,138,69.0
+23,2,Wheat,Friday,122,68,55.73770491803278
+24,2,Wheat,Friday,198,114,57.57575757575758
+25,2,Wheat,Friday,200,113,56.49999999999999
+28,2,Wheat,Friday,189,52,27.513227513227513
+30,2,Wheat,Friday,186,65,34.946236559139784
+32,2,Wheat,Friday,190,77,40.526315789473685
+33,2,Wheat,Friday,194,83,42.78350515463917
+35,2,Wheat,Friday,184,58,31.521739130434785
+36,2,Wheat,Friday,200,162,81.0
+37,2,Wheat,Friday,200,156,78.0
+38,2,Wheat,Friday,200,110,55.00000000000001
+39,2,Wheat,Friday,200,108,54.0
+40,2,Wheat,Friday,200,66,33.0
+41,2,Wheat,Friday,200,82,41.0
+42,2,Wheat,Friday,182,80,43.956043956043956
+43,2,Wheat,Friday,200,132,66.0
+47,2,Wheat,Friday,200,86,43.0
+48,2,Wheat,Friday,200,124,62.0
+50,2,Wheat,Friday,200,159,79.5
+51,2,Wheat,Friday,196,62,31.63265306122449
+52,2,Wheat,Friday,149,98,65.77181208053692
+53,2,Wheat,Friday,200,164,82.0
+56,2,Wheat,Friday,196,134,68.36734693877551
+57,2,Wheat,Friday,195,99,50.76923076923077
+61,2,Wheat,Friday,197,61,30.96446700507614
+62,2,Wheat,Friday,200,124,62.0
+63,2,Wheat,Friday,198,109,55.05050505050505
+64,2,Wheat,Friday,194,85,43.81443298969072
+65,2,Wheat,Friday,199,109,54.773869346733676
+66,2,Wheat,Friday,199,111,55.778894472361806
+67,2,Wheat,Friday,193,47,24.352331606217618
+68,2,Wheat,Friday,198,92,46.464646464646464
+69,2,Wheat,Friday,200,78,39.0
+70,2,Wheat,Friday,192,43,22.395833333333336
+72,2,Wheat,Friday,200,114,56.99999999999999
+73,2,Wheat,Friday,197,73,37.055837563451774
+74,2,Wheat,Friday,200,88,44.0
+75,2,Wheat,Friday,200,158,79.0
+76,2,Wheat,Friday,199,95,47.73869346733669
+77,2,Wheat,Friday,199,49,24.623115577889447
+78,2,Wheat,Friday,200,127,63.5
+79,2,Wheat,Friday,195,69,35.38461538461539
+80,2,Wheat,Friday,147,80,54.421768707483
+81,2,Wheat,Friday,195,38,19.48717948717949
+82,2,Wheat,Friday,195,29,14.871794871794872
+83,2,Wheat,Friday,193,86,44.559585492227974
+84,2,Wheat,Friday,191,96,50.26178010471204
+85,2,Wheat,Friday,198,73,36.868686868686865
+88,2,Wheat,Friday,200,162,81.0
+89,2,Wheat,Friday,200,117,58.5
+90,2,Wheat,Friday,197,42,21.31979695431472
+100,2,Wheat,Friday,200,139,69.5
+101,2,Wheat,Friday,199,139,69.84924623115577
+103,2,Wheat,Friday,200,162,81.0
+104,2,Wheat,Friday,200,168,84.0
+105,2,Wheat,Friday,200,162,81.0
+106,2,Wheat,Friday,90,41,45.55555555555556
+108,2,Wheat,Friday,141,57,40.42553191489361
+115,2,Wheat,Friday,120,71,59.166666666666664
+116,2,Wheat,Friday,199,130,65.32663316582915
+117,2,Wheat,Friday,199,128,64.321608040201
+119,2,Wheat,Friday,200,138,69.0
+120,2,Wheat,Friday,199,149,74.87437185929649
+121,2,Wheat,Friday,200,135,67.5
+122,2,Wheat,Friday,132,70,53.03030303030303
+123,2,Wheat,Friday,182,33,18.13186813186813
+132,2,Wheat,Friday,200,74,37.0
+134,2,Wheat,Friday,138,88,63.76811594202898
+135,2,Wheat,Friday,200,152,76.0
+139,2,Wheat,Friday,155,39,25.161290322580644
+142,2,Wheat,Friday,200,109,54.50000000000001
+143,2,Wheat,Friday,120,21,17.5
+144,2,Wheat,Friday,108,30,27.77777777777778
+145,2,Wheat,Friday,200,126,63.0
+146,2,Wheat,Friday,200,176,88.0
+147,2,Wheat,Friday,186,168,90.32258064516128
+148,2,Wheat,Friday,200,162,81.0
+149,2,Wheat,Friday,200,165,82.5
+150,2,Wheat,Friday,125,59,47.199999999999996
+151,2,Wheat,Friday,200,148,74.0
+152,2,Wheat,Friday,200,78,39.0
+153,2,Wheat,Friday,200,152,76.0
+154,2,Wheat,Friday,200,111,55.50000000000001
+163,2,Wheat,Friday,50,36,72.0
+164,2,Wheat,Friday,70,40,57.14285714285714
+165,2,Wheat,Friday,74,35,47.2972972972973
+1,2,Wheat,Saturday,200,92,46.0
+2,2,Wheat,Saturday,200,143,71.5
+3,2,Wheat,Saturday,199,130,65.32663316582915
+5,2,Wheat,Saturday,200,154,77.0
+6,2,Wheat,Saturday,200,139,69.5
+7,2,Wheat,Saturday,198,100,50.505050505050505
+9,2,Wheat,Saturday,200,120,60.0
+10,2,Wheat,Saturday,200,124,62.0
+11,2,Wheat,Saturday,200,165,82.5
+12,2,Wheat,Saturday,200,39,19.5
+14,2,Wheat,Saturday,141,36,25.53191489361702
+15,2,Wheat,Saturday,141,78,55.319148936170215
+16,2,Wheat,Saturday,200,69,34.5
+18,2,Wheat,Saturday,198,14,7.07070707070707
+19,2,Wheat,Saturday,192,74,38.54166666666667
+21,2,Wheat,Saturday,195,91,46.666666666666664
+22,2,Wheat,Saturday,200,107,53.5
+23,2,Wheat,Saturday,122,66,54.09836065573771
+24,2,Wheat,Saturday,198,115,58.080808080808076
+25,2,Wheat,Saturday,200,106,53.0
+28,2,Wheat,Saturday,189,40,21.164021164021165
+30,2,Wheat,Saturday,186,44,23.655913978494624
+32,2,Wheat,Saturday,190,64,33.68421052631579
+33,2,Wheat,Saturday,195,83,42.56410256410256
+35,2,Wheat,Saturday,184,55,29.891304347826086
+36,2,Wheat,Saturday,200,155,77.5
+37,2,Wheat,Saturday,200,152,76.0
+38,2,Wheat,Saturday,200,106,53.0
+39,2,Wheat,Saturday,200,111,55.50000000000001
+40,2,Wheat,Saturday,200,0,0.0
+41,2,Wheat,Saturday,200,29,14.499999999999998
+42,2,Wheat,Saturday,182,64,35.16483516483517
+43,2,Wheat,Saturday,200,63,31.5
+47,2,Wheat,Saturday,200,84,42.0
+48,2,Wheat,Saturday,200,120,60.0
+50,2,Wheat,Saturday,200,131,65.5
+51,2,Wheat,Saturday,196,54,27.55102040816326
+52,2,Wheat,Saturday,149,79,53.02013422818792
+53,2,Wheat,Saturday,200,121,60.5
+56,2,Wheat,Saturday,196,104,53.06122448979592
+57,2,Wheat,Saturday,195,88,45.12820512820513
+61,2,Wheat,Saturday,198,49,24.747474747474747
+62,2,Wheat,Saturday,200,116,57.99999999999999
+63,2,Wheat,Saturday,198,95,47.97979797979798
+64,2,Wheat,Saturday,193,86,44.559585492227974
+65,2,Wheat,Saturday,199,84,42.211055276381906
+66,2,Wheat,Saturday,199,107,53.768844221105525
+67,2,Wheat,Saturday,193,35,18.134715025906736
+68,2,Wheat,Saturday,198,91,45.95959595959596
+69,2,Wheat,Saturday,200,56,28.000000000000004
+70,2,Wheat,Saturday,191,26,13.612565445026178
+72,2,Wheat,Saturday,200,110,55.00000000000001
+73,2,Wheat,Saturday,196,60,30.612244897959183
+74,2,Wheat,Saturday,200,86,43.0
+75,2,Wheat,Saturday,200,142,71.0
+76,2,Wheat,Saturday,198,76,38.38383838383838
+77,2,Wheat,Saturday,199,32,16.08040201005025
+78,2,Wheat,Saturday,200,95,47.5
+79,2,Wheat,Saturday,194,59,30.412371134020617
+80,2,Wheat,Saturday,148,70,47.2972972972973
+81,2,Wheat,Saturday,195,26,13.333333333333334
+82,2,Wheat,Saturday,195,26,13.333333333333334
+83,2,Wheat,Saturday,193,82,42.487046632124354
+84,2,Wheat,Saturday,191,69,36.12565445026178
+85,2,Wheat,Saturday,198,60,30.303030303030305
+88,2,Wheat,Saturday,200,154,77.0
+89,2,Wheat,Saturday,199,106,53.266331658291456
+90,2,Wheat,Saturday,197,40,20.304568527918782
+100,2,Wheat,Saturday,200,112,56.00000000000001
+101,2,Wheat,Saturday,200,127,63.5
+103,2,Wheat,Saturday,200,150,75.0
+104,2,Wheat,Saturday,200,132,66.0
+105,2,Wheat,Saturday,200,158,79.0
+106,2,Wheat,Saturday,90,42,46.666666666666664
+108,2,Wheat,Saturday,141,38,26.95035460992908
+115,2,Wheat,Saturday,120,30,25.0
+116,2,Wheat,Saturday,199,123,61.80904522613066
+117,2,Wheat,Saturday,199,136,68.34170854271356
+119,2,Wheat,Saturday,200,131,65.5
+120,2,Wheat,Saturday,199,112,56.28140703517588
+121,2,Wheat,Saturday,200,126,63.0
+122,2,Wheat,Saturday,132,59,44.696969696969695
+123,2,Wheat,Saturday,182,30,16.483516483516482
+132,2,Wheat,Saturday,200,63,31.5
+134,2,Wheat,Saturday,138,47,34.05797101449276
+135,2,Wheat,Saturday,200,85,42.5
+139,2,Wheat,Saturday,155,30,19.35483870967742
+142,2,Wheat,Saturday,200,98,49.0
+143,2,Wheat,Saturday,120,12,10.0
+144,2,Wheat,Saturday,108,47,43.51851851851852
+145,2,Wheat,Saturday,200,108,54.0
+146,2,Wheat,Saturday,200,165,82.5
+147,2,Wheat,Saturday,187,163,87.16577540106952
+148,2,Wheat,Saturday,200,161,80.5
+149,2,Wheat,Saturday,200,153,76.5
+150,2,Wheat,Saturday,125,45,36.0
+151,2,Wheat,Saturday,200,147,73.5
+152,2,Wheat,Saturday,200,68,34.0
+153,2,Wheat,Saturday,200,138,69.0
+154,2,Wheat,Saturday,200,98,49.0
+163,2,Wheat,Saturday,50,28,56.00000000000001
+164,2,Wheat,Saturday,70,30,42.857142857142854
+165,2,Wheat,Saturday,74,32,43.24324324324324
+1,2,Wheat,Sunday,200,19,9.5
+2,2,Wheat,Sunday,200,1,0.5
+3,2,Wheat,Sunday,199,7,3.5175879396984926
+5,2,Wheat,Sunday,200,1,0.5
+6,2,Wheat,Sunday,200,1,0.5
+7,2,Wheat,Sunday,198,2,1.0101010101010102
+9,2,Wheat,Sunday,200,1,0.5
+10,2,Wheat,Sunday,200,17,8.5
+11,2,Wheat,Sunday,200,0,0.0
+12,2,Wheat,Sunday,200,0,0.0
+14,2,Wheat,Sunday,140,0,0.0
+15,2,Wheat,Sunday,141,1,0.7092198581560284
+16,2,Wheat,Sunday,200,6,3.0
+18,2,Wheat,Sunday,198,7,3.535353535353535
+19,2,Wheat,Sunday,191,2,1.0471204188481675
+21,2,Wheat,Sunday,195,0,0.0
+22,2,Wheat,Sunday,200,0,0.0
+23,2,Wheat,Sunday,122,2,1.639344262295082
+24,2,Wheat,Sunday,198,3,1.5151515151515151
+25,2,Wheat,Sunday,200,3,1.5
+28,2,Wheat,Sunday,190,44,23.157894736842106
+30,2,Wheat,Sunday,186,1,0.5376344086021506
+32,2,Wheat,Sunday,190,0,0.0
+33,2,Wheat,Sunday,195,2,1.0256410256410255
+35,2,Wheat,Sunday,183,0,0.0
+36,2,Wheat,Sunday,200,0,0.0
+37,2,Wheat,Sunday,200,1,0.5
+38,2,Wheat,Sunday,200,1,0.5
+39,2,Wheat,Sunday,200,5,2.5
+40,2,Wheat,Sunday,200,0,0.0
+41,2,Wheat,Sunday,201,22,10.945273631840797
+42,2,Wheat,Sunday,183,81,44.26229508196721
+43,2,Wheat,Sunday,200,1,0.5
+47,2,Wheat,Sunday,201,124,61.69154228855721
+48,2,Wheat,Sunday,200,0,0.0
+50,2,Wheat,Sunday,201,113,56.21890547263681
+51,2,Wheat,Sunday,196,0,0.0
+52,2,Wheat,Sunday,149,0,0.0
+53,2,Wheat,Sunday,201,97,48.258706467661696
+56,2,Wheat,Sunday,196,5,2.5510204081632653
+57,2,Wheat,Sunday,195,12,6.153846153846154
+61,2,Wheat,Sunday,198,0,0.0
+62,2,Wheat,Sunday,200,1,0.5
+63,2,Wheat,Sunday,198,2,1.0101010101010102
+64,2,Wheat,Sunday,193,1,0.5181347150259068
+65,2,Wheat,Sunday,199,0,0.0
+66,2,Wheat,Sunday,199,1,0.5025125628140703
+67,2,Wheat,Sunday,193,0,0.0
+68,2,Wheat,Sunday,198,1,0.5050505050505051
+69,2,Wheat,Sunday,200,10,5.0
+70,2,Wheat,Sunday,191,1,0.5235602094240838
+72,2,Wheat,Sunday,200,6,3.0
+73,2,Wheat,Sunday,196,17,8.673469387755102
+74,2,Wheat,Sunday,200,0,0.0
+75,2,Wheat,Sunday,200,0,0.0
+76,2,Wheat,Sunday,198,0,0.0
+77,2,Wheat,Sunday,199,0,0.0
+78,2,Wheat,Sunday,201,37,18.407960199004975
+79,2,Wheat,Sunday,194,14,7.216494845360824
+80,2,Wheat,Sunday,148,0,0.0
+81,2,Wheat,Sunday,195,8,4.102564102564102
+82,2,Wheat,Sunday,195,0,0.0
+83,2,Wheat,Sunday,193,0,0.0
+84,2,Wheat,Sunday,191,1,0.5235602094240838
+85,2,Wheat,Sunday,198,3,1.5151515151515151
+88,2,Wheat,Sunday,200,0,0.0
+89,2,Wheat,Sunday,199,1,0.5025125628140703
+90,2,Wheat,Sunday,197,1,0.5076142131979695
+100,2,Wheat,Sunday,200,5,2.5
+101,2,Wheat,Sunday,200,2,1.0
+103,2,Wheat,Sunday,200,0,0.0
+104,2,Wheat,Sunday,200,4,2.0
+105,2,Wheat,Sunday,200,0,0.0
+106,2,Wheat,Sunday,90,0,0.0
+108,2,Wheat,Sunday,141,68,48.226950354609926
+115,2,Wheat,Sunday,120,0,0.0
+116,2,Wheat,Sunday,199,1,0.5025125628140703
+117,2,Wheat,Sunday,199,0,0.0
+119,2,Wheat,Sunday,201,1,0.4975124378109453
+120,2,Wheat,Sunday,199,2,1.0050251256281406
+121,2,Wheat,Sunday,200,1,0.5
+122,2,Wheat,Sunday,132,0,0.0
+123,2,Wheat,Sunday,181,7,3.867403314917127
+132,2,Wheat,Sunday,199,0,0.0
+134,2,Wheat,Sunday,138,1,0.7246376811594203
+135,2,Wheat,Sunday,200,0,0.0
+139,2,Wheat,Sunday,155,0,0.0
+142,2,Wheat,Sunday,200,2,1.0
+143,2,Wheat,Sunday,120,0,0.0
+144,2,Wheat,Sunday,108,3,2.7777777777777777
+145,2,Wheat,Sunday,200,1,0.5
+146,2,Wheat,Sunday,200,0,0.0
+147,2,Wheat,Sunday,187,1,0.53475935828877
+148,2,Wheat,Sunday,201,149,74.12935323383084
+149,2,Wheat,Sunday,200,1,0.5
+150,2,Wheat,Sunday,125,7,5.6000000000000005
+151,2,Wheat,Sunday,200,4,2.0
+152,2,Wheat,Sunday,200,0,0.0
+153,2,Wheat,Sunday,200,1,0.5
+154,2,Wheat,Sunday,200,21,10.5
+163,2,Wheat,Sunday,50,0,0.0
+164,2,Wheat,Sunday,69,5,7.246376811594203
+165,2,Wheat,Sunday,74,0,0.0

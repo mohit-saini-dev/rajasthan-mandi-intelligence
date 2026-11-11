@@ -1,0 +1,236 @@
+Commodity_Name,Year,Month_Num,Month,Eligible_Pairs_In_Span,Pairs_Reporting,Expected_Pair_Days,Reported_Pair_Days,Calendar_Span_Reporting_Rate_Pct,Is_Incomplete_Month
+Bajra(Pearl Millet/Cumbu),2023,1,January,47,47,1328,716,53.92,False
+Bajra(Pearl Millet/Cumbu),2023,2,February,48,45,1344,708,52.68,False
+Bajra(Pearl Millet/Cumbu),2023,3,March,48,42,1488,484,32.53,False
+Bajra(Pearl Millet/Cumbu),2023,4,April,48,41,1440,539,37.43,False
+Bajra(Pearl Millet/Cumbu),2023,5,May,48,38,1488,447,30.04,False
+Bajra(Pearl Millet/Cumbu),2023,6,June,48,35,1440,487,33.82,False
+Bajra(Pearl Millet/Cumbu),2023,7,July,48,37,1488,456,30.65,False
+Bajra(Pearl Millet/Cumbu),2023,8,August,48,39,1488,421,28.29,False
+Bajra(Pearl Millet/Cumbu),2023,9,September,48,42,1440,655,45.49,False
+Bajra(Pearl Millet/Cumbu),2023,10,October,49,46,1516,956,63.06,False
+Bajra(Pearl Millet/Cumbu),2023,11,November,49,45,1470,697,47.41,False
+Bajra(Pearl Millet/Cumbu),2023,12,December,50,47,1522,867,56.96,False
+Bajra(Pearl Millet/Cumbu),2024,1,January,50,47,1550,733,47.29,False
+Bajra(Pearl Millet/Cumbu),2024,2,February,52,49,1475,801,54.31,False
+Bajra(Pearl Millet/Cumbu),2024,3,March,53,50,1636,704,43.03,False
+Bajra(Pearl Millet/Cumbu),2024,4,April,53,47,1590,546,34.34,False
+Bajra(Pearl Millet/Cumbu),2024,5,May,54,45,1644,620,37.71,False
+Bajra(Pearl Millet/Cumbu),2024,6,June,55,47,1622,539,33.23,False
+Bajra(Pearl Millet/Cumbu),2024,7,July,55,46,1705,550,32.26,False
+Bajra(Pearl Millet/Cumbu),2024,8,August,56,38,1707,312,18.28,False
+Bajra(Pearl Millet/Cumbu),2024,9,September,57,52,1688,608,36.02,False
+Bajra(Pearl Millet/Cumbu),2024,10,October,57,56,1767,924,52.29,False
+Bajra(Pearl Millet/Cumbu),2024,11,November,57,55,1710,1023,59.82,False
+Bajra(Pearl Millet/Cumbu),2024,12,December,57,55,1767,1051,59.48,False
+Bajra(Pearl Millet/Cumbu),2025,1,January,57,54,1765,870,49.29,False
+Bajra(Pearl Millet/Cumbu),2025,2,February,57,53,1590,750,47.17,False
+Bajra(Pearl Millet/Cumbu),2025,3,March,57,56,1767,711,40.24,False
+Bajra(Pearl Millet/Cumbu),2025,4,April,57,48,1710,638,37.31,False
+Bajra(Pearl Millet/Cumbu),2025,5,May,57,46,1767,673,38.09,False
+Bajra(Pearl Millet/Cumbu),2025,6,June,57,49,1710,600,35.09,False
+Bajra(Pearl Millet/Cumbu),2025,7,July,57,47,1767,517,29.26,False
+Bajra(Pearl Millet/Cumbu),2025,8,August,57,50,1767,530,29.99,False
+Bajra(Pearl Millet/Cumbu),2025,9,September,57,57,1710,800,46.78,False
+Bajra(Pearl Millet/Cumbu),2025,10,October,57,56,1766,952,53.91,False
+Bajra(Pearl Millet/Cumbu),2025,11,November,56,55,1628,703,43.18,False
+Bajra(Pearl Millet/Cumbu),2025,12,December,54,49,1674,863,51.55,False
+Bajra(Pearl Millet/Cumbu),2026,1,January,54,52,1674,717,42.83,False
+Bajra(Pearl Millet/Cumbu),2026,2,February,54,49,1512,679,44.91,False
+Bajra(Pearl Millet/Cumbu),2026,3,March,54,47,1674,464,27.72,False
+Bajra(Pearl Millet/Cumbu),2026,4,April,54,44,1620,513,31.67,False
+Bajra(Pearl Millet/Cumbu),2026,5,May,54,48,1631,532,32.62,False
+Bajra(Pearl Millet/Cumbu),2026,6,June,52,48,1560,542,34.74,False
+Bajra(Pearl Millet/Cumbu),2026,7,July,52,46,1612,525,32.57,False
+Bajra(Pearl Millet/Cumbu),2026,8,August,52,47,1612,496,30.77,False
+Bajra(Pearl Millet/Cumbu),2026,9,September,52,50,1560,690,44.23,False
+Bajra(Pearl Millet/Cumbu),2026,10,October,52,52,1530,906,59.22,False
+Bajra(Pearl Millet/Cumbu),2026,11,November,41,41,113,74,65.49,True
+Barley(Jau),2023,1,January,28,28,636,113,17.77,False
+Barley(Jau),2023,2,February,35,27,880,135,15.34,False
+Barley(Jau),2023,3,March,44,42,1224,437,35.7,False
+Barley(Jau),2023,4,April,46,44,1376,794,57.7,False
+Barley(Jau),2023,5,May,46,43,1426,830,58.2,False
+Barley(Jau),2023,6,June,46,44,1380,811,58.77,False
+Barley(Jau),2023,7,July,46,43,1426,730,51.19,False
+Barley(Jau),2023,8,August,46,43,1426,627,43.97,False
+Barley(Jau),2023,9,September,46,42,1380,500,36.23,False
+Barley(Jau),2023,10,October,47,41,1449,426,29.4,False
+Barley(Jau),2023,11,November,47,36,1410,308,21.84,False
+Barley(Jau),2023,12,December,48,37,1460,345,23.63,False
+Barley(Jau),2024,1,January,48,32,1488,194,13.04,False
+Barley(Jau),2024,2,February,48,28,1392,209,15.01,False
+Barley(Jau),2024,3,March,50,45,1527,484,31.7,False
+Barley(Jau),2024,4,April,50,49,1500,844,56.27,False
+Barley(Jau),2024,5,May,50,49,1550,1032,66.58,False
+Barley(Jau),2024,6,June,50,49,1500,749,49.93,False
+Barley(Jau),2024,7,July,50,48,1550,586,37.81,False
+Barley(Jau),2024,8,August,50,47,1550,362,23.35,False
+Barley(Jau),2024,9,September,50,45,1500,371,24.73,False
+Barley(Jau),2024,10,October,50,40,1550,325,20.97,False
+Barley(Jau),2024,11,November,50,37,1500,289,19.27,False
+Barley(Jau),2024,12,December,50,39,1550,281,18.13,False
+Barley(Jau),2025,1,January,50,31,1550,163,10.52,False
+Barley(Jau),2025,2,February,50,24,1400,113,8.07,False
+Barley(Jau),2025,3,March,50,48,1550,561,36.19,False
+Barley(Jau),2025,4,April,50,48,1500,923,61.53,False
+Barley(Jau),2025,5,May,50,48,1550,910,58.71,False
+Barley(Jau),2025,6,June,50,48,1500,627,41.8,False
+Barley(Jau),2025,7,July,50,47,1550,452,29.16,False
+Barley(Jau),2025,8,August,50,48,1550,399,25.74,False
+Barley(Jau),2025,9,September,50,43,1500,346,23.07,False
+Barley(Jau),2025,10,October,50,38,1544,263,17.03,False
+Barley(Jau),2025,11,November,49,29,1470,178,12.11,False
+Barley(Jau),2025,12,December,49,33,1519,222,14.61,False
+Barley(Jau),2026,1,January,49,29,1519,138,9.08,False
+Barley(Jau),2026,2,February,49,28,1372,176,12.83,False
+Barley(Jau),2026,3,March,49,46,1519,506,33.31,False
+Barley(Jau),2026,4,April,49,47,1470,779,52.99,False
+Barley(Jau),2026,5,May,49,48,1519,715,47.07,False
+Barley(Jau),2026,6,June,49,46,1443,574,39.78,False
+Barley(Jau),2026,7,July,47,46,1406,447,31.79,False
+Barley(Jau),2026,8,August,44,40,1349,296,21.94,False
+Barley(Jau),2026,9,September,42,37,1184,231,19.51,False
+Barley(Jau),2026,10,October,37,37,875,235,26.86,False
+Barley(Jau),2026,11,November,11,11,26,15,57.69,True
+Bengal Gram(Gram)(Whole),2023,1,January,47,47,1288,495,38.43,False
+Bengal Gram(Gram)(Whole),2023,2,February,50,47,1359,489,35.98,False
+Bengal Gram(Gram)(Whole),2023,3,March,53,49,1587,466,29.36,False
+Bengal Gram(Gram)(Whole),2023,4,April,55,52,1631,850,52.12,False
+Bengal Gram(Gram)(Whole),2023,5,May,55,52,1705,898,52.67,False
+Bengal Gram(Gram)(Whole),2023,6,June,57,56,1657,934,56.37,False
+Bengal Gram(Gram)(Whole),2023,7,July,57,54,1767,805,45.56,False
+Bengal Gram(Gram)(Whole),2023,8,August,57,48,1767,671,37.97,False
+Bengal Gram(Gram)(Whole),2023,9,September,57,47,1710,510,29.82,False
+Bengal Gram(Gram)(Whole),2023,10,October,57,48,1767,541,30.62,False
+Bengal Gram(Gram)(Whole),2023,11,November,57,45,1710,404,23.63,False
+Bengal Gram(Gram)(Whole),2023,12,December,57,41,1767,499,28.24,False
+Bengal Gram(Gram)(Whole),2024,1,January,58,40,1788,357,19.97,False
+Bengal Gram(Gram)(Whole),2024,2,February,61,46,1702,448,26.32,False
+Bengal Gram(Gram)(Whole),2024,3,March,63,53,1941,705,36.32,False
+Bengal Gram(Gram)(Whole),2024,4,April,63,62,1890,1034,54.71,False
+Bengal Gram(Gram)(Whole),2024,5,May,63,62,1953,1281,65.59,False
+Bengal Gram(Gram)(Whole),2024,6,June,63,61,1890,1030,54.5,False
+Bengal Gram(Gram)(Whole),2024,7,July,64,62,1960,934,47.65,False
+Bengal Gram(Gram)(Whole),2024,8,August,64,59,1984,626,31.55,False
+Bengal Gram(Gram)(Whole),2024,9,September,64,57,1920,562,29.27,False
+Bengal Gram(Gram)(Whole),2024,10,October,64,55,1984,511,25.76,False
+Bengal Gram(Gram)(Whole),2024,11,November,64,50,1920,556,28.96,False
+Bengal Gram(Gram)(Whole),2024,12,December,64,53,1984,596,30.04,False
+Bengal Gram(Gram)(Whole),2025,1,January,64,50,1984,457,23.03,False
+Bengal Gram(Gram)(Whole),2025,2,February,64,46,1792,337,18.81,False
+Bengal Gram(Gram)(Whole),2025,3,March,64,54,1984,665,33.52,False
+Bengal Gram(Gram)(Whole),2025,4,April,64,62,1920,1184,61.67,False
+Bengal Gram(Gram)(Whole),2025,5,May,64,62,1984,1357,68.4,False
+Bengal Gram(Gram)(Whole),2025,6,June,64,62,1920,1151,59.95,False
+Bengal Gram(Gram)(Whole),2025,7,July,64,60,1984,970,48.89,False
+Bengal Gram(Gram)(Whole),2025,8,August,64,60,1984,769,38.76,False
+Bengal Gram(Gram)(Whole),2025,9,September,64,60,1920,727,37.86,False
+Bengal Gram(Gram)(Whole),2025,10,October,64,55,1984,553,27.87,False
+Bengal Gram(Gram)(Whole),2025,11,November,64,54,1865,468,25.09,False
+Bengal Gram(Gram)(Whole),2025,12,December,62,48,1922,590,30.7,False
+Bengal Gram(Gram)(Whole),2026,1,January,62,49,1922,515,26.8,False
+Bengal Gram(Gram)(Whole),2026,2,February,62,49,1736,507,29.21,False
+Bengal Gram(Gram)(Whole),2026,3,March,62,55,1922,595,30.96,False
+Bengal Gram(Gram)(Whole),2026,4,April,62,60,1860,1009,54.25,False
+Bengal Gram(Gram)(Whole),2026,5,May,62,61,1922,1027,53.43,False
+Bengal Gram(Gram)(Whole),2026,6,June,62,61,1860,1060,56.99,False
+Bengal Gram(Gram)(Whole),2026,7,July,62,61,1877,947,50.45,False
+Bengal Gram(Gram)(Whole),2026,8,August,60,59,1860,732,39.35,False
+Bengal Gram(Gram)(Whole),2026,9,September,59,57,1687,587,34.8,False
+Bengal Gram(Gram)(Whole),2026,10,October,52,52,1501,572,38.11,False
+Bengal Gram(Gram)(Whole),2026,11,November,35,35,95,60,63.16,True
+Mustard,2023,1,January,94,94,2748,1397,50.84,False
+Mustard,2023,2,February,96,92,2663,1591,59.74,False
+Mustard,2023,3,March,97,94,2997,1268,42.31,False
+Mustard,2023,4,April,100,94,2985,1649,55.24,False
+Mustard,2023,5,May,100,96,3100,1718,55.42,False
+Mustard,2023,6,June,100,95,3000,1768,58.93,False
+Mustard,2023,7,July,100,91,3100,1690,54.52,False
+Mustard,2023,8,August,100,95,3100,1604,51.74,False
+Mustard,2023,9,September,101,93,3019,1503,49.78,False
+Mustard,2023,10,October,102,92,3158,1652,52.31,False
+Mustard,2023,11,November,102,92,3060,1187,38.79,False
+Mustard,2023,12,December,103,94,3165,1489,47.05,False
+Mustard,2024,1,January,103,100,3193,1354,42.41,False
+Mustard,2024,2,February,106,103,3012,1698,56.37,False
+Mustard,2024,3,March,108,105,3330,1808,54.29,False
+Mustard,2024,4,April,110,108,3296,1860,56.43,False
+Mustard,2024,5,May,111,107,3441,2253,65.48,False
+Mustard,2024,6,June,113,111,3350,2009,59.97,False
+Mustard,2024,7,July,115,112,3542,2112,59.63,False
+Mustard,2024,8,August,115,106,3565,1560,43.76,False
+Mustard,2024,9,September,115,112,3450,1866,54.09,False
+Mustard,2024,10,October,115,110,3565,1651,46.31,False
+Mustard,2024,11,November,115,104,3450,1403,40.67,False
+Mustard,2024,12,December,115,101,3565,1518,42.58,False
+Mustard,2025,1,January,115,102,3563,1508,42.32,False
+Mustard,2025,2,February,115,108,3214,1286,40.01,False
+Mustard,2025,3,March,115,114,3565,1816,50.94,False
+Mustard,2025,4,April,116,116,3465,2230,64.36,False
+Mustard,2025,5,May,117,116,3600,2486,69.06,False
+Mustard,2025,6,June,117,115,3510,2147,61.17,False
+Mustard,2025,7,July,117,115,3627,1897,52.3,False
+Mustard,2025,8,August,117,113,3627,1655,45.63,False
+Mustard,2025,9,September,117,108,3510,1644,46.84,False
+Mustard,2025,10,October,117,100,3627,1225,33.77,False
+Mustard,2025,11,November,119,97,3427,960,28.01,False
+Mustard,2025,12,December,115,87,3565,1265,35.48,False
+Mustard,2026,1,January,115,100,3565,1233,34.59,False
+Mustard,2026,2,February,115,106,3220,1542,47.89,False
+Mustard,2026,3,March,115,110,3565,1700,47.69,False
+Mustard,2026,4,April,115,110,3450,1956,56.7,False
+Mustard,2026,5,May,115,113,3565,2074,58.18,False
+Mustard,2026,6,June,115,114,3447,2093,60.72,False
+Mustard,2026,7,July,114,111,3530,1993,56.46,False
+Mustard,2026,8,August,113,109,3477,1651,47.48,False
+Mustard,2026,9,September,111,107,3222,1458,45.25,False
+Mustard,2026,10,October,101,99,2913,1429,49.06,False
+Mustard,2026,11,November,68,68,190,117,61.58,True
+Wheat,2023,1,January,78,78,2162,1074,49.68,False
+Wheat,2023,2,February,83,78,2273,1108,48.75,False
+Wheat,2023,3,March,84,72,2595,713,27.48,False
+Wheat,2023,4,April,88,84,2625,1387,52.84,False
+Wheat,2023,5,May,88,83,2728,1475,54.07,False
+Wheat,2023,6,June,88,84,2640,1569,59.43,False
+Wheat,2023,7,July,88,79,2728,1462,53.59,False
+Wheat,2023,8,August,88,83,2728,1397,51.21,False
+Wheat,2023,9,September,88,81,2640,1297,49.13,False
+Wheat,2023,10,October,89,84,2755,1330,48.28,False
+Wheat,2023,11,November,89,81,2670,985,36.89,False
+Wheat,2023,12,December,90,79,2762,1150,41.64,False
+Wheat,2024,1,January,90,74,2790,926,33.19,False
+Wheat,2024,2,February,95,82,2663,1125,42.25,False
+Wheat,2024,3,March,96,83,2965,1088,36.69,False
+Wheat,2024,4,April,96,92,2880,1500,52.08,False
+Wheat,2024,5,May,96,93,2976,1985,66.7,False
+Wheat,2024,6,June,98,97,2900,1774,61.17,False
+Wheat,2024,7,July,100,99,3069,1946,63.41,False
+Wheat,2024,8,August,100,97,3100,1448,46.71,False
+Wheat,2024,9,September,100,98,3000,1602,53.4,False
+Wheat,2024,10,October,100,95,3100,1366,44.06,False
+Wheat,2024,11,November,100,94,3000,1272,42.4,False
+Wheat,2024,12,December,100,85,3100,1411,45.52,False
+Wheat,2025,1,January,100,87,3098,1341,43.29,False
+Wheat,2025,2,February,99,82,2772,1067,38.49,False
+Wheat,2025,3,March,100,90,3083,1152,37.37,False
+Wheat,2025,4,April,100,98,3000,1741,58.03,False
+Wheat,2025,5,May,101,95,3104,2096,67.53,False
+Wheat,2025,6,June,101,97,3030,1852,61.12,False
+Wheat,2025,7,July,101,97,3131,1709,54.58,False
+Wheat,2025,8,August,101,97,3131,1553,49.6,False
+Wheat,2025,9,September,101,97,3030,1596,52.67,False
+Wheat,2025,10,October,101,94,3131,1219,38.93,False
+Wheat,2025,11,November,102,90,2999,1014,33.81,False
+Wheat,2025,12,December,100,83,3100,1219,39.32,False
+Wheat,2026,1,January,100,85,3100,1076,34.71,False
+Wheat,2026,2,February,100,89,2800,1171,41.82,False
+Wheat,2026,3,March,100,85,3100,993,32.03,False
+Wheat,2026,4,April,100,95,3000,1583,52.77,False
+Wheat,2026,5,May,100,99,3100,1790,57.74,False
+Wheat,2026,6,June,100,98,2997,1815,60.56,False
+Wheat,2026,7,July,99,98,3056,1821,59.59,False
+Wheat,2026,8,August,98,97,3023,1497,49.52,False
+Wheat,2026,9,September,97,97,2829,1398,49.42,False
+Wheat,2026,10,October,91,91,2546,1312,51.53,False
+Wheat,2026,11,November,59,59,159,102,64.15,True

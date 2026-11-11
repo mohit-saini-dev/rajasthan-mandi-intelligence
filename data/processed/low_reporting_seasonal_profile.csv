@@ -1,0 +1,181 @@
+Market_Id,Commodity_Id,Market_Name,Commodity_Name,Month_Num,Month,Complete_Months_Represented,Expected_Pair_Days,Reported_Pair_Days,Zero_Reporting_Months,Seasonal_Reporting_Rate_Pct
+115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),1,January,4,120,14,1,11.666666666666666
+115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),2,February,4,113,14,2,12.389380530973451
+115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),3,March,4,124,10,2,8.064516129032258
+115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),4,April,4,120,4,3,3.3333333333333335
+115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),5,May,4,124,5,3,4.032258064516129
+115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),6,June,4,120,4,2,3.3333333333333335
+115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),7,July,4,124,9,1,7.258064516129033
+115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),8,August,4,124,24,2,19.35483870967742
+115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),9,September,4,120,32,1,26.666666666666668
+115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),10,October,4,119,31,1,26.05042016806723
+115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),11,November,3,90,28,1,31.11111111111111
+115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),12,December,3,93,28,1,30.107526881720432
+62,5,Anupgarh APMC,Bengal Gram(Gram)(Whole),1,January,4,123,9,3,7.317073170731707
+62,5,Anupgarh APMC,Bengal Gram(Gram)(Whole),2,February,4,113,5,2,4.424778761061947
+62,5,Anupgarh APMC,Bengal Gram(Gram)(Whole),3,March,4,124,1,3,0.8064516129032258
+62,5,Anupgarh APMC,Bengal Gram(Gram)(Whole),4,April,4,120,54,0,45.0
+62,5,Anupgarh APMC,Bengal Gram(Gram)(Whole),5,May,4,124,57,0,45.96774193548387
+62,5,Anupgarh APMC,Bengal Gram(Gram)(Whole),6,June,4,120,34,0,28.333333333333332
+62,5,Anupgarh APMC,Bengal Gram(Gram)(Whole),7,July,4,124,24,0,19.35483870967742
+62,5,Anupgarh APMC,Bengal Gram(Gram)(Whole),8,August,4,124,9,1,7.258064516129033
+62,5,Anupgarh APMC,Bengal Gram(Gram)(Whole),9,September,4,104,10,0,9.615384615384617
+62,5,Anupgarh APMC,Bengal Gram(Gram)(Whole),10,October,3,93,2,1,2.1505376344086025
+62,5,Anupgarh APMC,Bengal Gram(Gram)(Whole),11,November,3,90,1,2,1.1111111111111112
+62,5,Anupgarh APMC,Bengal Gram(Gram)(Whole),12,December,3,93,2,2,2.1505376344086025
+132,5,Sumerpur APMC,Bengal Gram(Gram)(Whole),1,January,4,119,1,3,0.8403361344537815
+132,5,Sumerpur APMC,Bengal Gram(Gram)(Whole),2,February,4,113,5,1,4.424778761061947
+132,5,Sumerpur APMC,Bengal Gram(Gram)(Whole),3,March,4,124,18,0,14.516129032258066
+132,5,Sumerpur APMC,Bengal Gram(Gram)(Whole),4,April,4,120,44,0,36.666666666666664
+132,5,Sumerpur APMC,Bengal Gram(Gram)(Whole),5,May,4,124,47,0,37.903225806451616
+132,5,Sumerpur APMC,Bengal Gram(Gram)(Whole),6,June,4,120,34,1,28.333333333333332
+132,5,Sumerpur APMC,Bengal Gram(Gram)(Whole),7,July,4,124,33,0,26.61290322580645
+132,5,Sumerpur APMC,Bengal Gram(Gram)(Whole),8,August,4,124,17,1,13.709677419354838
+132,5,Sumerpur APMC,Bengal Gram(Gram)(Whole),9,September,4,120,9,2,7.5
+132,5,Sumerpur APMC,Bengal Gram(Gram)(Whole),10,October,4,120,5,2,4.166666666666666
+132,5,Sumerpur APMC,Bengal Gram(Gram)(Whole),11,November,3,90,1,2,1.1111111111111112
+132,5,Sumerpur APMC,Bengal Gram(Gram)(Whole),12,December,3,93,0,3,0.0
+40,8,Barisadri APMC,Mustard,1,January,4,122,27,1,22.131147540983605
+40,8,Barisadri APMC,Mustard,2,February,4,113,27,1,23.893805309734514
+40,8,Barisadri APMC,Mustard,3,March,4,124,6,1,4.838709677419355
+40,8,Barisadri APMC,Mustard,4,April,4,120,10,2,8.333333333333332
+40,8,Barisadri APMC,Mustard,5,May,4,124,12,2,9.67741935483871
+40,8,Barisadri APMC,Mustard,6,June,4,120,14,2,11.666666666666666
+40,8,Barisadri APMC,Mustard,7,July,4,124,23,1,18.548387096774192
+40,8,Barisadri APMC,Mustard,8,August,4,124,25,1,20.161290322580644
+40,8,Barisadri APMC,Mustard,9,September,4,120,23,1,19.166666666666668
+40,8,Barisadri APMC,Mustard,10,October,4,109,21,1,19.26605504587156
+40,8,Barisadri APMC,Mustard,11,November,3,90,10,1,11.11111111111111
+40,8,Barisadri APMC,Mustard,12,December,3,93,16,1,17.20430107526882
+25,8,Bhilwara APMC,Mustard,1,January,4,118,21,0,17.796610169491526
+25,8,Bhilwara APMC,Mustard,2,February,4,113,76,0,67.2566371681416
+25,8,Bhilwara APMC,Mustard,3,March,4,124,52,0,41.935483870967744
+25,8,Bhilwara APMC,Mustard,4,April,4,120,41,0,34.166666666666664
+25,8,Bhilwara APMC,Mustard,5,May,4,124,24,0,19.35483870967742
+25,8,Bhilwara APMC,Mustard,6,June,4,120,18,2,15.0
+25,8,Bhilwara APMC,Mustard,7,July,4,124,13,1,10.483870967741936
+25,8,Bhilwara APMC,Mustard,8,August,4,113,10,2,8.849557522123893
+25,8,Bhilwara APMC,Mustard,9,September,3,90,8,1,8.88888888888889
+25,8,Bhilwara APMC,Mustard,10,October,3,93,5,1,5.376344086021505
+25,8,Bhilwara APMC,Mustard,11,November,3,90,4,2,4.444444444444445
+25,8,Bhilwara APMC,Mustard,12,December,3,93,1,2,1.0752688172043012
+81,8,HanumangarhTown APMC,Mustard,1,January,4,120,4,3,3.3333333333333335
+81,8,HanumangarhTown APMC,Mustard,2,February,4,113,1,3,0.8849557522123894
+81,8,HanumangarhTown APMC,Mustard,3,March,4,124,18,0,14.516129032258066
+81,8,HanumangarhTown APMC,Mustard,4,April,4,120,50,0,41.66666666666667
+81,8,HanumangarhTown APMC,Mustard,5,May,4,124,30,2,24.193548387096776
+81,8,HanumangarhTown APMC,Mustard,6,June,4,120,30,1,25.0
+81,8,HanumangarhTown APMC,Mustard,7,July,4,124,25,2,20.161290322580644
+81,8,HanumangarhTown APMC,Mustard,8,August,4,124,24,2,19.35483870967742
+81,8,HanumangarhTown APMC,Mustard,9,September,4,120,24,2,20.0
+81,8,HanumangarhTown APMC,Mustard,10,October,4,120,14,3,11.666666666666666
+81,8,HanumangarhTown APMC,Mustard,11,November,3,90,4,2,4.444444444444445
+81,8,HanumangarhTown APMC,Mustard,12,December,3,93,6,1,6.451612903225806
+98,8,Raniwara APMC,Mustard,1,January,4,122,15,1,12.295081967213115
+98,8,Raniwara APMC,Mustard,2,February,4,113,38,0,33.6283185840708
+98,8,Raniwara APMC,Mustard,3,March,4,124,61,0,49.193548387096776
+98,8,Raniwara APMC,Mustard,4,April,4,120,29,1,24.166666666666668
+98,8,Raniwara APMC,Mustard,5,May,4,124,29,1,23.387096774193548
+98,8,Raniwara APMC,Mustard,6,June,4,120,12,1,10.0
+98,8,Raniwara APMC,Mustard,7,July,4,124,15,0,12.096774193548388
+98,8,Raniwara APMC,Mustard,8,August,4,124,21,0,16.93548387096774
+98,8,Raniwara APMC,Mustard,9,September,4,112,20,1,17.857142857142858
+98,8,Raniwara APMC,Mustard,10,October,3,93,5,1,5.376344086021505
+98,8,Raniwara APMC,Mustard,11,November,3,90,0,3,0.0
+98,8,Raniwara APMC,Mustard,12,December,3,93,3,2,3.225806451612903
+45,8,Sardar Shahar APMC,Mustard,1,January,4,123,4,2,3.2520325203252036
+45,8,Sardar Shahar APMC,Mustard,2,February,4,113,7,1,6.1946902654867255
+45,8,Sardar Shahar APMC,Mustard,3,March,4,124,16,1,12.903225806451612
+45,8,Sardar Shahar APMC,Mustard,4,April,4,120,51,0,42.5
+45,8,Sardar Shahar APMC,Mustard,5,May,4,124,32,0,25.806451612903224
+45,8,Sardar Shahar APMC,Mustard,6,June,4,120,20,0,16.666666666666664
+45,8,Sardar Shahar APMC,Mustard,7,July,4,124,30,0,24.193548387096776
+45,8,Sardar Shahar APMC,Mustard,8,August,4,124,18,0,14.516129032258066
+45,8,Sardar Shahar APMC,Mustard,9,September,4,91,13,0,14.285714285714285
+45,8,Sardar Shahar APMC,Mustard,10,October,3,93,14,0,15.053763440860216
+45,8,Sardar Shahar APMC,Mustard,11,November,3,90,1,2,1.1111111111111112
+45,8,Sardar Shahar APMC,Mustard,12,December,3,93,3,2,3.225806451612903
+132,8,Sumerpur APMC,Mustard,1,January,4,120,13,0,10.833333333333334
+132,8,Sumerpur APMC,Mustard,2,February,4,113,41,0,36.283185840707965
+132,8,Sumerpur APMC,Mustard,3,March,4,124,38,0,30.64516129032258
+132,8,Sumerpur APMC,Mustard,4,April,4,120,42,0,35.0
+132,8,Sumerpur APMC,Mustard,5,May,4,124,32,0,25.806451612903224
+132,8,Sumerpur APMC,Mustard,6,June,4,120,18,1,15.0
+132,8,Sumerpur APMC,Mustard,7,July,4,124,22,1,17.741935483870968
+132,8,Sumerpur APMC,Mustard,8,August,4,124,9,1,7.258064516129033
+132,8,Sumerpur APMC,Mustard,9,September,4,120,12,0,10.0
+132,8,Sumerpur APMC,Mustard,10,October,4,124,0,4,0.0
+132,8,Sumerpur APMC,Mustard,11,November,3,90,0,3,0.0
+132,8,Sumerpur APMC,Mustard,12,December,3,93,0,3,0.0
+18,2,Beawar APMC,Wheat,1,January,4,114,9,1,7.894736842105263
+18,2,Beawar APMC,Wheat,2,February,4,113,17,1,15.04424778761062
+18,2,Beawar APMC,Wheat,3,March,4,124,32,1,25.806451612903224
+18,2,Beawar APMC,Wheat,4,April,4,120,37,1,30.833333333333336
+18,2,Beawar APMC,Wheat,5,May,4,124,32,1,25.806451612903224
+18,2,Beawar APMC,Wheat,6,June,4,120,18,0,15.0
+18,2,Beawar APMC,Wheat,7,July,4,124,22,1,17.741935483870968
+18,2,Beawar APMC,Wheat,8,August,4,124,20,0,16.129032258064516
+18,2,Beawar APMC,Wheat,9,September,4,120,17,0,14.166666666666666
+18,2,Beawar APMC,Wheat,10,October,4,121,19,0,15.702479338842975
+18,2,Beawar APMC,Wheat,11,November,3,90,2,2,2.2222222222222223
+18,2,Beawar APMC,Wheat,12,December,3,93,2,2,2.1505376344086025
+77,2,Bhadara APMC,Wheat,1,January,4,116,8,0,6.896551724137931
+77,2,Bhadara APMC,Wheat,2,February,4,113,13,1,11.504424778761061
+77,2,Bhadara APMC,Wheat,3,March,4,124,30,1,24.193548387096776
+77,2,Bhadara APMC,Wheat,4,April,4,120,35,0,29.166666666666668
+77,2,Bhadara APMC,Wheat,5,May,4,124,17,2,13.709677419354838
+77,2,Bhadara APMC,Wheat,6,June,4,120,18,0,15.0
+77,2,Bhadara APMC,Wheat,7,July,4,124,18,0,14.516129032258066
+77,2,Bhadara APMC,Wheat,8,August,4,124,34,0,27.419354838709676
+77,2,Bhadara APMC,Wheat,9,September,4,120,52,0,43.333333333333336
+77,2,Bhadara APMC,Wheat,10,October,4,124,40,0,32.25806451612903
+77,2,Bhadara APMC,Wheat,11,November,3,90,6,1,6.666666666666667
+77,2,Bhadara APMC,Wheat,12,December,3,93,6,0,6.451612903225806
+81,2,HanumangarhTown APMC,Wheat,1,January,4,116,5,2,4.310344827586207
+81,2,HanumangarhTown APMC,Wheat,2,February,4,113,7,1,6.1946902654867255
+81,2,HanumangarhTown APMC,Wheat,3,March,4,124,3,1,2.4193548387096775
+81,2,HanumangarhTown APMC,Wheat,4,April,4,120,39,0,32.5
+81,2,HanumangarhTown APMC,Wheat,5,May,4,124,57,1,45.96774193548387
+81,2,HanumangarhTown APMC,Wheat,6,June,4,120,33,1,27.500000000000004
+81,2,HanumangarhTown APMC,Wheat,7,July,4,124,35,1,28.225806451612907
+81,2,HanumangarhTown APMC,Wheat,8,August,4,124,32,1,25.806451612903224
+81,2,HanumangarhTown APMC,Wheat,9,September,4,120,25,1,20.833333333333336
+81,2,HanumangarhTown APMC,Wheat,10,October,4,101,2,2,1.9801980198019802
+81,2,HanumangarhTown APMC,Wheat,11,November,3,90,4,2,4.444444444444445
+81,2,HanumangarhTown APMC,Wheat,12,December,3,93,7,1,7.526881720430108
+123,2,Kotputli APMC,Wheat,1,January,4,119,2,2,1.680672268907563
+123,2,Kotputli APMC,Wheat,2,February,4,113,2,3,1.7699115044247788
+123,2,Kotputli APMC,Wheat,3,March,4,124,2,3,1.6129032258064515
+123,2,Kotputli APMC,Wheat,4,April,4,120,48,1,40.0
+123,2,Kotputli APMC,Wheat,5,May,4,124,45,0,36.29032258064516
+123,2,Kotputli APMC,Wheat,6,June,4,117,27,0,23.076923076923077
+123,2,Kotputli APMC,Wheat,7,July,3,93,25,0,26.881720430107524
+123,2,Kotputli APMC,Wheat,8,August,3,93,18,1,19.35483870967742
+123,2,Kotputli APMC,Wheat,9,September,3,90,6,2,6.666666666666667
+123,2,Kotputli APMC,Wheat,10,October,3,93,9,1,9.67741935483871
+123,2,Kotputli APMC,Wheat,11,November,3,90,13,1,14.444444444444443
+123,2,Kotputli APMC,Wheat,12,December,3,93,4,1,4.301075268817205
+82,2,Nohar APMC,Wheat,1,January,4,98,8,1,8.16326530612245
+82,2,Nohar APMC,Wheat,2,February,4,113,18,2,15.929203539823009
+82,2,Nohar APMC,Wheat,3,March,4,124,17,1,13.709677419354838
+82,2,Nohar APMC,Wheat,4,April,4,120,25,0,20.833333333333336
+82,2,Nohar APMC,Wheat,5,May,4,124,20,1,16.129032258064516
+82,2,Nohar APMC,Wheat,6,June,4,120,5,2,4.166666666666666
+82,2,Nohar APMC,Wheat,7,July,4,124,33,1,26.61290322580645
+82,2,Nohar APMC,Wheat,8,August,4,124,29,0,23.387096774193548
+82,2,Nohar APMC,Wheat,9,September,4,120,32,1,26.666666666666668
+82,2,Nohar APMC,Wheat,10,October,4,112,10,1,8.928571428571429
+82,2,Nohar APMC,Wheat,11,November,3,90,1,2,1.1111111111111112
+82,2,Nohar APMC,Wheat,12,December,3,93,11,2,11.827956989247312
+70,2,Rawla APMC,Wheat,1,January,3,93,1,2,1.0752688172043012
+70,2,Rawla APMC,Wheat,2,February,4,94,3,2,3.1914893617021276
+70,2,Rawla APMC,Wheat,3,March,4,124,2,2,1.6129032258064515
+70,2,Rawla APMC,Wheat,4,April,4,120,23,0,19.166666666666668
+70,2,Rawla APMC,Wheat,5,May,4,124,40,1,32.25806451612903
+70,2,Rawla APMC,Wheat,6,June,4,120,55,0,45.83333333333333
+70,2,Rawla APMC,Wheat,7,July,4,124,37,0,29.838709677419356
+70,2,Rawla APMC,Wheat,8,August,4,124,28,0,22.58064516129032
+70,2,Rawla APMC,Wheat,9,September,4,120,22,0,18.333333333333332
+70,2,Rawla APMC,Wheat,10,October,4,116,12,0,10.344827586206897
+70,2,Rawla APMC,Wheat,11,November,3,90,4,0,4.444444444444445
+70,2,Rawla APMC,Wheat,12,December,3,93,1,2,1.0752688172043012

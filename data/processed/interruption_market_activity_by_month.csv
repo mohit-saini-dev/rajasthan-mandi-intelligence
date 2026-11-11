@@ -1,0 +1,196 @@
+Event_ID,Market_Id,Commodity_Id,Market_Name,Commodity_Name,Year,Month_Num,Month,Market_Fact_Rows,Market_Observed_Days,Market_Active_Commodity_Count,Target_Fact_Rows,Target_Observed_Days,Other_Commodity_Fact_Rows,Other_Commodity_Observed_Days,Other_Active_Commodity_Count,Market_Active,Other_Commodity_Active,Target_Commodity_Active
+1,115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),2023,2,2023-02,0,0,0,0,0,0,0,0,False,False,False
+1,115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),2023,3,2023-03,0,0,0,0,0,0,0,0,False,False,False
+1,115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),2023,4,2023-04,0,0,0,0,0,0,0,0,False,False,False
+1,115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),2023,5,2023-05,0,0,0,0,0,0,0,0,False,False,False
+1,115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),2023,6,2023-06,0,0,0,0,0,0,0,0,False,False,False
+1,115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),2023,7,2023-07,0,0,0,0,0,0,0,0,False,False,False
+1,115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),2023,8,2023-08,0,0,0,0,0,0,0,0,False,False,False
+1,115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),2023,9,2023-09,0,0,0,0,0,0,0,0,False,False,False
+1,115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),2023,10,2023-10,0,0,0,0,0,0,0,0,False,False,False
+1,115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),2023,11,2023-11,0,0,0,0,0,0,0,0,False,False,False
+1,115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),2023,12,2023-12,0,0,0,0,0,0,0,0,False,False,False
+1,115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),2024,1,2024-01,0,0,0,0,0,0,0,0,False,False,False
+1,115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),2024,2,2024-02,0,0,0,0,0,0,0,0,False,False,False
+1,115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),2024,3,2024-03,0,0,0,0,0,0,0,0,False,False,False
+1,115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),2024,4,2024-04,0,0,0,0,0,0,0,0,False,False,False
+1,115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),2024,5,2024-05,0,0,0,0,0,0,0,0,False,False,False
+1,115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),2024,6,2024-06,0,0,0,0,0,0,0,0,False,False,False
+2,40,8,Barisadri APMC,Mustard,2023,4,2023-04,0,0,0,0,0,0,0,0,False,False,False
+2,40,8,Barisadri APMC,Mustard,2023,5,2023-05,0,0,0,0,0,0,0,0,False,False,False
+2,40,8,Barisadri APMC,Mustard,2023,6,2023-06,0,0,0,0,0,0,0,0,False,False,False
+2,40,8,Barisadri APMC,Mustard,2023,7,2023-07,0,0,0,0,0,0,0,0,False,False,False
+2,40,8,Barisadri APMC,Mustard,2023,8,2023-08,0,0,0,0,0,0,0,0,False,False,False
+2,40,8,Barisadri APMC,Mustard,2023,9,2023-09,0,0,0,0,0,0,0,0,False,False,False
+2,40,8,Barisadri APMC,Mustard,2023,10,2023-10,0,0,0,0,0,0,0,0,False,False,False
+2,40,8,Barisadri APMC,Mustard,2023,11,2023-11,0,0,0,0,0,0,0,0,False,False,False
+2,40,8,Barisadri APMC,Mustard,2023,12,2023-12,0,0,0,0,0,0,0,0,False,False,False
+2,40,8,Barisadri APMC,Mustard,2024,1,2024-01,0,0,0,0,0,0,0,0,False,False,False
+2,40,8,Barisadri APMC,Mustard,2024,2,2024-02,0,0,0,0,0,0,0,0,False,False,False
+2,40,8,Barisadri APMC,Mustard,2024,3,2024-03,0,0,0,0,0,0,0,0,False,False,False
+2,40,8,Barisadri APMC,Mustard,2024,4,2024-04,0,0,0,0,0,0,0,0,False,False,False
+2,40,8,Barisadri APMC,Mustard,2024,5,2024-05,0,0,0,0,0,0,0,0,False,False,False
+2,40,8,Barisadri APMC,Mustard,2024,6,2024-06,0,0,0,0,0,0,0,0,False,False,False
+3,123,2,Kotputli APMC,Wheat,2025,9,2025-09,5,2,4,0,0,5,2,4,True,True,False
+3,123,2,Kotputli APMC,Wheat,2025,10,2025-10,0,0,0,0,0,0,0,0,False,False,False
+3,123,2,Kotputli APMC,Wheat,2025,11,2025-11,5,2,4,0,0,5,2,4,True,True,False
+3,123,2,Kotputli APMC,Wheat,2025,12,2025-12,0,0,0,0,0,0,0,0,False,False,False
+3,123,2,Kotputli APMC,Wheat,2026,1,2026-01,0,0,0,0,0,0,0,0,False,False,False
+3,123,2,Kotputli APMC,Wheat,2026,2,2026-02,0,0,0,0,0,0,0,0,False,False,False
+3,123,2,Kotputli APMC,Wheat,2026,3,2026-03,0,0,0,0,0,0,0,0,False,False,False
+3,123,2,Kotputli APMC,Wheat,2026,4,2026-04,0,0,0,0,0,0,0,0,False,False,False
+4,81,2,HanumangarhTown APMC,Wheat,2025,5,2025-05,0,0,0,0,0,0,0,0,False,False,False
+4,81,2,HanumangarhTown APMC,Wheat,2025,6,2025-06,0,0,0,0,0,0,0,0,False,False,False
+4,81,2,HanumangarhTown APMC,Wheat,2025,7,2025-07,0,0,0,0,0,0,0,0,False,False,False
+4,81,2,HanumangarhTown APMC,Wheat,2025,8,2025-08,0,0,0,0,0,0,0,0,False,False,False
+4,81,2,HanumangarhTown APMC,Wheat,2025,9,2025-09,0,0,0,0,0,0,0,0,False,False,False
+4,81,2,HanumangarhTown APMC,Wheat,2025,10,2025-10,0,0,0,0,0,0,0,0,False,False,False
+5,81,8,HanumangarhTown APMC,Mustard,2025,5,2025-05,0,0,0,0,0,0,0,0,False,False,False
+5,81,8,HanumangarhTown APMC,Mustard,2025,6,2025-06,0,0,0,0,0,0,0,0,False,False,False
+5,81,8,HanumangarhTown APMC,Mustard,2025,7,2025-07,0,0,0,0,0,0,0,0,False,False,False
+5,81,8,HanumangarhTown APMC,Mustard,2025,8,2025-08,0,0,0,0,0,0,0,0,False,False,False
+5,81,8,HanumangarhTown APMC,Mustard,2025,9,2025-09,0,0,0,0,0,0,0,0,False,False,False
+5,81,8,HanumangarhTown APMC,Mustard,2025,10,2025-10,0,0,0,0,0,0,0,0,False,False,False
+6,132,5,Sumerpur APMC,Bengal Gram(Gram)(Whole),2023,8,2023-08,2,1,2,0,0,2,1,2,True,True,False
+6,132,5,Sumerpur APMC,Bengal Gram(Gram)(Whole),2023,9,2023-09,6,3,3,0,0,6,3,3,True,True,False
+6,132,5,Sumerpur APMC,Bengal Gram(Gram)(Whole),2023,10,2023-10,29,12,5,0,0,29,12,5,True,True,False
+6,132,5,Sumerpur APMC,Bengal Gram(Gram)(Whole),2023,11,2023-11,6,2,4,0,0,6,2,4,True,True,False
+6,132,5,Sumerpur APMC,Bengal Gram(Gram)(Whole),2023,12,2023-12,14,8,4,0,0,14,8,4,True,True,False
+6,132,5,Sumerpur APMC,Bengal Gram(Gram)(Whole),2024,1,2024-01,19,8,5,0,0,19,8,5,True,True,False
+7,25,8,Bhilwara APMC,Mustard,2025,8,2025-08,116,31,7,0,0,116,31,7,True,True,False
+7,25,8,Bhilwara APMC,Mustard,2025,9,2025-09,124,29,7,0,0,124,29,7,True,True,False
+7,25,8,Bhilwara APMC,Mustard,2025,10,2025-10,148,30,9,0,0,148,30,9,True,True,False
+7,25,8,Bhilwara APMC,Mustard,2025,11,2025-11,134,22,9,0,0,134,22,9,True,True,False
+7,25,8,Bhilwara APMC,Mustard,2025,12,2025-12,143,28,9,0,0,143,28,9,True,True,False
+8,81,8,HanumangarhTown APMC,Mustard,2023,10,2023-10,4,2,4,0,0,4,2,4,True,True,False
+8,81,8,HanumangarhTown APMC,Mustard,2023,11,2023-11,0,0,0,0,0,0,0,0,False,False,False
+8,81,8,HanumangarhTown APMC,Mustard,2023,12,2023-12,0,0,0,0,0,0,0,0,False,False,False
+8,81,8,HanumangarhTown APMC,Mustard,2024,1,2024-01,0,0,0,0,0,0,0,0,False,False,False
+8,81,8,HanumangarhTown APMC,Mustard,2024,2,2024-02,31,10,4,0,0,31,10,4,True,True,False
+9,81,8,HanumangarhTown APMC,Mustard,2024,7,2024-07,79,24,4,0,0,79,24,4,True,True,False
+9,81,8,HanumangarhTown APMC,Mustard,2024,8,2024-08,82,25,4,0,0,82,25,4,True,True,False
+9,81,8,HanumangarhTown APMC,Mustard,2024,9,2024-09,76,25,4,0,0,76,25,4,True,True,False
+9,81,8,HanumangarhTown APMC,Mustard,2024,10,2024-10,68,22,4,0,0,68,22,4,True,True,False
+9,81,8,HanumangarhTown APMC,Mustard,2024,11,2024-11,71,23,4,0,0,71,23,4,True,True,False
+10,98,8,Raniwara APMC,Mustard,2025,9,2025-09,9,7,3,0,0,9,7,3,True,True,False
+10,98,8,Raniwara APMC,Mustard,2025,10,2025-10,13,13,2,0,0,13,13,2,True,True,False
+10,98,8,Raniwara APMC,Mustard,2025,11,2025-11,11,11,2,0,0,11,11,2,True,True,False
+10,98,8,Raniwara APMC,Mustard,2025,12,2025-12,24,18,2,0,0,24,18,2,True,True,False
+10,98,8,Raniwara APMC,Mustard,2026,1,2026-01,12,9,2,0,0,12,9,2,True,True,False
+11,132,5,Sumerpur APMC,Bengal Gram(Gram)(Whole),2024,9,2024-09,34,19,3,0,0,34,19,3,True,True,False
+11,132,5,Sumerpur APMC,Bengal Gram(Gram)(Whole),2024,10,2024-10,31,15,3,0,0,31,15,3,True,True,False
+11,132,5,Sumerpur APMC,Bengal Gram(Gram)(Whole),2024,11,2024-11,38,16,3,0,0,38,16,3,True,True,False
+11,132,5,Sumerpur APMC,Bengal Gram(Gram)(Whole),2024,12,2024-12,28,16,4,0,0,28,16,4,True,True,False
+11,132,5,Sumerpur APMC,Bengal Gram(Gram)(Whole),2025,1,2025-01,41,22,4,0,0,41,22,4,True,True,False
+12,62,5,Anupgarh APMC,Bengal Gram(Gram)(Whole),2024,11,2024-11,60,18,4,0,0,60,18,4,True,True,False
+12,62,5,Anupgarh APMC,Bengal Gram(Gram)(Whole),2024,12,2024-12,69,23,5,0,0,69,23,5,True,True,False
+12,62,5,Anupgarh APMC,Bengal Gram(Gram)(Whole),2025,1,2025-01,43,24,4,0,0,43,24,4,True,True,False
+12,62,5,Anupgarh APMC,Bengal Gram(Gram)(Whole),2025,2,2025-02,33,20,4,0,0,33,20,4,True,True,False
+12,62,5,Anupgarh APMC,Bengal Gram(Gram)(Whole),2025,3,2025-03,45,19,5,0,0,45,19,5,True,True,False
+13,62,5,Anupgarh APMC,Bengal Gram(Gram)(Whole),2025,11,2025-11,52,17,4,0,0,52,17,4,True,True,False
+13,62,5,Anupgarh APMC,Bengal Gram(Gram)(Whole),2025,12,2025-12,59,23,4,0,0,59,23,4,True,True,False
+13,62,5,Anupgarh APMC,Bengal Gram(Gram)(Whole),2026,1,2026-01,48,19,4,0,0,48,19,4,True,True,False
+13,62,5,Anupgarh APMC,Bengal Gram(Gram)(Whole),2026,2,2026-02,37,16,5,0,0,37,16,5,True,True,False
+14,70,2,Rawla APMC,Wheat,2025,12,2025-12,34,23,4,0,0,34,23,4,True,True,False
+14,70,2,Rawla APMC,Wheat,2026,1,2026-01,36,20,5,0,0,36,20,5,True,True,False
+14,70,2,Rawla APMC,Wheat,2026,2,2026-02,40,22,3,0,0,40,22,3,True,True,False
+14,70,2,Rawla APMC,Wheat,2026,3,2026-03,38,18,3,0,0,38,18,3,True,True,False
+15,45,8,Sardar Shahar APMC,Mustard,2025,11,2025-11,15,14,2,0,0,15,14,2,True,True,False
+15,45,8,Sardar Shahar APMC,Mustard,2025,12,2025-12,14,14,1,0,0,14,14,1,True,True,False
+15,45,8,Sardar Shahar APMC,Mustard,2026,1,2026-01,5,4,3,0,0,5,4,3,True,True,False
+15,45,8,Sardar Shahar APMC,Mustard,2026,2,2026-02,8,8,2,0,0,8,8,2,True,True,False
+16,18,2,Beawar APMC,Wheat,2025,11,2025-11,10,3,4,0,0,10,3,4,True,True,False
+16,18,2,Beawar APMC,Wheat,2025,12,2025-12,0,0,0,0,0,0,0,0,False,False,False
+16,18,2,Beawar APMC,Wheat,2026,1,2026-01,3,1,3,0,0,3,1,3,True,True,False
+17,81,2,HanumangarhTown APMC,Wheat,2023,11,2023-11,0,0,0,0,0,0,0,0,False,False,False
+17,81,2,HanumangarhTown APMC,Wheat,2023,12,2023-12,0,0,0,0,0,0,0,0,False,False,False
+17,81,2,HanumangarhTown APMC,Wheat,2024,1,2024-01,0,0,0,0,0,0,0,0,False,False,False
+18,123,2,Kotputli APMC,Wheat,2025,1,2025-01,35,15,6,0,0,35,15,6,True,True,False
+18,123,2,Kotputli APMC,Wheat,2025,2,2025-02,64,25,5,0,0,64,25,5,True,True,False
+18,123,2,Kotputli APMC,Wheat,2025,3,2025-03,95,22,6,0,0,95,22,6,True,True,False
+19,82,2,Nohar APMC,Wheat,2023,11,2023-11,54,17,4,0,0,54,17,4,True,True,False
+19,82,2,Nohar APMC,Wheat,2023,12,2023-12,50,20,5,0,0,50,20,5,True,True,False
+19,82,2,Nohar APMC,Wheat,2024,1,2024-01,61,20,4,0,0,61,20,4,True,True,False
+20,82,2,Nohar APMC,Wheat,2024,10,2024-10,66,22,6,0,0,66,22,6,True,True,False
+20,82,2,Nohar APMC,Wheat,2024,11,2024-11,77,22,7,0,0,77,22,7,True,True,False
+20,82,2,Nohar APMC,Wheat,2024,12,2024-12,69,24,5,0,0,69,24,5,True,True,False
+21,98,8,Raniwara APMC,Mustard,2023,4,2023-04,0,0,0,0,0,0,0,0,False,False,False
+21,98,8,Raniwara APMC,Mustard,2023,5,2023-05,0,0,0,0,0,0,0,0,False,False,False
+21,98,8,Raniwara APMC,Mustard,2023,6,2023-06,0,0,0,0,0,0,0,0,False,False,False
+22,45,8,Sardar Shahar APMC,Mustard,2024,11,2024-11,22,14,4,0,0,22,14,4,True,True,False
+22,45,8,Sardar Shahar APMC,Mustard,2024,12,2024-12,25,23,2,0,0,25,23,2,True,True,False
+22,45,8,Sardar Shahar APMC,Mustard,2025,1,2025-01,16,16,2,0,0,16,16,2,True,True,False
+23,132,8,Sumerpur APMC,Mustard,2023,10,2023-10,29,12,5,0,0,29,12,5,True,True,False
+23,132,8,Sumerpur APMC,Mustard,2023,11,2023-11,6,2,4,0,0,6,2,4,True,True,False
+23,132,8,Sumerpur APMC,Mustard,2023,12,2023-12,14,8,4,0,0,14,8,4,True,True,False
+24,132,8,Sumerpur APMC,Mustard,2024,6,2024-06,5,5,1,0,0,5,5,1,True,True,False
+24,132,8,Sumerpur APMC,Mustard,2024,7,2024-07,29,23,4,0,0,29,23,4,True,True,False
+24,132,8,Sumerpur APMC,Mustard,2024,8,2024-08,13,10,3,0,0,13,10,3,True,True,False
+25,132,8,Sumerpur APMC,Mustard,2024,10,2024-10,31,15,3,0,0,31,15,3,True,True,False
+25,132,8,Sumerpur APMC,Mustard,2024,11,2024-11,38,16,3,0,0,38,16,3,True,True,False
+25,132,8,Sumerpur APMC,Mustard,2024,12,2024-12,28,16,4,0,0,28,16,4,True,True,False
+26,132,8,Sumerpur APMC,Mustard,2025,10,2025-10,33,14,5,0,0,33,14,5,True,True,False
+26,132,8,Sumerpur APMC,Mustard,2025,11,2025-11,29,9,5,0,0,29,9,5,True,True,False
+26,132,8,Sumerpur APMC,Mustard,2025,12,2025-12,21,7,4,0,0,21,7,4,True,True,False
+27,132,5,Sumerpur APMC,Bengal Gram(Gram)(Whole),2025,12,2025-12,21,7,4,0,0,21,7,4,True,True,False
+27,132,5,Sumerpur APMC,Bengal Gram(Gram)(Whole),2026,1,2026-01,29,11,4,0,0,29,11,4,True,True,False
+27,132,5,Sumerpur APMC,Bengal Gram(Gram)(Whole),2026,2,2026-02,16,16,1,0,0,16,16,1,True,True,False
+28,18,2,Beawar APMC,Wheat,2023,11,2023-11,57,19,6,0,0,57,19,6,True,True,False
+28,18,2,Beawar APMC,Wheat,2023,12,2023-12,37,19,6,0,0,37,19,6,True,True,False
+29,18,2,Beawar APMC,Wheat,2026,3,2026-03,2,1,2,0,0,2,1,2,True,True,False
+29,18,2,Beawar APMC,Wheat,2026,4,2026-04,0,0,0,0,0,0,0,0,False,False,False
+30,25,8,Bhilwara APMC,Mustard,2026,6,2026-06,101,24,7,0,0,101,24,7,True,True,False
+30,25,8,Bhilwara APMC,Mustard,2026,7,2026-07,92,27,7,0,0,92,27,7,True,True,False
+31,81,2,HanumangarhTown APMC,Wheat,2024,10,2024-10,68,22,4,0,0,68,22,4,True,True,False
+31,81,2,HanumangarhTown APMC,Wheat,2024,11,2024-11,71,23,4,0,0,71,23,4,True,True,False
+32,81,8,HanumangarhTown APMC,Mustard,2026,1,2026-01,65,17,5,0,0,65,17,5,True,True,False
+32,81,8,HanumangarhTown APMC,Mustard,2026,2,2026-02,81,19,6,0,0,81,19,6,True,True,False
+33,123,2,Kotputli APMC,Wheat,2024,8,2024-08,0,0,0,0,0,0,0,0,False,False,False
+33,123,2,Kotputli APMC,Wheat,2024,9,2024-09,0,0,0,0,0,0,0,0,False,False,False
+34,82,2,Nohar APMC,Wheat,2025,5,2025-05,76,27,5,0,0,76,27,5,True,True,False
+34,82,2,Nohar APMC,Wheat,2025,6,2025-06,47,21,4,0,0,47,21,4,True,True,False
+35,82,2,Nohar APMC,Wheat,2026,6,2026-06,44,22,3,0,0,44,22,3,True,True,False
+35,82,2,Nohar APMC,Wheat,2026,7,2026-07,36,19,3,0,0,36,19,3,True,True,False
+36,115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),2025,4,2025-04,47,17,5,0,0,47,17,5,True,True,False
+36,115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),2025,5,2025-05,71,24,5,0,0,71,24,5,True,True,False
+37,98,8,Raniwara APMC,Mustard,2024,11,2024-11,29,19,2,0,0,29,19,2,True,True,False
+37,98,8,Raniwara APMC,Mustard,2024,12,2024-12,43,24,3,0,0,43,24,3,True,True,False
+38,62,5,Anupgarh APMC,Bengal Gram(Gram)(Whole),2023,3,2023-03,47,22,5,0,0,47,22,5,True,True,False
+39,62,5,Anupgarh APMC,Bengal Gram(Gram)(Whole),2023,8,2023-08,56,22,4,0,0,56,22,4,True,True,False
+40,62,5,Anupgarh APMC,Bengal Gram(Gram)(Whole),2023,10,2023-10,102,26,5,0,0,102,26,5,True,True,False
+41,62,5,Anupgarh APMC,Bengal Gram(Gram)(Whole),2024,1,2024-01,60,25,4,0,0,60,25,4,True,True,False
+42,62,5,Anupgarh APMC,Bengal Gram(Gram)(Whole),2024,3,2024-03,45,22,5,0,0,45,22,5,True,True,False
+43,18,2,Beawar APMC,Wheat,2023,2,2023-02,31,19,4,0,0,31,19,4,True,True,False
+44,18,2,Beawar APMC,Wheat,2023,5,2023-05,8,4,4,0,0,8,4,4,True,True,False
+45,18,2,Beawar APMC,Wheat,2023,7,2023-07,3,2,3,0,0,3,2,3,True,True,False
+46,77,2,Bhadara APMC,Wheat,2023,2,2023-02,74,25,4,0,0,74,25,4,True,True,False
+47,77,2,Bhadara APMC,Wheat,2024,5,2024-05,104,29,6,0,0,104,29,6,True,True,False
+48,77,2,Bhadara APMC,Wheat,2025,3,2025-03,82,28,3,0,0,82,28,3,True,True,False
+49,77,2,Bhadara APMC,Wheat,2025,5,2025-05,103,30,5,0,0,103,30,5,True,True,False
+50,77,2,Bhadara APMC,Wheat,2025,11,2025-11,95,26,5,0,0,95,26,5,True,True,False
+51,25,8,Bhilwara APMC,Mustard,2023,11,2023-11,62,20,7,0,0,62,20,7,True,True,False
+52,25,8,Bhilwara APMC,Mustard,2024,8,2024-08,105,25,7,0,0,105,25,7,True,True,False
+53,25,8,Bhilwara APMC,Mustard,2024,12,2024-12,166,30,10,0,0,166,30,10,True,True,False
+54,25,8,Bhilwara APMC,Mustard,2025,6,2025-06,131,30,8,0,0,131,30,8,True,True,False
+55,81,8,HanumangarhTown APMC,Mustard,2023,2,2023-02,89,28,4,0,0,89,28,4,True,True,False
+56,81,2,HanumangarhTown APMC,Wheat,2023,3,2023-03,27,8,5,0,0,27,8,5,True,True,False
+57,81,8,HanumangarhTown APMC,Mustard,2024,5,2024-05,116,29,5,0,0,116,29,5,True,True,False
+58,81,8,HanumangarhTown APMC,Mustard,2025,1,2025-01,70,23,4,0,0,70,23,4,True,True,False
+59,81,2,HanumangarhTown APMC,Wheat,2025,2,2025-02,79,26,4,0,0,79,26,4,True,True,False
+60,81,2,HanumangarhTown APMC,Wheat,2026,1,2026-01,65,17,5,0,0,65,17,5,True,True,False
+61,123,2,Kotputli APMC,Wheat,2023,3,2023-03,9,7,3,0,0,9,7,3,True,True,False
+62,123,2,Kotputli APMC,Wheat,2024,2,2024-02,76,25,5,0,0,76,25,5,True,True,False
+63,82,2,Nohar APMC,Wheat,2023,3,2023-03,22,9,4,0,0,22,9,4,True,True,False
+64,82,2,Nohar APMC,Wheat,2023,9,2023-09,46,16,5,0,0,46,16,5,True,True,False
+65,82,2,Nohar APMC,Wheat,2025,2,2025-02,27,13,4,0,0,27,13,4,True,True,False
+66,82,2,Nohar APMC,Wheat,2026,2,2026-02,43,19,4,0,0,43,19,4,True,True,False
+67,98,8,Raniwara APMC,Mustard,2023,11,2023-11,23,17,2,0,0,23,17,2,True,True,False
+68,70,2,Rawla APMC,Wheat,2023,3,2023-03,34,21,3,0,0,34,21,3,True,True,False
+69,70,2,Rawla APMC,Wheat,2024,1,2024-01,34,17,2,0,0,34,17,2,True,True,False
+70,70,2,Rawla APMC,Wheat,2024,12,2024-12,39,24,2,0,0,39,24,2,True,True,False
+71,70,2,Rawla APMC,Wheat,2025,2,2025-02,22,14,2,0,0,22,14,2,True,True,False
+72,70,2,Rawla APMC,Wheat,2025,5,2025-05,33,17,3,0,0,33,17,3,True,True,False
+73,45,8,Sardar Shahar APMC,Mustard,2023,3,2023-03,1,1,1,0,0,1,1,1,True,True,False
+74,132,5,Sumerpur APMC,Bengal Gram(Gram)(Whole),2024,6,2024-06,5,5,1,0,0,5,5,1,True,True,False
+75,132,8,Sumerpur APMC,Mustard,2026,10,2026-10,54,21,6,0,0,54,21,6,True,True,False
+76,115,4,Osiyan Mathania APMC,Bajra(Pearl Millet/Cumbu),2024,8,2024-08,12,6,4,0,0,12,6,4,True,True,False

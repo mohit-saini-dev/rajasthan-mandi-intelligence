@@ -1,0 +1,23 @@
+Market_Id,Market_Name,Commodity_Id,Commodity_Name,Month,Raw_Rows,Raw_Active_Dates,Processed_Rows,Processed_Active_Dates,Active_Date_Counts_Match,Raw_Source_Records_Present,Processed_Records_Present
+40,Barisadri APMC,8,Mustard,2026-11,0,0,0,0,True,False,False
+45,Sardar Shahar APMC,8,Mustard,2026-10,0,0,0,0,True,False,False
+45,Sardar Shahar APMC,8,Mustard,2026-11,0,0,0,0,True,False,False
+82,Nohar APMC,2,Wheat,2026-11,0,0,0,0,True,False,False
+123,Kotputli APMC,2,Wheat,2026-07,0,0,0,0,True,False,False
+123,Kotputli APMC,2,Wheat,2026-08,0,0,0,0,True,False,False
+123,Kotputli APMC,2,Wheat,2026-09,0,0,0,0,True,False,False
+123,Kotputli APMC,2,Wheat,2026-10,0,0,0,0,True,False,False
+123,Kotputli APMC,2,Wheat,2026-11,0,0,0,0,True,False,False
+81,HanumangarhTown APMC,8,Mustard,2026-11,0,0,0,0,True,False,False
+18,Beawar APMC,2,Wheat,2026-11,0,0,0,0,True,False,False
+70,Rawla APMC,2,Wheat,2026-11,0,0,0,0,True,False,False
+115,Osiyan Mathania APMC,4,Bajra(Pearl Millet/Cumbu),2026-11,0,0,0,0,True,False,False
+98,Raniwara APMC,8,Mustard,2026-10,0,0,0,0,True,False,False
+98,Raniwara APMC,8,Mustard,2026-11,0,0,0,0,True,False,False
+81,HanumangarhTown APMC,2,Wheat,2026-11,0,0,0,0,True,False,False
+62,Anupgarh APMC,5,Bengal Gram(Gram)(Whole),2026-10,0,0,0,0,True,False,False
+62,Anupgarh APMC,5,Bengal Gram(Gram)(Whole),2026-11,0,0,0,0,True,False,False
+132,Sumerpur APMC,5,Bengal Gram(Gram)(Whole),2026-11,0,0,0,0,True,False,False
+25,Bhilwara APMC,8,Mustard,2026-09,0,0,0,0,True,False,False
+25,Bhilwara APMC,8,Mustard,2026-10,0,0,0,0,True,False,False
+25,Bhilwara APMC,8,Mustard,2026-11,0,0,0,0,True,False,False

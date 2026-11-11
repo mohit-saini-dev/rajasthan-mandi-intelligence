@@ -1,0 +1,23 @@
+Market_Id,Market_Name,Commodity_Id,Commodity_Name,Month,Audit_End_Date,Market_Raw_Rows_All_Commodities,Market_Active_Dates_All_Commodities,Other_Active_Commodity_Count,Active_Commodities,Target_Commodity_Raw_Rows,Target_Commodity_Active_Dates,Classification
+40,Barisadri APMC,8,Mustard,2026-11,2026-11-03,4,1,4,Bengal Gram(Gram)(Whole); Groundnut; Maize; Wheat,0,0,Commodity-specific source silence
+45,Sardar Shahar APMC,8,Mustard,2026-10,2026-10-31,6,6,1,Groundnut,0,0,Commodity-specific source silence
+45,Sardar Shahar APMC,8,Mustard,2026-11,2026-11-03,1,1,1,Groundnut,0,0,Commodity-specific source silence
+82,Nohar APMC,2,Wheat,2026-11,2026-11-03,4,1,4,Bengal Gram(Gram)(Whole); Green Gram(Moong)(Whole); Groundnut; Mustard,0,0,Commodity-specific source silence
+123,Kotputli APMC,2,Wheat,2026-07,2026-07-31,0,0,0,,0,0,Potentially market-wide source silence
+123,Kotputli APMC,2,Wheat,2026-08,2026-08-31,0,0,0,,0,0,Potentially market-wide source silence
+123,Kotputli APMC,2,Wheat,2026-09,2026-09-30,0,0,0,,0,0,Potentially market-wide source silence
+123,Kotputli APMC,2,Wheat,2026-10,2026-10-31,0,0,0,,0,0,Potentially market-wide source silence
+123,Kotputli APMC,2,Wheat,2026-11,2026-11-03,0,0,0,,0,0,Potentially market-wide source silence
+81,HanumangarhTown APMC,8,Mustard,2026-11,2026-11-03,10,2,5,Bajra(Pearl Millet/Cumbu); Green Gram(Moong)(Whole); Onion; Potato; Tomato,0,0,Commodity-specific source silence
+18,Beawar APMC,2,Wheat,2026-11,2026-11-03,2,2,1,Bajra(Pearl Millet/Cumbu),0,0,Commodity-specific source silence
+70,Rawla APMC,2,Wheat,2026-11,2026-11-03,4,2,2,Green Gram(Moong)(Whole); Mustard,0,0,Commodity-specific source silence
+115,Osiyan Mathania APMC,4,Bajra(Pearl Millet/Cumbu),2026-11,2026-11-03,4,1,4,Cummin Seed(Jeera); Groundnut; Mustard; Wheat,0,0,Commodity-specific source silence
+98,Raniwara APMC,8,Mustard,2026-10,2026-10-31,26,25,2,Bajra(Pearl Millet/Cumbu); Groundnut,0,0,Commodity-specific source silence
+98,Raniwara APMC,8,Mustard,2026-11,2026-11-03,2,2,1,Groundnut,0,0,Commodity-specific source silence
+81,HanumangarhTown APMC,2,Wheat,2026-11,2026-11-03,10,2,5,Bajra(Pearl Millet/Cumbu); Green Gram(Moong)(Whole); Onion; Potato; Tomato,0,0,Commodity-specific source silence
+62,Anupgarh APMC,5,Bengal Gram(Gram)(Whole),2026-10,2026-10-31,79,22,5,Bajra(Pearl Millet/Cumbu); Barley(Jau); Green Gram(Moong)(Whole); Mustard; Wheat,0,0,Commodity-specific source silence
+62,Anupgarh APMC,5,Bengal Gram(Gram)(Whole),2026-11,2026-11-03,4,1,4,Bajra(Pearl Millet/Cumbu); Green Gram(Moong)(Whole); Mustard; Wheat,0,0,Commodity-specific source silence
+132,Sumerpur APMC,5,Bengal Gram(Gram)(Whole),2026-11,2026-11-03,3,2,2,Green Gram(Moong)(Whole); Mustard,0,0,Commodity-specific source silence
+25,Bhilwara APMC,8,Mustard,2026-09,2026-09-30,124,26,10,Barley(Jau); Bengal Gram(Gram)(Whole); Black Gram(Urd Beans)(Whole); Green Gram(Moong)(Whole); Groundnut; Maize; Onion; Potato; Tomato; Wheat,0,0,Commodity-specific source silence
+25,Bhilwara APMC,8,Mustard,2026-10,2026-10-31,100,20,8,Barley(Jau); Black Gram(Urd Beans)(Whole); Groundnut; Maize; Onion; Potato; Tomato; Wheat,0,0,Commodity-specific source silence
+25,Bhilwara APMC,8,Mustard,2026-11,2026-11-03,13,3,5,Maize; Onion; Potato; Tomato; Wheat,0,0,Commodity-specific source silence

@@ -1,0 +1,16 @@
+Market_Id,Market_Name,Commodity_Id,Commodity_Name,Adjusted_Reporting_Index_Pct,Last_Reported_Date,Dataset_Cutoff_Date,Trailing_Silent_Days,Trailing_Silent_Full_Months,Trailing_Silent_Partial_Months,Peer_Active_Trailing_Full_Months,Peer_Active_Trailing_Partial_Months,Longest_Consecutive_Peer_Active_Full_Silent_Months
+40,Barisadri APMC,8,Mustard,30.613082206826064,2026-10-16,2026-11-03,18,0,1,0,1,0
+45,Sardar Shahar APMC,8,Mustard,30.89481965974264,2026-09-01,2026-11-03,63,1,1,1,1,1
+82,Nohar APMC,2,Wheat,31.474479300711895,2026-10-19,2026-11-03,15,0,1,0,1,0
+132,Sumerpur APMC,8,Mustard,32.267048905973624,2026-11-03,2026-11-03,0,0,0,0,0,0
+123,Kotputli APMC,2,Wheat,32.49011294523949,2026-06-27,2026-11-03,129,4,1,4,1,4
+81,HanumangarhTown APMC,8,Mustard,32.716139385937375,2026-10-27,2026-11-03,7,0,1,0,1,0
+18,Beawar APMC,2,Wheat,33.552875015979694,2026-10-28,2026-11-03,6,0,1,0,1,0
+70,Rawla APMC,2,Wheat,34.824221125354306,2026-10-23,2026-11-03,11,0,1,0,1,0
+115,Osiyan Mathania APMC,4,Bajra(Pearl Millet/Cumbu),34.90040950175675,2026-10-26,2026-11-03,8,0,1,0,1,0
+98,Raniwara APMC,8,Mustard,36.13886056360388,2026-09-22,2026-11-03,42,1,1,1,1,1
+81,HanumangarhTown APMC,2,Wheat,37.29060020450895,2026-10-08,2026-11-03,26,0,1,0,1,0
+62,Anupgarh APMC,5,Bengal Gram(Gram)(Whole),38.778727140248876,2026-09-14,2026-11-03,50,1,1,1,1,1
+132,Sumerpur APMC,5,Bengal Gram(Gram)(Whole),38.7835122723847,2026-10-27,2026-11-03,7,0,1,0,1,0
+77,Bhadara APMC,2,Wheat,40.91514565714169,2026-11-02,2026-11-03,1,0,0,0,0,0
+25,Bhilwara APMC,8,Mustard,40.929455057229724,2026-08-20,2026-11-03,75,2,1,2,1,2

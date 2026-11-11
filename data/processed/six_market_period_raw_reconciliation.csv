@@ -1,0 +1,7 @@
+Market,District,Start,End,Raw_Rows,Raw_Distinct_Dates,Processed_Rows,Processed_Distinct_Dates,Raw_Commodities,Other_District_Market_Labels
+Osiyan Mathania APMC,Jodhpur,2023-02-01,2024-06-30,0,0,0,0,0,6
+Barisadri APMC,Chittorgarh,2023-04-01,2024-06-30,0,0,0,0,0,4
+HanumangarhTown APMC,Hanumangarh,2025-05-01,2025-10-31,785,144,785,144,10,8
+HanumangarhTown APMC,Hanumangarh,2023-11-01,2024-01-31,244,58,244,58,7,7
+Raniwara APMC,Jalore,2023-04-01,2023-06-30,0,0,0,0,0,2
+Kotputli APMC,Jaipur,2024-08-01,2024-09-30,0,0,0,0,0,9
