@@ -49,8 +49,21 @@ def test_trailing_pass_records_have_matching_month_counts(trailing_findings):
     ]
 
     assert not passed.empty
-    assert passed["Reconciliation_Month_Count_Matches"].notna().all()
-    assert passed["Reconciliation_Month_Count_Matches"].all()
+
+    expected_months = passed["Audited_Trailing_Months"]
+
+    assert passed["Row_Count_Matches"].notna().all()
+    assert passed["Active_Date_Count_Matches"].notna().all()
+
+    assert (
+        passed["Row_Count_Matches"].to_numpy()
+        == expected_months.to_numpy()
+    ).all()
+
+    assert (
+        passed["Active_Date_Count_Matches"].to_numpy()
+        == expected_months.to_numpy()
+    ).all()
 
 
 def test_trailing_audit_active_date_counts_match(trailing_audit):

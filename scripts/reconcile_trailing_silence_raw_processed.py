@@ -1,6 +1,6 @@
 ﻿from pathlib import Path
-import pandas as pd
 import glob
+import pandas as pd
 
 diagnostic_path = Path(
     "data/processed/trailing_silence_monthly_diagnostic.csv"
@@ -80,6 +80,11 @@ processed = (
     )
 )
 
+if processed.empty:
+    raise ValueError("Processed fact table is empty.")
+
+dataset_cutoff = processed["Date"].max().normalize()
+
 processed["Market_Key"] = (
     processed["Market_Name"].astype(str).str.strip().str.casefold()
 )
@@ -94,8 +99,14 @@ for target in diagnostic.to_dict("records"):
     commodity_key = str(target["Commodity_Name"]).strip().casefold()
     month = target["Month"]
 
-    start = month.start_time
-    end = month.end_time.normalize()
+    start = month.start_time.normalize()
+    end = min(month.end_time.normalize(), dataset_cutoff)
+
+    if start > dataset_cutoff:
+        raise ValueError(
+            f"Diagnostic month {month} starts after dataset cutoff "
+            f"{dataset_cutoff.date()}."
+        )
 
     raw_part = raw[
         raw["Market_Key"].eq(market_key)
@@ -111,6 +122,8 @@ for target in diagnostic.to_dict("records"):
 
     raw_dates = raw_part["Date"].nunique()
     processed_dates = processed_part["Date"].nunique()
+    raw_rows = len(raw_part)
+    processed_rows = len(processed_part)
 
     results.append({
         "Market_Id": target["Market_Id"],
@@ -118,13 +131,17 @@ for target in diagnostic.to_dict("records"):
         "Commodity_Id": target["Commodity_Id"],
         "Commodity_Name": target["Commodity_Name"],
         "Month": str(month),
-        "Raw_Rows": len(raw_part),
+        "Audit_Start_Date": start.date().isoformat(),
+        "Audit_End_Date": end.date().isoformat(),
+        "Dataset_Cutoff": dataset_cutoff.date().isoformat(),
+        "Raw_Rows": raw_rows,
         "Raw_Active_Dates": raw_dates,
-        "Processed_Rows": len(processed_part),
+        "Processed_Rows": processed_rows,
         "Processed_Active_Dates": processed_dates,
+        "Row_Counts_Match": raw_rows == processed_rows,
         "Active_Date_Counts_Match": raw_dates == processed_dates,
-        "Raw_Source_Records_Present": raw_dates > 0,
-        "Processed_Records_Present": processed_dates > 0,
+        "Raw_Source_Records_Present": raw_rows > 0,
+        "Processed_Records_Present": processed_rows > 0,
     })
 
 result = pd.DataFrame(results)
@@ -135,7 +152,14 @@ output_path = Path(
 
 result.to_csv(output_path, index=False)
 
+print("Dataset cutoff:", dataset_cutoff.date())
 print("Trailing pair-months audited:", len(result))
+print(
+    "Raw and processed row counts match:",
+    int(result["Row_Counts_Match"].sum()),
+    "of",
+    len(result),
+)
 print(
     "Raw and processed active-date counts match:",
     int(result["Active_Date_Counts_Match"].sum()),
@@ -143,14 +167,14 @@ print(
     len(result),
 )
 
-print("\n--- Trailing silence reconciliation ---")
-print(result.to_string(index=False))
-
 print("\n--- Reconciliation exceptions ---")
-exceptions = result[~result["Active_Date_Counts_Match"]]
+exceptions = result[
+    ~result["Row_Counts_Match"]
+    | ~result["Active_Date_Counts_Match"]
+]
 
 if exceptions.empty:
-    print("No active-date count mismatches.")
+    print("No row-count or active-date-count mismatches.")
 else:
     print(exceptions.to_string(index=False))
 

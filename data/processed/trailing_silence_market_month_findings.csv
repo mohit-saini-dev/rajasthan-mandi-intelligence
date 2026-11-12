@@ -1,22 +1,22 @@
-Market_Id,Market_Name,Month,Market_Raw_Rows_All_Commodities,Market_Active_Dates_All_Commodities,Active_Commodities,Pair_Months_Audited,Target_Commodities_Audited,Classification
-18,Beawar APMC,2026-11,2,2,Bajra(Pearl Millet/Cumbu),1,Wheat,Commodity-specific source silence
-25,Bhilwara APMC,2026-09,124,26,Barley(Jau); Bengal Gram(Gram)(Whole); Black Gram(Urd Beans)(Whole); Green Gram(Moong)(Whole); Groundnut; Maize; Onion; Potato; Tomato; Wheat,1,Mustard,Commodity-specific source silence
-25,Bhilwara APMC,2026-10,100,20,Barley(Jau); Black Gram(Urd Beans)(Whole); Groundnut; Maize; Onion; Potato; Tomato; Wheat,1,Mustard,Commodity-specific source silence
-25,Bhilwara APMC,2026-11,13,3,Maize; Onion; Potato; Tomato; Wheat,1,Mustard,Commodity-specific source silence
-40,Barisadri APMC,2026-11,4,1,Bengal Gram(Gram)(Whole); Groundnut; Maize; Wheat,1,Mustard,Commodity-specific source silence
-45,Sardar Shahar APMC,2026-10,6,6,Groundnut,1,Mustard,Commodity-specific source silence
-45,Sardar Shahar APMC,2026-11,1,1,Groundnut,1,Mustard,Commodity-specific source silence
-62,Anupgarh APMC,2026-10,79,22,Bajra(Pearl Millet/Cumbu); Barley(Jau); Green Gram(Moong)(Whole); Mustard; Wheat,1,Bengal Gram(Gram)(Whole),Commodity-specific source silence
-62,Anupgarh APMC,2026-11,4,1,Bajra(Pearl Millet/Cumbu); Green Gram(Moong)(Whole); Mustard; Wheat,1,Bengal Gram(Gram)(Whole),Commodity-specific source silence
-70,Rawla APMC,2026-11,4,2,Green Gram(Moong)(Whole); Mustard,1,Wheat,Commodity-specific source silence
-81,HanumangarhTown APMC,2026-11,10,2,Bajra(Pearl Millet/Cumbu); Green Gram(Moong)(Whole); Onion; Potato; Tomato,2,Mustard; Wheat,Commodity-specific source silence
-82,Nohar APMC,2026-11,4,1,Bengal Gram(Gram)(Whole); Green Gram(Moong)(Whole); Groundnut; Mustard,1,Wheat,Commodity-specific source silence
-98,Raniwara APMC,2026-10,26,25,Bajra(Pearl Millet/Cumbu); Groundnut,1,Mustard,Commodity-specific source silence
-98,Raniwara APMC,2026-11,2,2,Groundnut,1,Mustard,Commodity-specific source silence
-115,Osiyan Mathania APMC,2026-11,4,1,Cummin Seed(Jeera); Groundnut; Mustard; Wheat,1,Bajra(Pearl Millet/Cumbu),Commodity-specific source silence
-123,Kotputli APMC,2026-07,0,0,,1,Wheat,Potentially market-wide source silence
-123,Kotputli APMC,2026-08,0,0,,1,Wheat,Potentially market-wide source silence
-123,Kotputli APMC,2026-09,0,0,,1,Wheat,Potentially market-wide source silence
-123,Kotputli APMC,2026-10,0,0,,1,Wheat,Potentially market-wide source silence
-123,Kotputli APMC,2026-11,0,0,,1,Wheat,Potentially market-wide source silence
-132,Sumerpur APMC,2026-11,3,2,Green Gram(Moong)(Whole); Mustard,1,Bengal Gram(Gram)(Whole),Commodity-specific source silence
+Market_Id,Market_Name,Month,Market_Raw_Rows_All_Commodities,Market_Active_Dates_All_Commodities,Active_Commodities,Pair_Months_Audited,Target_Commodities_Audited,Classification_Count,Classifications,Classification
+18,Beawar APMC,2026-11,2,2,Bajra(Pearl Millet/Cumbu),1,Wheat,1,Commodity-specific source silence,Commodity-specific source silence
+25,Bhilwara APMC,2026-09,124,26,Barley(Jau); Bengal Gram(Gram)(Whole); Black Gram(Urd Beans)(Whole); Green Gram(Moong)(Whole); Groundnut; Maize; Onion; Potato; Tomato; Wheat,1,Mustard,1,Commodity-specific source silence,Commodity-specific source silence
+25,Bhilwara APMC,2026-10,100,20,Barley(Jau); Black Gram(Urd Beans)(Whole); Groundnut; Maize; Onion; Potato; Tomato; Wheat,1,Mustard,1,Commodity-specific source silence,Commodity-specific source silence
+25,Bhilwara APMC,2026-11,13,3,Maize; Onion; Potato; Tomato; Wheat,1,Mustard,1,Commodity-specific source silence,Commodity-specific source silence
+40,Barisadri APMC,2026-11,4,1,Bengal Gram(Gram)(Whole); Groundnut; Maize; Wheat,1,Mustard,1,Commodity-specific source silence,Commodity-specific source silence
+45,Sardar Shahar APMC,2026-10,6,6,Groundnut,1,Mustard,1,Commodity-specific source silence,Commodity-specific source silence
+45,Sardar Shahar APMC,2026-11,1,1,Groundnut,1,Mustard,1,Commodity-specific source silence,Commodity-specific source silence
+62,Anupgarh APMC,2026-10,79,22,Bajra(Pearl Millet/Cumbu); Barley(Jau); Green Gram(Moong)(Whole); Mustard; Wheat,1,Bengal Gram(Gram)(Whole),1,Commodity-specific source silence,Commodity-specific source silence
+62,Anupgarh APMC,2026-11,4,1,Bajra(Pearl Millet/Cumbu); Green Gram(Moong)(Whole); Mustard; Wheat,1,Bengal Gram(Gram)(Whole),1,Commodity-specific source silence,Commodity-specific source silence
+70,Rawla APMC,2026-11,4,2,Green Gram(Moong)(Whole); Mustard,1,Wheat,1,Commodity-specific source silence,Commodity-specific source silence
+81,HanumangarhTown APMC,2026-11,10,2,Bajra(Pearl Millet/Cumbu); Green Gram(Moong)(Whole); Onion; Potato; Tomato,2,Mustard; Wheat,1,Commodity-specific source silence,Commodity-specific source silence
+82,Nohar APMC,2026-11,4,1,Bengal Gram(Gram)(Whole); Green Gram(Moong)(Whole); Groundnut; Mustard,1,Wheat,1,Commodity-specific source silence,Commodity-specific source silence
+98,Raniwara APMC,2026-10,26,25,Bajra(Pearl Millet/Cumbu); Groundnut,1,Mustard,1,Commodity-specific source silence,Commodity-specific source silence
+98,Raniwara APMC,2026-11,2,2,Groundnut,1,Mustard,1,Commodity-specific source silence,Commodity-specific source silence
+115,Osiyan Mathania APMC,2026-11,4,1,Cummin Seed(Jeera); Groundnut; Mustard; Wheat,1,Bajra(Pearl Millet/Cumbu),1,Commodity-specific source silence,Commodity-specific source silence
+123,Kotputli APMC,2026-07,0,0,,1,Wheat,1,Potentially market-wide source silence,Potentially market-wide source silence
+123,Kotputli APMC,2026-08,0,0,,1,Wheat,1,Potentially market-wide source silence,Potentially market-wide source silence
+123,Kotputli APMC,2026-09,0,0,,1,Wheat,1,Potentially market-wide source silence,Potentially market-wide source silence
+123,Kotputli APMC,2026-10,0,0,,1,Wheat,1,Potentially market-wide source silence,Potentially market-wide source silence
+123,Kotputli APMC,2026-11,0,0,,1,Wheat,1,Potentially market-wide source silence,Potentially market-wide source silence
+132,Sumerpur APMC,2026-11,3,2,Green Gram(Moong)(Whole); Mustard,1,Bengal Gram(Gram)(Whole),1,Commodity-specific source silence,Commodity-specific source silence
