@@ -182,6 +182,23 @@ Six analytical charts are generated using the project's chart-generation script.
 
 ![Trailing reporting silence](reports/figures/06_trailing_reporting_silence.png)
 
+## Power BI Dashboard
+
+The project includes an interactive Power BI dashboard for exploring Rajasthan mandi arrivals, modal prices, reporting patterns, and market-level performance.
+
+[Open the Rajasthan Mandi Intelligence Dashboard](reports/rajasthan_mandi_intelligence_dashboard.pbix)
+
+Open the `.pbix` file using Power BI Desktop.
+
+The dashboard contains four pages:
+
+1. **Executive Overview** - headline indicators and an overall view of mandi activity.
+2. **Reporting Patterns & Weekday Analysis** - reporting coverage and weekday-level patterns.
+3. **Commodity Price & Arrival Analysis** - commodity-level price and arrival comparisons.
+4. **Market Performance & Price Analysis** - market-level arrivals and price performance.
+
+The dashboard complements the project's static analytical visualisations and Markdown reports. Core dashboard KPIs have been independently checked against the processed fact table.
+
 ## Reports and Documentation
 
 Detailed analytical findings and supporting audits are available in the `reports/` directory.
@@ -290,12 +307,35 @@ The complete pipeline requires the source exports to be present locally.
 
 ## Future Improvements
 
-- Add an interactive dashboard for market-level exploration.
-- Extend price and arrivals analysis with appropriate weighted-price metrics.
-- Enrich market and commodity metadata using authoritative reference sources.
-- Investigate additional commodities and geographic coverage.
-- Add further independent raw-source ingestion and reconciliation tests.
-- Explore carefully validated forecasting and decision-support methods.
+The following items are proposed next steps. They are not claims about functionality already implemented.
+
+### 1. Analytical Validation and Reproducibility
+
+- Document a repeatable Power BI validation checklist covering default filters, slicers, KPI calculations, and consistency across report pages.
+- Expand automated tests for raw-data ingestion, schema changes, invalid records, dimension mapping, and reconciliation.
+- Document data refresh, reporting cut-off, and publication checks.
+- Continue distinguishing missing reports, zero arrivals, incomplete reporting periods, and source-level reporting silence.
+
+### 2. Deeper Market Intelligence
+
+- Extend weighted-price comparisons across commodities, markets, and time periods, with aggregation methods and units explicitly validated.
+- Investigate seasonal price and arrival patterns where reporting coverage supports meaningful comparisons.
+- Enrich market and commodity metadata using authoritative reference sources, retaining source provenance.
+- Expand commodity and geographic coverage when reliable and sufficiently complete data is available.
+
+### 3. Dashboard and Reporting Improvements
+
+- Improve dashboard usability, filtering, and explanations of analytical measures.
+- Make data cut-off dates, refresh information, and metric definitions easier to identify.
+- Introduce additional drill-downs where they answer a clearly defined analytical question.
+
+### 4. Forecasting and Decision Support
+
+- Explore forecasting only when data coverage and quality are sufficient for defensible analysis.
+- Compare forecasting approaches against simple baselines using chronological backtesting.
+- Investigate decision-support indicators with transparent assumptions, validation, and limitations.
+
+Future extensions should preserve source traceability and reproducibility, and clearly distinguish observed data from inferred explanations.
 
 ## Author
 
